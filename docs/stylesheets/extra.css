@@ -1,0 +1,61 @@
+:root {
+  --yellow: #FFCE32;
+  --yellow-dk: #E6B600;
+  --navy: #07152B;
+  --navy-2: #1E3050;
+}
+
+/* Header kuning, teks navy (ikut simpanemasfizikal.com) */
+[data-md-color-scheme="default"] {
+  --md-primary-fg-color: var(--yellow);
+  --md-primary-fg-color--dark: var(--yellow-dk);
+  --md-primary-bg-color: var(--navy);
+  --md-primary-bg-color--light: var(--navy-2);
+  --md-accent-fg-color: #047857;
+  --md-typeset-a-color: #047857;
+}
+[data-md-color-scheme="slate"] {
+  --md-primary-fg-color: var(--navy);
+  --md-primary-fg-color--dark: #040d1a;
+  --md-primary-bg-color: var(--yellow);
+  --md-accent-fg-color: var(--yellow);
+  --md-typeset-a-color: var(--yellow);
+}
+
+.md-header { border-bottom: 3px solid var(--yellow-dk); }
+
+.md-typeset h1,
+.md-typeset h2 {
+  font-family: "Playfair Display", serif;
+  font-weight: 800;
+  color: inherit;
+}
+
+/* Kad bio dealer */
+.abio {
+  border: 1.5px solid #E9E3FB;
+  border-radius: 16px;
+  padding: 1.25rem;
+  margin: 2.5rem 0 1.5rem;
+}
+.abio h4 { margin: 0 0 .15rem; }
+.abio .role {
+  font-size: .68rem;
+  font-weight: 800;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  opacity: .7;
+}
+
+/* Kotak CTA */
+.cta {
+  background: var(--yellow);
+  color: var(--navy);
+  border-radius: 20px;
+  padding: 2rem 1.5rem;
+  text-align: center;
+  margin: 2rem 0;
+}
+.cta h3 { margin-top: 0; color: var(--navy); font-family: "Playfair Display", serif; }
+.cta .md-button { background: var(--navy); color: var(--yellow); border-color: var(--navy); }
+.cta .md-button--secondary { background: #fff; color: var(--navy); }
