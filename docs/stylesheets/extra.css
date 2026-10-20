@@ -348,7 +348,7 @@ body { font-feature-settings: "ss01"; }
 .md-typeset .abio-pic {
   align-self: end;
   padding-right: .6rem;
-  background: radial-gradient(circle at 50% 70%, var(--gold-tint), transparent 70%);
+  background: radial-gradient(closest-side at 50% 62%, var(--gold-tint), transparent);
 }
 .md-typeset .abio-pic p { margin: 0; }
 .md-typeset .abio-pic img { display: block; width: 100%; height: auto; border-radius: 0; }
@@ -379,7 +379,7 @@ body { font-feature-settings: "ss01"; }
 }
 [data-md-color-scheme="slate"] .md-typeset .abio { background: #221A16; border-color: #3A2E26; border-top-color: var(--gold); }
 [data-md-color-scheme="slate"] .md-typeset .abio h4 { color: var(--gold-lt); }
-[data-md-color-scheme="slate"] .md-typeset .abio-pic { background: radial-gradient(circle at 50% 70%, rgba(201, 154, 46, .22), transparent 70%); }
+[data-md-color-scheme="slate"] .md-typeset .abio-pic { background: radial-gradient(closest-side at 50% 62%, rgba(201, 154, 46, .22), transparent); }
 
 /* Tajuk header boleh diklik, pergi ke home */
 .md-header__topic:first-child { cursor: pointer; }
@@ -397,11 +397,11 @@ body { font-feature-settings: "ss01"; }
 .md-typeset .hero-text > p:first-child { margin-top: 0; }
 .md-typeset .hero h1 { font-size: clamp(1.8rem, 4.6vw, 2.7rem); }
 .md-typeset .hero-pic {
-  background: radial-gradient(circle at 50% 68%, var(--gold-tint), transparent 70%);
+  background: radial-gradient(closest-side at 50% 62%, var(--gold-tint), transparent);
 }
 .md-typeset .hero-pic p { margin: 0; }
 .md-typeset .hero-pic img { display: block; width: 100%; height: auto; border-radius: 0; }
-[data-md-color-scheme="slate"] .md-typeset .hero-pic { background: radial-gradient(circle at 50% 68%, rgba(201, 154, 46, .22), transparent 70%); }
+[data-md-color-scheme="slate"] .md-typeset .hero-pic { background: radial-gradient(closest-side at 50% 62%, rgba(201, 154, 46, .22), transparent); }
 .md-typeset .trust { display: flex; flex-wrap: wrap; gap: .35rem .5rem; margin: .2rem 0 1rem; }
 .md-typeset .trust span {
   background: var(--gold-tint);
@@ -448,3 +448,47 @@ body { font-feature-settings: "ss01"; }
   border-radius: 999px;
 }
 .md-top:hover { background: var(--maroon-2); color: #fff; }
+
+/* Pil dealer di bawah kad WhatsApp */
+.md-typeset .pg-pill {
+  display: inline-block;
+  background: var(--navy);
+  color: #F3DC8A;
+  font-size: .66rem;
+  font-weight: 800;
+  letter-spacing: .06em;
+  text-transform: uppercase;
+  padding: .45rem 1rem;
+  border-radius: 999px;
+  margin: 0 0 1.2rem;
+}
+.md-typeset .hero-text .md-button { margin: .25rem .4rem .25rem 0; }
+.md-typeset .hero-text .wa-card { margin-top: 0; }
+
+/* Efek "blink" WhatsApp: ripple hijau yang halus */
+.wa-float::before,
+.wa-card .wa-ico::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: var(--wa);
+  opacity: .5;
+  z-index: -1;
+  animation: wa-ripple 2.2s ease-out infinite;
+}
+.wa-card .wa-ico { position: relative; isolation: isolate; }
+.md-header__button.wa-head svg { animation: wa-beat 2.2s ease-in-out infinite; }
+@keyframes wa-ripple {
+  0% { transform: scale(1); opacity: .55; }
+  70%, 100% { transform: scale(1.75); opacity: 0; }
+}
+@keyframes wa-beat {
+  0%, 60%, 100% { transform: scale(1); }
+  30% { transform: scale(1.18); }
+}
+@media (prefers-reduced-motion: reduce) {
+  .wa-float::before,
+  .wa-card .wa-ico::before,
+  .md-header__button.wa-head svg { animation: none; }
+}
