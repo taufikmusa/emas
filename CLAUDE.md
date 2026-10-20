@@ -24,3 +24,6 @@ Website content emas oleh Taufik Bin Musa (Dealer Public Gold, PG00359605). Pemi
 
 ## Reka bentuk
 Palet krim, maroon, emas (rujuk `docs/stylesheets/extra.css`), tajuk Playfair Display. Banner navy atas, icon WhatsApp dalam header, butang floating, dan efek ripple.
+
+## Galeri emas di laman utama
+Carousel di hujung `docs/index.md` (sebelum footer). Gambar dalam `docs/assets/galeri/gNN.webp` (1000x818, crop 11:9, bawah 110 KB). Tambah slide dengan satu `<figure class="gallery-slide">` lagi dalam `.gallery-track`; JS `docs/javascripts/carousel.js` bina dots sendiri.
