@@ -1,17 +1,16 @@
 ---
-title: "Cara Daftar Public Gold GAP: Step by Step untuk Orang Baru (2026)"
-description: Nak mula simpan emas tapi ingat proses daftar leceh? Ini cara daftar Public Gold GAP step by step untuk orang baru, 100% online dan selamat.
+title: "Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)"
+description: Nak mula simpan emas tapi ingat proses daftar leceh? Ini 5 langkah daftar dan beli emas pertama di Public Gold, 100% online dan selamat.
+image: assets/og.jpg
 ---
 
-# Cara Daftar Public Gold GAP: Step by Step untuk Orang Baru (2026)
+# Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)
 
 *(Langkah #4 Paling Penting Untuk Elak Anda Kena Scam)*
 
-**Taufik Bin Musa** · 4 Julai 2026 · 4 min baca
+**Taufik Bin Musa** · Dikemas kini 20 Oktober 2026 · 4 min baca
 
-<!-- Gambar utama: letak fail dalam docs/assets/ lepas tu aktifkan baris bawah
-![Cara daftar Public Gold GAP](../assets/cara-daftar-public-gold-gap-2026.webp)
--->
+![5 langkah mula simpan emas di Public Gold](../assets/5-langkah-cover.webp){ .step-img width="900" height="1125" }
 
 Ramai yang nak mula simpan emas tapi asyik bertangguh sebab satu benda.
 
@@ -19,50 +18,66 @@ Bukan sebab tak ada bajet, tapi sebab ingat proses nak daftar tu leceh dan rumit
 
 Kena pergi cawangan ke? Kena bawa dokumen tebal-tebal ke?
 
-Sebenarnya, anda boleh buka akaun emas sambil duduk berehat di rumah sahaja.
+Sebenarnya, anda boleh buka akaun emas sambil duduk berehat di rumah sahaja. Ikut 5 langkah ni.
 
-## ✅ Langkah #1: Sediakan modal serendah RM100
+## ✅ Langkah #1: Daftar akaun percuma di Public Gold
 
-Tak perlu tunggu ada beribu ringgit untuk beli seketul jongkong emas.
+Akaun Emas GAP (Gold Accumulation Program) dicipta untuk orang awam mula sikit-sikit. Pendaftaran akaun percuma.
 
-Akaun Emas GAP (Gold Accumulation Program) dicipta untuk orang awam mula sikit-sikit.
+Anda hanya perlukan maklumat ringkas seperti buka akaun beli-belah online biasa: nama penuh, nombor kad pengenalan, emel, dan nombor telefon. Untuk akaun Junior (anak bawah 18 tahun), perlukan nombor MyKid atau surat beranak anak.
+
+Semasa mendaftar, pastikan **PGCode Introducer** diisi dengan **PG00359605 (Taufik)**. Dengan itu, anda ada orang rujukan untuk bantuan teknikal dan nasihat, percuma.
+
+![Langkah 1: daftar akaun percuma di Public Gold](../assets/langkah-1-daftar.webp){ .step-img width="900" height="1125" loading="lazy" }
+
+[Daftar Akaun Percuma →](https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1){ .md-button .md-button--primary target="_blank" }
+
+## ✅ Langkah #2: Install aplikasi Public Gold
+
+Download aplikasi rasmi Public Gold di telefon pintar anda. Cari "Public Gold" di **App Store** (iPhone) atau **Google Play** (Android).
+
+![Langkah 2: install aplikasi Public Gold](../assets/langkah-2-install.webp){ .step-img width="900" height="1125" loading="lazy" }
+
+## ✅ Langkah #3: Login dan sahkan akaun
+
+Buka aplikasi dan login guna **nombor kad pengenalan anda (tanpa dash)** sebagai username dan password sementara.
+
+Contoh: `900101141234` (tanpa dash).
+
+![Langkah 3: login dan sahkan akaun](../assets/langkah-3-login.webp){ .step-img width="900" height="1125" loading="lazy" }
+
+## ✅ Langkah #4: Belian pertama dan aktifkan akaun
+
+Klik **Top Up** dalam aplikasi untuk buat belian pertama melalui online banking (FPX). Mula serendah **RM100** atau 1 gram, ikut harga emas semasa.
 
 Dengan RM100, anda dah sah bergelar penyimpan emas fizikal.
 
-## ✅ Langkah #2: Cari dealer yang aktif dan bertauliah
-
-Anda boleh daftar sendiri di website, tapi anda mungkin akan rasa keliru nanti.
-
-Bila tiada dealer, anda tak ada orang rujukan bila perlukan bantuan teknikal atau nasihat.
-
-Pilih dealer yang aktif supaya anda dapat bimbingan berterusan secara percuma.
-
-## ✅ Langkah #3: Sediakan butiran pendaftaran asas
-
-Hanya perlukan maklumat ringkas seperti buka akaun beli-belah online biasa.
-
-Nama penuh, nombor kad pengenalan, emel, dan nombor telefon.
-
-Untuk akaun Junior (anak bawah 18 tahun), perlukan nombor MyKid atau surat beranak anak.
-
-## ✅ Langkah #4: Buat bayaran terus kepada syarikat Public Gold
-
-Ini peraturan paling penting dalam dunia kewangan untuk elakkan wang anda lebur.
-
 !!! warning "Penting"
-    Jangan sesekali transfer duit kepada akaun peribadi dealer atau pihak ketiga. Bayaran pendaftaran mesti dibuat terus ke Public Gold.
+    Buat bayaran melalui aplikasi atau website rasmi Public Gold sahaja. Jangan sesekali transfer duit kepada akaun peribadi dealer atau pihak ketiga. Bayaran mesti dibuat terus ke Public Gold.
 
-## ✅ Langkah #5: Terima PG Code dan log masuk sistem
+![Langkah 4: belian pertama dan aktifkan akaun](../assets/langkah-4-belian-pertama.webp){ .step-img width="900" height="1125" loading="lazy" }
 
-Selepas pendaftaran dan bayaran berjaya, anda akan terima satu ID unik dipanggil PG Code.
+## ✅ Langkah #5: Capai matlamat dengan simpanan emas
 
-Ini ibarat nombor akaun emas rasmi anda.
+Gram emas anda bertambah setiap kali buat belian. Dalam aplikasi Public Gold, anda juga boleh jual balik emas, tebus emas fizikal, atau gadai emas secara online.
 
-Anda dah boleh terus muat turun aplikasi Public Gold, log masuk, dan mula pantau gram anda!
+![Langkah 5: capai matlamat dengan simpanan emas](../assets/langkah-5-matlamat.webp){ .step-img width="900" height="1200" loading="lazy" }
 
 Semudah itu sahaja prosesnya. Semuanya 100% online, selamat dan patuh syariah.
 
 Dari asyik tengok harga emas mencanak naik, lebih baik kunci gram pertama anda hari ini.
+
+## Kenapa daftar dengan dealer?
+
+Dealer berperanan sebagai "hotline" untuk membantu penyimpan emas.
+
+- Boleh contact introducer masing-masing 24 jam sehari, 7 hari seminggu.
+- Tak perlu call Public Gold.
+- Tak perlu pun datang ke branch Public Gold.
+
+![Kenapa daftar dengan dealer](../assets/kenapa-dealer.webp){ .step-img width="900" height="1104" loading="lazy" }
+
+Follow [@taufik.pg](https://www.threads.com/@taufik.pg){ target="_blank" } untuk tip emas terkini.
 
 !!! question "Anda dah bersedia nak mulakan RM100 pertama untuk diri sendiri atau anak-anak?"
 

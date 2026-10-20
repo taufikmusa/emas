@@ -59,3 +59,8 @@
 .cta h3 { margin-top: 0; color: var(--navy); font-family: "Playfair Display", serif; }
 .cta .md-button { background: var(--navy); color: var(--yellow); border-color: var(--navy); }
 .cta .md-button--secondary { background: #fff; color: var(--navy); }
+
+/* Gambar artikel */
+.md-typeset img { border-radius: 14px; }
+.md-typeset .step-img { margin: 1rem 0 1.25rem; box-shadow: 0 4px 24px rgba(7, 21, 43, .12); }
+.md-typeset .abio img { border-radius: 0; }

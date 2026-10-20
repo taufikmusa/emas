@@ -8,6 +8,8 @@ hide:
 
 # Simpan Emas Fizikal, Mula Dari RM100
 
+![5 langkah mula simpan emas di Public Gold](assets/5-langkah-cover.webp){ width="420" }
+
 Panduan ringkas, step by step, untuk anda yang baru nak mula simpan emas. Semua urusan terus dengan Public Gold, 100% online.
 
 [Mula: Cara Daftar GAP](artikel/cara-daftar-public-gold-gap-2026.md){ .md-button .md-button--primary }
