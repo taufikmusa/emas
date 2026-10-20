@@ -1,16 +1,15 @@
-site_name: Emas by Taufik
+site_name: Emas · By Taufik
 site_url: https://emas.taufik.fyi/
 site_description: Panduan simpan emas fizikal untuk orang baru, step by step, daripada Taufik Bin Musa (Dealer Public Gold).
 site_author: Taufik Bin Musa
-repo_url: https://github.com/taufikmusa/emas
-edit_uri: edit/main/docs/
 copyright: Penafian, website ini dimiliki oleh Taufik, PGCode PG00359605 (Dealer Public Gold), dan bukan website rasmi Public Gold Marketing Sdn. Bhd.
 
 theme:
   name: material
   custom_dir: overrides
-  favicon: assets/favicon.svg
   language: ms
+  logo: assets/favicon.svg
+  favicon: assets/favicon.svg
   font:
     text: Inter
     code: Roboto Mono
@@ -33,12 +32,13 @@ theme:
     - navigation.sections
     - toc.follow
     - search.suggest
-    - content.action.edit
-  icon:
-    repo: fontawesome/brands/github
 
 extra_css:
+  - https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&display=swap
   - stylesheets/extra.css
+
+extra_javascript:
+  - javascripts/whatsapp.js
 
 markdown_extensions:
   - admonition
@@ -58,12 +58,14 @@ plugins:
       lang: ms
 
 extra:
+  generator: false
+  whatsapp_url: https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0
   analytics:
     provider: google
     property: G-QML87QNZMR
   social:
     - icon: fontawesome/brands/whatsapp
-      link: https://wa.me/60132740711
+      link: https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0
       name: WhatsApp Taufik
     - icon: material/web
       link: https://pg2u.my/taufikmusa
@@ -73,3 +75,5 @@ nav:
   - Utama: index.md
   - Daftar & Mula:
       - Cara Daftar Public Gold GAP: artikel/cara-daftar-public-gold-gap-2026.md
+  - PG Jewel:
+      - Cara Miliki Barang Kemas Melalui Akaun GAP: artikel/cara-miliki-barang-kemas-pg-jewel-akaun-gap.md
