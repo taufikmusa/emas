@@ -1,66 +1,395 @@
+/* Palet ikut slide: krim, maroon, emas. Banner navy ikut website tutorial. */
 :root {
-  --yellow: #FFCE32;
-  --yellow-dk: #E6B600;
-  --navy: #07152B;
-  --navy-2: #1E3050;
+  --cream: #F8F4EB;
+  --cream-2: #FFFDF8;
+  --ink: #1B1410;
+  --maroon: #7A0C1C;
+  --maroon-2: #B5121F;
+  --gold: #C99A2E;
+  --gold-lt: #F0CF6A;
+  --gold-dk: #8C5A0F;
+  --gold-pale: #E6D6A8;
+  --gold-tint: #FBEFC8;
+  --navy: #13233F;
+  --wa: #25D366;
+  --serif: "Playfair Display", Georgia, serif;
 }
 
-/* Header kuning, teks navy (ikut simpanemasfizikal.com) */
 [data-md-color-scheme="default"] {
-  --md-primary-fg-color: var(--yellow);
-  --md-primary-fg-color--dark: var(--yellow-dk);
-  --md-primary-bg-color: var(--navy);
-  --md-primary-bg-color--light: var(--navy-2);
-  --md-accent-fg-color: #047857;
-  --md-typeset-a-color: #047857;
+  --md-default-bg-color: var(--cream);
+  --md-default-fg-color: var(--ink);
+  --md-default-fg-color--light: #5C4F43;
+  --md-default-fg-color--lighter: #8A7C6C;
+  --md-default-fg-color--lightest: var(--gold-pale);
+  --md-typeset-color: #2A2017;
+  --md-primary-fg-color: var(--cream-2);
+  --md-primary-fg-color--dark: var(--cream);
+  --md-primary-bg-color: var(--ink);
+  --md-primary-bg-color--light: #5C4F43;
+  --md-accent-fg-color: var(--maroon-2);
+  --md-typeset-a-color: var(--maroon);
+  --md-footer-bg-color: var(--navy);
+  --md-footer-bg-color--dark: #0D1829;
+  --md-footer-fg-color: #F8F4EB;
+  --md-footer-fg-color--light: #D7CDB8;
+  --md-footer-fg-color--lighter: #B8AC95;
 }
+
 [data-md-color-scheme="slate"] {
-  --md-primary-fg-color: var(--navy);
-  --md-primary-fg-color--dark: #040d1a;
-  --md-primary-bg-color: var(--yellow);
-  --md-accent-fg-color: var(--yellow);
-  --md-typeset-a-color: var(--yellow);
+  --md-default-bg-color: #15100D;
+  --md-default-fg-color: #F2E8D5;
+  --md-default-fg-color--light: #CFC2A8;
+  --md-default-fg-color--lighter: #9C8F78;
+  --md-default-fg-color--lightest: #3A2E26;
+  --md-typeset-color: #EADFC9;
+  --md-primary-fg-color: #1D1612;
+  --md-primary-fg-color--dark: #15100D;
+  --md-primary-bg-color: #F2E8D5;
+  --md-primary-bg-color--light: #CFC2A8;
+  --md-accent-fg-color: var(--gold-lt);
+  --md-typeset-a-color: var(--gold-lt);
+  --md-footer-bg-color: #0D1829;
+  --md-footer-bg-color--dark: #08101D;
 }
 
-.md-header { border-bottom: 3px solid var(--yellow-dk); }
+body { font-feature-settings: "ss01"; }
 
+/* Banner atas */
+.md-banner {
+  background: var(--navy);
+  color: #F8F4EB;
+}
+.md-banner__inner {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
+  gap: .3rem .9rem;
+  font-size: .72rem;
+  margin: .55rem auto;
+  text-align: center;
+}
+.md-banner .banner-wa {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  color: #E9C964;
+  font-weight: 700;
+}
+.md-banner .banner-wa:hover { color: #fff; }
+.md-banner .wa-ico svg { width: 1.05rem; height: 1.05rem; color: var(--wa); display: block; }
+
+/* Header */
+.md-header {
+  box-shadow: none;
+  border-bottom: 2px solid var(--gold);
+  background: var(--md-primary-fg-color);
+}
+.md-header__title { font-family: var(--serif); font-weight: 700; }
+.md-header__button.md-logo img { height: 1.6rem; width: auto; }
+.md-header__button.wa-head { color: var(--wa); }
+.md-header__button.wa-head svg { width: 1.55rem; height: 1.55rem; }
+.md-header__button.wa-head:hover { opacity: .8; }
+
+/* Tab dan menu */
+.md-nav__item .md-nav__link--active,
+.md-nav__link:is(:focus, :hover) { color: var(--maroon-2); }
+[data-md-color-scheme="slate"] .md-nav__item .md-nav__link--active,
+[data-md-color-scheme="slate"] .md-nav__link:is(:focus, :hover) { color: var(--gold-lt); }
+.md-nav--primary > .md-nav__list > .md-nav__item > .md-nav__link,
+.md-sidebar .md-nav__title { font-family: var(--serif); font-weight: 700; }
+
+/* Tajuk */
 .md-typeset h1,
-.md-typeset h2 {
-  font-family: "Playfair Display", serif;
-  font-weight: 800;
-  color: inherit;
+.md-typeset h2,
+.md-typeset h3 {
+  font-family: var(--serif);
+  color: var(--maroon);
+  letter-spacing: -.01em;
 }
+.md-typeset h1 {
+  font-weight: 800;
+  line-height: 1.15;
+  margin: .4rem 0 1.2rem;
+}
+.md-typeset h1::after {
+  content: "";
+  display: block;
+  width: 88px;
+  height: 3px;
+  margin-top: .8rem;
+  border-radius: 2px;
+  background: linear-gradient(90deg, var(--gold-lt), var(--gold-dk));
+}
+.md-typeset h2 { font-weight: 700; margin-top: 2.4rem; }
+[data-md-color-scheme="slate"] .md-typeset h1,
+[data-md-color-scheme="slate"] .md-typeset h2,
+[data-md-color-scheme="slate"] .md-typeset h3 { color: var(--gold-lt); }
+
+.md-typeset .gold {
+  background: linear-gradient(90deg, #D9B24C, var(--gold-dk));
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+}
+.md-typeset .cat-badge {
+  display: inline-block;
+  background: linear-gradient(180deg, var(--gold-lt), var(--gold));
+  color: #3A2305;
+  font-size: .62rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  padding: .3rem .85rem;
+  border-radius: 999px;
+}
+.md-typeset .lead { font-style: italic; color: var(--md-default-fg-color--light); font-size: 1.02rem; }
+.md-typeset .byline {
+  font-size: .8rem;
+  color: var(--md-default-fg-color--light);
+  padding-bottom: 1rem;
+  border-bottom: 1px solid var(--gold-pale);
+  margin-bottom: 1.4rem;
+}
+
+/* Gambar slide */
+.md-typeset img { border-radius: 14px; }
+.md-typeset .step-img {
+  display: block;
+  margin: 1.1rem auto 1.4rem;
+  border: 1px solid var(--gold-pale);
+  box-shadow: 0 10px 30px rgba(122, 12, 28, .12);
+}
+.md-typeset .abio img,
+.md-typeset .md-logo img { border-radius: 0; }
+
+/* Butang */
+.md-typeset .md-button {
+  border-radius: 999px;
+  font-weight: 700;
+  padding: .6em 1.5em;
+  color: var(--maroon);
+  border: 2px solid var(--maroon);
+  background: transparent;
+  transition: transform .15s, box-shadow .15s;
+}
+.md-typeset .md-button:hover {
+  transform: translateY(-1px);
+  background: var(--maroon);
+  border-color: var(--maroon);
+  color: #fff;
+}
+.md-typeset .md-button--primary {
+  background: linear-gradient(180deg, var(--maroon-2), var(--maroon));
+  border-color: var(--maroon);
+  color: #fff;
+  box-shadow: 0 8px 18px rgba(122, 12, 28, .28);
+}
+.md-typeset .md-button--primary:hover { background: var(--maroon-2); border-color: var(--maroon-2); }
+.md-typeset .btn-gold {
+  background: linear-gradient(180deg, var(--gold-lt), var(--gold));
+  border-color: #B58722;
+  color: #3A2305;
+}
+.md-typeset .btn-gold:hover { background: var(--gold-lt); border-color: #B58722; color: #3A2305; }
+.md-typeset .btn-wa { background: var(--wa); border-color: #1EB957; color: #fff; }
+.md-typeset .btn-wa:hover { background: #1EB957; border-color: #1EB957; color: #fff; }
+
+/* Kad WhatsApp (laman utama) */
+.wa-card {
+  display: inline-flex;
+  align-items: center;
+  gap: .9rem;
+  background: var(--cream-2);
+  border: 2px solid var(--navy);
+  border-radius: 18px;
+  box-shadow: 5px 5px 0 var(--navy);
+  padding: .8rem 1.1rem;
+  margin: .4rem 0 1.4rem;
+  color: var(--navy) !important;
+  text-decoration: none;
+  transition: transform .15s;
+}
+.wa-card:hover { transform: translate(-1px, -1px); }
+.wa-card .wa-ico {
+  width: 3.1rem;
+  height: 3.1rem;
+  flex: none;
+  border-radius: 50%;
+  background: var(--wa);
+  color: #fff;
+  display: grid;
+  place-items: center;
+  box-shadow: 0 0 0 5px rgba(37, 211, 102, .18);
+}
+.wa-card .wa-ico svg { width: 1.7rem; height: 1.7rem; }
+.wa-card .wa-label {
+  display: inline-block;
+  background: var(--gold-pale);
+  color: #8A6410;
+  font-size: .58rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  padding: .12rem .5rem;
+  border-radius: 6px;
+}
+.wa-card strong { display: block; font-size: 1.35rem; line-height: 1.25; }
+.wa-card small { display: block; font-size: .68rem; color: #5C4F43; }
+[data-md-color-scheme="slate"] .wa-card { background: #221A16; border-color: var(--gold); box-shadow: 5px 5px 0 var(--gold); color: #F2E8D5 !important; }
+[data-md-color-scheme="slate"] .wa-card small { color: #CFC2A8; }
+
+/* Kad artikel */
+.md-typeset .grid.cards > ul > li,
+.md-typeset .grid > .card {
+  background: var(--cream-2);
+  border: 1px solid var(--gold-pale);
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(122, 12, 28, .07);
+  transition: transform .15s, box-shadow .15s;
+}
+.md-typeset .grid.cards > ul > li:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 14px 30px rgba(122, 12, 28, .14);
+  border-color: var(--gold);
+}
+.md-typeset .grid.cards img { aspect-ratio: 1200 / 630; object-fit: cover; width: 100%; border-radius: 12px; }
+[data-md-color-scheme="slate"] .md-typeset .grid.cards > ul > li { background: #221A16; border-color: #3A2E26; }
+
+/* Admonition */
+.md-typeset .admonition,
+.md-typeset details { border-radius: 14px; border-width: 1.5px; box-shadow: none; }
+.md-typeset .admonition.warning { border-color: var(--maroon-2); background: rgba(181, 18, 31, .05); }
+.md-typeset .warning > .admonition-title { background: rgba(181, 18, 31, .1); }
+.md-typeset .warning > .admonition-title::before { background-color: var(--maroon-2); }
+.md-typeset .admonition.question,
+.md-typeset .admonition.note { border-color: var(--gold); background: rgba(201, 154, 46, .08); }
+.md-typeset .question > .admonition-title,
+.md-typeset .note > .admonition-title { background: rgba(201, 154, 46, .16); }
+.md-typeset .question > .admonition-title::before,
+.md-typeset .note > .admonition-title::before { background-color: var(--gold-dk); }
+
+/* Jadual kiraan */
+.md-typeset table:not([class]) {
+  border: 1px solid var(--gold-pale);
+  border-radius: 16px;
+  overflow: hidden;
+  background: var(--cream-2);
+  box-shadow: 0 8px 22px rgba(122, 12, 28, .08);
+  font-size: .82rem;
+}
+.md-typeset table:not([class]) th {
+  background: linear-gradient(180deg, var(--maroon-2), var(--maroon));
+  color: #F7E7B4;
+  font-weight: 700;
+  letter-spacing: .04em;
+  text-transform: uppercase;
+  font-size: .7rem;
+}
+.md-typeset table:not([class]) td { border-top: 1px solid var(--gold-pale); }
+.md-typeset table:not([class]) tbody tr:last-child td {
+  background: var(--gold-tint);
+  color: var(--maroon);
+  font-size: .95rem;
+}
+.md-typeset table:not([class]) td:last-child,
+.md-typeset table:not([class]) th:last-child { text-align: right; white-space: nowrap; }
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) { background: #221A16; border-color: #3A2E26; }
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) tbody tr:last-child td { background: #3A2E26; color: var(--gold-lt); }
+
+/* Formula */
+.md-typeset .formula {
+  text-align: center;
+  background: var(--cream-2);
+  border: 1.5px solid var(--gold);
+  border-radius: 16px;
+  padding: 1rem 1.2rem;
+  margin: 1.2rem 0;
+  font-family: var(--serif);
+  font-weight: 700;
+  font-size: 1.05rem;
+  color: var(--maroon);
+  box-shadow: inset 0 0 0 4px var(--gold-tint);
+}
+[data-md-color-scheme="slate"] .md-typeset .formula { background: #221A16; color: var(--gold-lt); box-shadow: none; }
+
+/* CTA */
+.md-typeset .cta {
+  background:
+    radial-gradient(circle at 85% 0%, rgba(240, 207, 106, .25), transparent 45%),
+    linear-gradient(160deg, var(--maroon-2), var(--maroon) 70%);
+  color: #FBF3DF;
+  border: 1.5px solid var(--gold);
+  border-radius: 22px;
+  padding: 2.2rem 1.4rem;
+  text-align: center;
+  margin: 2.2rem 0;
+  box-shadow: 0 16px 36px rgba(122, 12, 28, .25);
+}
+.md-typeset .cta h3 { margin: 0 0 .5rem; color: var(--gold-lt); }
+.md-typeset .cta p { margin: 0 0 1.2rem; }
+.md-typeset .cta .md-button { margin: .2rem; }
+.md-typeset .cta .md-button.btn-gold { color: #3A2305; }
 
 /* Kad bio dealer */
-.abio {
-  border: 1.5px solid #E9E3FB;
-  border-radius: 16px;
-  padding: 1.25rem;
-  margin: 2.5rem 0 1.5rem;
+.md-typeset .abio {
+  background: var(--cream-2);
+  border: 1px solid var(--gold-pale);
+  border-top: 4px solid var(--gold);
+  border-radius: 18px;
+  padding: 1.3rem 1.4rem 1.2rem;
+  margin: 2.4rem 0 1.5rem;
+  box-shadow: 0 8px 22px rgba(122, 12, 28, .07);
 }
-.abio h4 { margin: 0 0 .15rem; }
-.abio .role {
-  font-size: .68rem;
+.md-typeset .abio h4 { margin: 0 0 .1rem; font-family: var(--serif); color: var(--maroon); font-size: 1.1rem; }
+.md-typeset .abio .role {
+  font-size: .64rem;
   font-weight: 800;
   letter-spacing: .06em;
   text-transform: uppercase;
-  opacity: .7;
+  color: var(--gold-dk);
 }
-
-/* Kotak CTA */
-.cta {
-  background: var(--yellow);
-  color: var(--navy);
-  border-radius: 20px;
-  padding: 2rem 1.5rem;
-  text-align: center;
-  margin: 2rem 0;
+.md-typeset .abio code {
+  background: var(--gold-tint);
+  color: var(--maroon);
+  border: 1px solid var(--gold-pale);
+  border-radius: 999px;
+  padding: .15rem .7rem;
+  font-size: .68rem;
+  font-weight: 700;
+  font-family: inherit;
+  margin-right: .15rem;
+  white-space: nowrap;
 }
-.cta h3 { margin-top: 0; color: var(--navy); font-family: "Playfair Display", serif; }
-.cta .md-button { background: var(--navy); color: var(--yellow); border-color: var(--navy); }
-.cta .md-button--secondary { background: #fff; color: var(--navy); }
+[data-md-color-scheme="slate"] .md-typeset .abio { background: #221A16; border-color: #3A2E26; border-top-color: var(--gold); }
+[data-md-color-scheme="slate"] .md-typeset .abio h4 { color: var(--gold-lt); }
 
-/* Gambar artikel */
-.md-typeset img { border-radius: 14px; }
-.md-typeset .step-img { margin: 1rem 0 1.25rem; box-shadow: 0 4px 24px rgba(7, 21, 43, .12); }
-.md-typeset .abio img { border-radius: 0; }
+/* Hero laman utama */
+.md-typeset .hero { padding: .5rem 0 0; }
+.md-typeset .hero h1 { font-size: clamp(1.9rem, 5vw, 2.8rem); }
+
+/* Floating WhatsApp */
+.wa-float {
+  position: fixed;
+  right: 18px;
+  bottom: 18px;
+  width: 58px;
+  height: 58px;
+  border-radius: 50%;
+  background: var(--wa);
+  color: #fff;
+  display: grid;
+  place-items: center;
+  box-shadow: 0 6px 18px rgba(0, 0, 0, .3);
+  z-index: 99;
+  transition: transform .18s, box-shadow .18s;
+}
+.wa-float:hover { transform: scale(1.08); color: #fff; box-shadow: 0 8px 24px rgba(0, 0, 0, .36); }
+.wa-float svg { width: 32px; height: 32px; }
+@media (max-width: 600px) {
+  .wa-float { width: 52px; height: 52px; right: 14px; bottom: 14px; }
+  .wa-float svg { width: 29px; height: 29px; }
+}
+/* Butang "ke atas" Material jangan bertindih dengan floating WhatsApp */
+.md-top { bottom: 88px; }

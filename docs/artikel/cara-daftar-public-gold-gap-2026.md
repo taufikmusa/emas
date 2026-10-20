@@ -4,11 +4,15 @@ description: Nak mula simpan emas tapi ingat proses daftar leceh? Ini 5 langkah 
 image: assets/og.jpg
 ---
 
+<span class="cat-badge">Asas</span>
+
 # Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)
 
 *(Langkah #4 Paling Penting Untuk Elak Anda Kena Scam)*
+{: .lead }
 
 **Taufik Bin Musa** · Dikemas kini 20 Oktober 2026 · 4 min baca
+{: .byline }
 
 ![5 langkah mula simpan emas di Public Gold](../assets/5-langkah-cover.webp){ .step-img width="900" height="1125" }
 
@@ -87,8 +91,8 @@ Follow [@taufik.pg](https://www.threads.com/@taufik.pg){ target="_blank" } untuk
 
 Klik "WhatsApp" di bawah. Saya bantu anda mulakan langkah pertama.
 
-[Daftar Percuma →](https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1){ .md-button target="_blank" }
-[💬 WhatsApp Taufik](https://wa.me/60132740711?text=Salam%2C%20boleh%20bantu%20saya%20simpan%20emas%20di%20Public%20Gold){ .md-button .md-button--secondary target="_blank" }
+[Daftar Percuma →](https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1){ .md-button .btn-gold target="_blank" }
+[💬 WhatsApp Taufik](https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0){ .md-button .btn-wa target="_blank" }
 
 </div>
 
