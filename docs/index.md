@@ -42,6 +42,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 sebab cikgu golongan paling sesuai simpan emas](assets/og-cikgu.jpg){ loading=lazy }](artikel/5-sebab-cikgu-golongan-paling-sesuai-simpan-emas.md)
+
+    <span class="cat-badge">Untuk Cikgu</span>
+
+    **[5 Sebab Cikgu Golongan Paling Sesuai Simpan Emas](artikel/5-sebab-cikgu-golongan-paling-sesuai-simpan-emas.md)**
+
+    Gaji tetap, pencen tidak kebal inflasi, dan cuti sekolah panjang. Kenapa cikgu mudah berjaya simpan emas.
+
 - [![Cara miliki barang kemas di PG Jewel melalui Akaun GAP](assets/og-pg-jewel.jpg){ loading=lazy }](artikel/cara-miliki-barang-kemas-pg-jewel-akaun-gap.md)
 
     <span class="cat-badge">PG Jewel</span>

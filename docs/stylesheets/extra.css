@@ -492,3 +492,19 @@ body { font-feature-settings: "ss01"; }
   .wa-card .wa-ico::before,
   .md-header__button.wa-head svg { animation: none; }
 }
+
+/* Petikan */
+.md-typeset blockquote {
+  border-left: 4px solid var(--gold);
+  background: var(--gold-tint);
+  border-radius: 0 14px 14px 0;
+  padding: .8rem 1.2rem;
+  margin: 1.2rem 0;
+  font-family: var(--serif);
+  font-style: italic;
+  font-weight: 600;
+  font-size: 1.02rem;
+  color: var(--maroon);
+}
+.md-typeset blockquote p { margin: .2rem 0; }
+[data-md-color-scheme="slate"] .md-typeset blockquote { background: #2A211B; color: var(--gold-lt); }
