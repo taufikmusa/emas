@@ -160,7 +160,6 @@ body { font-feature-settings: "ss01"; }
   border: 1px solid var(--gold-pale);
   box-shadow: 0 10px 30px rgba(122, 12, 28, .12);
 }
-.md-typeset .abio img,
 .md-typeset .md-logo img { border-radius: 0; }
 
 /* Butang */
@@ -332,16 +331,27 @@ body { font-feature-settings: "ss01"; }
 .md-typeset .cta .md-button { margin: .2rem; }
 .md-typeset .cta .md-button.btn-gold { color: #3A2305; }
 
-/* Kad bio dealer */
+/* Kad bio dealer: teks kiri, gambar Taufik bleed di bawah kanan */
 .md-typeset .abio {
+  display: grid;
+  grid-template-columns: 1fr minmax(150px, 200px);
+  align-items: end;
   background: var(--cream-2);
   border: 1px solid var(--gold-pale);
   border-top: 4px solid var(--gold);
   border-radius: 18px;
-  padding: 1.3rem 1.4rem 1.2rem;
+  overflow: hidden;
   margin: 2.4rem 0 1.5rem;
   box-shadow: 0 8px 22px rgba(122, 12, 28, .07);
 }
+.md-typeset .abio-text { padding: 1.3rem 0 1.2rem 1.4rem; }
+.md-typeset .abio-pic {
+  align-self: end;
+  padding-right: .6rem;
+  background: radial-gradient(circle at 50% 70%, var(--gold-tint), transparent 70%);
+}
+.md-typeset .abio-pic p { margin: 0; }
+.md-typeset .abio-pic img { display: block; width: 100%; height: auto; border-radius: 0; }
 .md-typeset .abio h4 { margin: 0 0 .1rem; font-family: var(--serif); color: var(--maroon); font-size: 1.1rem; }
 .md-typeset .abio .role {
   font-size: .64rem;
@@ -362,8 +372,18 @@ body { font-feature-settings: "ss01"; }
   margin-right: .15rem;
   white-space: nowrap;
 }
+@media (max-width: 600px) {
+  .md-typeset .abio { grid-template-columns: 1fr; }
+  .md-typeset .abio-text { padding: 1.2rem 1.2rem .4rem; }
+  .md-typeset .abio-pic { width: 70%; max-width: 250px; margin: 0 auto; padding: 0; }
+}
 [data-md-color-scheme="slate"] .md-typeset .abio { background: #221A16; border-color: #3A2E26; border-top-color: var(--gold); }
 [data-md-color-scheme="slate"] .md-typeset .abio h4 { color: var(--gold-lt); }
+[data-md-color-scheme="slate"] .md-typeset .abio-pic { background: radial-gradient(circle at 50% 70%, rgba(201, 154, 46, .22), transparent 70%); }
+
+/* Tajuk header boleh diklik, pergi ke home */
+.md-header__topic:first-child { cursor: pointer; }
+.md-header__topic:first-child:hover { opacity: .75; }
 
 /* Hero laman utama */
 .md-typeset .hero { padding: .5rem 0 0; }
