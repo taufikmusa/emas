@@ -411,5 +411,10 @@ body { font-feature-settings: "ss01"; }
   .wa-float { width: 52px; height: 52px; right: 14px; bottom: 14px; }
   .wa-float svg { width: 29px; height: 29px; }
 }
-/* Butang "ke atas" Material jangan bertindih dengan floating WhatsApp */
-.md-top { bottom: 88px; }
+/* Butang "kembali ke atas" Material: kekalkan kedudukan asal (fixed dari atas), warna ikut tema sahaja */
+.md-top {
+  background: var(--maroon);
+  color: #fff;
+  border-radius: 999px;
+}
+.md-top:hover { background: var(--maroon-2); color: #fff; }
