@@ -98,6 +98,8 @@ Klik "WhatsApp" di bawah. Saya bantu anda mulakan langkah pertama.
 
 <div class="abio" markdown>
 
+<div class="abio-text" markdown>
+
 #### Taufik Bin Musa
 <span class="role">Dealer Public Gold · PG00359605 · G100 Network</span>
 
@@ -108,5 +110,13 @@ Saya dealer dan committee di G100 Network, rangkaian dealer terbesar di Malaysia
 Semua urus niaga dibuat terus bersama Public Gold, syarikat emas terbesar Malaysia sejak 2008. Tugas Dealer hanya menjadi pemudahcara urusniaga dan berkongsi ilmu emas yang praktikal, InsyaAllah.
 
 [Jemput juga ke Website Rasmi Dealer G100 saya di pg2u.my/taufikmusa ↗](https://pg2u.my/taufikmusa){ target="_blank" }
+
+</div>
+
+<div class="abio-pic" markdown>
+
+![Taufik Bin Musa, Dealer Public Gold](../assets/taufik-cut.webp){ width="440" height="641" loading="lazy" }
+
+</div>
 
 </div>

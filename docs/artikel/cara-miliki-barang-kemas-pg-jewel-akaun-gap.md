@@ -45,17 +45,23 @@ Ini contoh kiraan untuk tebus Cincin Emas 999 (999/24K Gold Ring) bernilai RM1,6
 
 **Langkah 3: potong gram dan keluarkan Cash Voucher.** Sistem potong 2.8091g daripada akaun GAP anda dan keluarkan Cash Voucher bernilai RM1,663 untuk pembelian barang kemas tersebut.
 
+![Langkah 3: sistem keluarkan Cash Voucher RM1,663 untuk pembelian barang kemas 999](../assets/jewel-5-langkah-3.webp){ .step-img width="900" height="900" loading="lazy" }
+
 ## 📐 Formula asas yang perlu anda tahu
 
 <div class="formula">Gram GAP yang dijual = Jumlah keseluruhan ÷ Harga GAP semasa (Buy GAP)</div>
 
 Sebagai semakan: RM1,663 ÷ RM592 = 2.8091g.
 
+![Formula pengiraan gram GAP yang dijual dan nota penting](../assets/jewel-6-formula.webp){ .step-img width="900" height="900" loading="lazy" }
+
 ## 📌 3 nota penting
 
 1. Pengiraan adalah berdasarkan **nilai pembelian**, bukan berat barang kemas.
 2. Lagi tinggi harga GAP semasa, lagi sedikit gram yang diperlukan.
 3. Konsisten simpan, lebih banyak pilihan untuk masa depan anda!
+
+![Contoh pengiraan penuh: harga GAP RM592, 2.8091g ditolak, Cash Voucher RM1,663](../assets/jewel-7-contoh-pengiraan.webp){ .step-img width="900" height="900" loading="lazy" }
 
 Belum ada akaun GAP? Pendaftaran adalah percuma. Mula menabung ikut kemampuan anda, dan bila gram sudah cukup, anda bebas pilih sama ada mahu simpan sebagai gold bar, dinar atau tukar kepada perhiasan.
 
@@ -80,6 +86,8 @@ Klik "WhatsApp" di bawah untuk Taufik bantu mulakan langkah pertama anda.
 
 <div class="abio" markdown>
 
+<div class="abio-text" markdown>
+
 #### Taufik Bin Musa
 <span class="role">Dealer Public Gold · PG00359605 · G100 Network</span>
 
@@ -90,5 +98,13 @@ Saya dealer dan committee di G100 Network, rangkaian dealer terbesar di Malaysia
 Semua urus niaga dibuat terus bersama Public Gold, syarikat emas terbesar Malaysia sejak 2008. Tugas Dealer hanya menjadi pemudahcara urusniaga dan berkongsi ilmu emas yang praktikal, InsyaAllah.
 
 [Jemput juga ke Website Rasmi Dealer G100 saya di pg2u.my/taufikmusa ↗](https://pg2u.my/taufikmusa){ target="_blank" }
+
+</div>
+
+<div class="abio-pic" markdown>
+
+![Taufik Bin Musa, Dealer Public Gold](../assets/taufik-cut.webp){ width="440" height="641" loading="lazy" }
+
+</div>
 
 </div>

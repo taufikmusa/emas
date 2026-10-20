@@ -1,6 +1,7 @@
-/* Icon WhatsApp dalam header, ambil pautan daripada butang floating supaya satu sumber sahaja */
+/* Icon WhatsApp dalam header (pautan diambil daripada butang floating, satu sumber sahaja)
+   dan tajuk header yang boleh diklik untuk pergi ke home. */
 (function () {
-  function inject() {
+  function injectWhatsApp() {
     var inner = document.querySelector(".md-header__inner");
     var float = document.querySelector(".wa-float");
     if (!inner || !float || inner.querySelector(".wa-head")) return;
@@ -13,9 +14,33 @@
     a.innerHTML = float.innerHTML;
     inner.appendChild(a);
   }
+
+  /* Pada telefon logo disembunyikan, jadi tajuk tapak perlu jadi pautan ke home. */
+  function homeFromTitle(e) {
+    var topic = e.target.closest && e.target.closest(".md-header__topic:first-child");
+    if (!topic) return;
+    var logo = document.querySelector(".md-header a.md-logo");
+    if (logo) logo.click();
+    else window.location.href = "/";
+  }
+
+  function init() {
+    injectWhatsApp();
+    var title = document.querySelector(".md-header__title");
+    if (title && !title.dataset.homeLink) {
+      title.dataset.homeLink = "1";
+      title.setAttribute("role", "link");
+      title.setAttribute("tabindex", "0");
+      title.addEventListener("click", homeFromTitle);
+      title.addEventListener("keydown", function (e) {
+        if (e.key === "Enter") homeFromTitle(e);
+      });
+    }
+  }
+
   if (window.document$ && window.document$.subscribe) {
-    window.document$.subscribe(inject);
+    window.document$.subscribe(init);
   } else {
-    document.addEventListener("DOMContentLoaded", inject);
+    document.addEventListener("DOMContentLoaded", init);
   }
 })();
