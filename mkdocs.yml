@@ -8,6 +8,8 @@ copyright: Penafian, website ini dimiliki oleh Taufik, PGCode PG00359605 (Dealer
 
 theme:
   name: material
+  custom_dir: overrides
+  favicon: assets/favicon.svg
   language: ms
   font:
     text: Inter
