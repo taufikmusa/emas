@@ -39,6 +39,7 @@ extra_css:
 
 extra_javascript:
   - javascripts/whatsapp.js
+  - javascripts/carousel.js
 
 markdown_extensions:
   - admonition
