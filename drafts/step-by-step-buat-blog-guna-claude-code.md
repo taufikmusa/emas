@@ -26,7 +26,9 @@ image: assets/og-blog-claude-code.jpg
 
 ![Step by step nak buat blog guna Claude Code untuk beginner](../assets/blog-claude-code-cover.webp){ .step-img width="900" height="1125" }
 
-Website yang anda tengah baca ni, saya bina guna **Claude Code**. Saya bukan programmer. Kerja saya Technical Specialist software, bukan web developer.
+Website yang anda tengah baca ni, saya bina guna **Claude Code**. Saya bukan programmer.
+
+Blog ni saya buat untuk bantu mereka yang nak [mulakan simpanan emas di Public Gold](https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1){ target="_blank" }, dan untuk sebarkan ilmu tentang emas yang saya belajar daripada guru saya, Tn Mohd Zulkifli Shafie.
 
 Setiap artikel, gambar, butang WhatsApp, warna dan carousel di sini saya minta dalam bahasa biasa, dan Claude yang tulis kod. Yang saya buat cuma tiga benda: **bagi arahan, semak hasil, dan tekan merge**.
 
