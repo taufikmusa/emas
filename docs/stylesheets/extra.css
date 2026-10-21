@@ -666,3 +666,16 @@ body { font-feature-settings: "ss01"; }
 @media (prefers-reduced-motion: reduce) { .md-typeset .video-play { animation: none; } }
 
 .md-typeset .video-cta { text-align: center; margin: -.4rem 0 1.6rem; }
+
+/* YouTube Shorts embed (menegak 9:16) */
+.md-typeset .yt-short {
+  width: min(100%, 340px);
+  aspect-ratio: 9 / 16;
+  margin: 1.2rem auto;
+  border-radius: 20px;
+  overflow: hidden;
+  background: #000;
+  border: 1px solid var(--gold-pale);
+  box-shadow: 0 14px 34px rgba(122, 12, 28, .22);
+}
+.md-typeset .yt-short iframe { display: block; width: 100%; height: 100%; border: 0; }

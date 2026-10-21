@@ -37,3 +37,6 @@ Folder `drafts/` ada artikel yang Taufik belum lulus. Ia di luar `docs/` jadi Mk
 ## Pautan video
 Facebook tak dipercayai untuk embed. Guna `<a class="video-thumb">` dengan thumbnail dan butang play (lihat artikel pasukan keselamatan), letak di bahagian bawah artikel sebelum penutup. Pautan Facebook buka dalam TAB YANG SAMA (tanpa target=_blank), kerana tab baharu gagal pada iPhone incognito. Laluan thumbnail `../../assets/...`.
 
+## Video YouTube
+YouTube Shorts boleh dibenam terus: `<div class="yt-short"><iframe src="https://www.youtube-nocookie.com/embed/ID" ... referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>` dan butang "Tonton di YouTube" di bawahnya. Perlukan ID video (bahagian selepas /shorts/).
+
