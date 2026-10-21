@@ -31,3 +31,6 @@ Carousel di hujung `docs/index.md` (sebelum footer). Gambar dalam `docs/assets/g
 ## Laluan gambar dalam HTML mentah
 Artikel dipaparkan di `/artikel/<slug>/` (directory URLs). Markdown `![](../assets/x.webp)` dibetulkan oleh MkDocs, tapi `<img src>` dalam HTML mentah TIDAK. Dalam artikel guna `../../assets/...` untuk HTML mentah, dan `assets/...` di `docs/index.md`. Tiket Diamond Day: https://pgmall.my/r/rGHPnSJIxU1
 
+## Draft (jangan publish)
+Folder `drafts/` ada artikel yang Taufik belum lulus. Ia di luar `docs/` jadi MkDocs tak bina. JANGAN pindah ke `docs/`, tambah dalam nav atau kad laman utama, melainkan Taufik cakap terang-terang "publish". Draft semasa: `drafts/step-by-step-buat-blog-guna-claude-code.md` (nota langkah publish di bahagian atas fail).
+
