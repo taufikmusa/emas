@@ -1,0 +1,69 @@
+/* Telegram: banner, header, kad homepage dan butang. Fail berasingan supaya cache lama tak halang. */
+.md-banner .banner-tg {
+  display: inline-flex;
+  align-items: center;
+  gap: .4rem;
+  color: #E9C964;
+  font-weight: 700;
+}
+.md-banner .banner-tg:hover { color: #fff; }
+.md-banner .banner-tg svg { width: 1.2rem; height: 1.2rem; display: block; flex: none; }
+
+.md-header__button.tg-head svg { width: 1.7rem; height: 1.7rem; display: block; }
+.md-header__button.tg-head:hover { opacity: .8; }
+
+.tg-card {
+  display: flex;
+  width: fit-content;
+  max-width: 100%;
+  align-items: center;
+  gap: .9rem;
+  background: var(--cream-2);
+  border: 2px solid #229ED9;
+  border-radius: 18px;
+  box-shadow: 5px 5px 0 #229ED9;
+  padding: .7rem 1.1rem;
+  margin: -.5rem 0 1.4rem;
+  color: var(--navy) !important;
+  text-decoration: none;
+  transition: transform .15s;
+}
+.tg-card:hover { transform: translate(-1px, -1px); }
+.tg-card .tg-ico {
+  position: relative;
+  isolation: isolate;
+  width: 3.1rem;
+  height: 3.1rem;
+  flex: none;
+}
+.tg-card .tg-ico svg { width: 100%; height: 100%; display: block; }
+.tg-card .tg-ico::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  border-radius: 50%;
+  background: #229ED9;
+  opacity: .5;
+  z-index: -1;
+  animation: wa-ripple 2.2s ease-out infinite;
+}
+.tg-card .tg-label {
+  display: inline-block;
+  background: #D8EEF9;
+  color: #166E99;
+  font-size: .58rem;
+  font-weight: 800;
+  letter-spacing: .08em;
+  text-transform: uppercase;
+  padding: .12rem .5rem;
+  border-radius: 6px;
+}
+.tg-card strong { display: block; font-size: 1.25rem; line-height: 1.25; }
+.tg-card small { display: block; font-size: .68rem; color: #5C4F43; }
+[data-md-color-scheme="slate"] .tg-card { background: #221A16; color: #F2E8D5 !important; }
+[data-md-color-scheme="slate"] .tg-card small { color: #CFC2A8; }
+@media (prefers-reduced-motion: reduce) { .tg-card .tg-ico::before { animation: none; } }
+
+.md-typeset .btn-tg { background: #229ED9; border-color: #1B8DC4; color: #fff; }
+.md-typeset .btn-tg:hover { background: #1B8DC4; border-color: #1B8DC4; color: #fff; }
+.md-typeset .cta .md-button.btn-tg { color: #fff; }

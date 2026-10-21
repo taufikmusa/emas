@@ -77,15 +77,6 @@ body { font-feature-settings: "ss01"; }
   font-weight: 700;
 }
 .md-banner .banner-wa:hover { color: #fff; }
-.md-banner .banner-tg {
-  display: inline-flex;
-  align-items: center;
-  gap: .35rem;
-  color: #E9C964;
-  font-weight: 700;
-}
-.md-banner .banner-tg:hover { color: #fff; }
-.md-banner .banner-tg svg { width: 1.05rem; height: 1.05rem; color: #3FB4EA; display: block; }
 .md-banner .wa-ico svg { width: 1.05rem; height: 1.05rem; color: var(--wa); display: block; }
 
 /* Header */
@@ -99,9 +90,6 @@ body { font-feature-settings: "ss01"; }
 .md-header__button.wa-head { color: var(--wa); }
 .md-header__button.wa-head svg { width: 1.55rem; height: 1.55rem; }
 .md-header__button.wa-head:hover { opacity: .8; }
-.md-header__button.tg-head { color: #3FB4EA; }
-.md-header__button.tg-head svg { width: 1.55rem; height: 1.55rem; }
-.md-header__button.tg-head:hover { opacity: .8; }
 
 /* Tab dan menu */
 .md-nav__item .md-nav__link--active,

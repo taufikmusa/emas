@@ -36,10 +36,12 @@ theme:
 
 extra_css:
   - https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&display=swap
-  - stylesheets/extra.css
+  - stylesheets/site.css
+  - stylesheets/telegram.css
 
 extra_javascript:
   - javascripts/whatsapp.js
+  - javascripts/telegram.js
   - javascripts/carousel.js
 
 markdown_extensions:
