@@ -42,6 +42,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Bila agak nak mula simpan emas? Jangan tunggu kereta terbang](assets/og-kereta-terbang.jpg){ loading=lazy }](artikel/bila-nak-mula-simpan-emas-jangan-tunggu-kereta-terbang.md)
+
+    <span class="cat-badge">Mula Simpan</span>
+
+    **[Bila Agak Nak Mula Simpan Emas? 5 Sebab Jangan Tunggu Kereta Terbang](artikel/bila-nak-mula-simpan-emas-jangan-tunggu-kereta-terbang.md)**
+
+    Tesla dah umum kereta terbang, tapi ramai masih tunggu harga emas turun. Kenapa bertangguh merugikan.
+
 - [![5 sebab cikgu golongan paling sesuai simpan emas](assets/og-cikgu.jpg){ loading=lazy }](artikel/5-sebab-cikgu-golongan-paling-sesuai-simpan-emas.md)
 
     <span class="cat-badge">Untuk Cikgu</span>
