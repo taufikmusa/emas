@@ -32,7 +32,7 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="hero-pic" markdown>
 
-![Taufik Bin Musa, Dealer Public Gold](assets/taufik-cut.webp){ width="440" height="641" }
+![Taufik Bin Musa, Dealer Public Gold](assets/taufik-foto.webp){ width="640" height="959" }
 
 </div>
 
@@ -107,6 +107,28 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
     Daftar, install aplikasi, login dan buat belian pertama, semuanya 100% online.
 
 </div>
+
+<section class="tg-section" markdown>
+
+<div class="tg-text" markdown>
+
+<span class="cat-badge">Telegram Channel</span>
+
+## Join Channel Telegram <span class="gold">Taufik</span>
+
+Update harga emas, tips simpanan dan info terkini Public Gold. Percuma, terus masuk dalam Telegram anda.
+
+<a class="md-button btn-tg" href="https://t.me/taufikpg_emas">✈️ Join @TAUFIKPG_EMAS</a>
+
+</div>
+
+<div class="tg-qr" markdown>
+
+[![Imbas QR untuk join channel Telegram Taufik](assets/telegram-qr.webp){ width="560" height="747" loading="lazy" }](https://t.me/taufikpg_emas)
+
+</div>
+
+</section>
 
 <section class="gallery" aria-label="Galeri emas fizikal Public Gold">
 <p class="gallery-eyebrow">🥇 Emas Fizikal Public Gold</p>

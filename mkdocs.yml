@@ -64,6 +64,7 @@ plugins:
 
 extra:
   generator: false
+  telegram_url: https://t.me/taufikpg_emas
   whatsapp_url: https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0
   analytics:
     provider: google

@@ -77,6 +77,15 @@ body { font-feature-settings: "ss01"; }
   font-weight: 700;
 }
 .md-banner .banner-wa:hover { color: #fff; }
+.md-banner .banner-tg {
+  display: inline-flex;
+  align-items: center;
+  gap: .35rem;
+  color: #E9C964;
+  font-weight: 700;
+}
+.md-banner .banner-tg:hover { color: #fff; }
+.md-banner .banner-tg svg { width: 1.05rem; height: 1.05rem; color: #3FB4EA; display: block; }
 .md-banner .wa-ico svg { width: 1.05rem; height: 1.05rem; color: var(--wa); display: block; }
 
 /* Header */
@@ -90,6 +99,9 @@ body { font-feature-settings: "ss01"; }
 .md-header__button.wa-head { color: var(--wa); }
 .md-header__button.wa-head svg { width: 1.55rem; height: 1.55rem; }
 .md-header__button.wa-head:hover { opacity: .8; }
+.md-header__button.tg-head { color: #3FB4EA; }
+.md-header__button.tg-head svg { width: 1.55rem; height: 1.55rem; }
+.md-header__button.tg-head:hover { opacity: .8; }
 
 /* Tab dan menu */
 .md-nav__item .md-nav__link--active,
@@ -193,6 +205,8 @@ body { font-feature-settings: "ss01"; }
 .md-typeset .btn-gold:hover { background: var(--gold-lt); border-color: #B58722; color: #3A2305; }
 .md-typeset .btn-wa { background: var(--wa); border-color: #1EB957; color: #fff; }
 .md-typeset .btn-wa:hover { background: #1EB957; border-color: #1EB957; color: #fff; }
+.md-typeset .btn-tg { background: #229ED9; border-color: #1B8DC4; color: #fff; }
+.md-typeset .btn-tg:hover { background: #1B8DC4; border-color: #1B8DC4; color: #fff; }
 
 /* Kad WhatsApp (laman utama) */
 .wa-card {
@@ -346,12 +360,12 @@ body { font-feature-settings: "ss01"; }
 }
 .md-typeset .abio-text { padding: 1.3rem 0 1.2rem 1.4rem; }
 .md-typeset .abio-pic {
-  align-self: end;
-  padding-right: .6rem;
-  background: radial-gradient(closest-side at 50% 62%, var(--gold-tint), transparent);
+  position: relative;
+  align-self: stretch;
+  min-height: 220px;
 }
-.md-typeset .abio-pic p { margin: 0; }
-.md-typeset .abio-pic img { display: block; width: 100%; height: auto; border-radius: 0; }
+.md-typeset .abio-pic p { margin: 0; position: absolute; inset: 0; }
+.md-typeset .abio-pic img { display: block; width: 100%; height: 100%; object-fit: cover; object-position: center top; border-radius: 0; }
 .md-typeset .abio h4 { margin: 0 0 .1rem; font-family: var(--serif); color: var(--maroon); font-size: 1.1rem; }
 .md-typeset .abio .role {
   font-size: .64rem;
@@ -375,11 +389,10 @@ body { font-feature-settings: "ss01"; }
 @media (max-width: 600px) {
   .md-typeset .abio { grid-template-columns: 1fr; }
   .md-typeset .abio-text { padding: 1.2rem 1.2rem .4rem; }
-  .md-typeset .abio-pic { width: 70%; max-width: 250px; margin: 0 auto; padding: 0; }
+  .md-typeset .abio-pic { width: 62%; max-width: 260px; aspect-ratio: 3 / 4; min-height: 0; margin: .4rem auto 1.2rem; border-radius: 16px; overflow: hidden; }
 }
 [data-md-color-scheme="slate"] .md-typeset .abio { background: #221A16; border-color: #3A2E26; border-top-color: var(--gold); }
 [data-md-color-scheme="slate"] .md-typeset .abio h4 { color: var(--gold-lt); }
-[data-md-color-scheme="slate"] .md-typeset .abio-pic { background: radial-gradient(closest-side at 50% 62%, rgba(201, 154, 46, .22), transparent); }
 
 /* Tajuk header boleh diklik, pergi ke home */
 .md-header__topic:first-child { cursor: pointer; }
@@ -397,11 +410,13 @@ body { font-feature-settings: "ss01"; }
 .md-typeset .hero-text > p:first-child { margin-top: 0; }
 .md-typeset .hero h1 { font-size: clamp(1.8rem, 4.6vw, 2.7rem); }
 .md-typeset .hero-pic {
-  background: radial-gradient(closest-side at 50% 62%, var(--gold-tint), transparent);
+  border: 3px solid var(--gold);
+  border-radius: 22px;
+  overflow: hidden;
+  box-shadow: 0 12px 28px rgba(122, 12, 28, .2);
 }
 .md-typeset .hero-pic p { margin: 0; }
 .md-typeset .hero-pic img { display: block; width: 100%; height: auto; border-radius: 0; }
-[data-md-color-scheme="slate"] .md-typeset .hero-pic { background: radial-gradient(closest-side at 50% 62%, rgba(201, 154, 46, .22), transparent); }
 .md-typeset .trust { display: flex; flex-wrap: wrap; gap: .35rem .5rem; margin: .2rem 0 1rem; }
 .md-typeset .trust span {
   background: var(--gold-tint);
@@ -416,7 +431,7 @@ body { font-feature-settings: "ss01"; }
 [data-md-color-scheme="slate"] .md-typeset .trust span { background: #3A2E26; color: var(--gold-lt); border-color: #4A3B30; }
 @media (max-width: 760px) {
   .md-typeset .hero { grid-template-columns: 1fr; }
-  .md-typeset .hero-pic { width: 55%; max-width: 210px; margin: 0 auto; }
+  .md-typeset .hero-pic { width: 58%; max-width: 230px; margin: 0 auto; }
 }
 
 /* Floating WhatsApp */
@@ -708,3 +723,27 @@ body { font-feature-settings: "ss01"; }
   color: #F2E8D5;
 }
 .md-typeset .highlight pre > code { padding: 1rem 1.1rem; opacity: 1; }
+
+/* Seksyen Telegram laman utama */
+.md-typeset .tg-section {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) minmax(140px, 190px);
+  gap: 1.4rem;
+  align-items: center;
+  background: var(--cream-2);
+  border: 1px solid var(--gold-pale);
+  border-left: 5px solid #229ED9;
+  border-radius: 18px;
+  padding: 1.3rem 1.5rem;
+  margin: 2.4rem 0;
+  box-shadow: 0 8px 22px rgba(122, 12, 28, .07);
+}
+.md-typeset .tg-section h2 { margin: .4rem 0 .5rem; border: 0; padding: 0; }
+.md-typeset .tg-section p { margin: 0 0 .9rem; }
+.md-typeset .tg-qr p { margin: 0; }
+.md-typeset .tg-qr img { display: block; width: 100%; height: auto; border-radius: 14px; box-shadow: 0 6px 16px rgba(19, 35, 63, .18); }
+@media (max-width: 600px) {
+  .md-typeset .tg-section { grid-template-columns: 1fr; padding: 1.2rem; text-align: center; }
+  .md-typeset .tg-qr { width: 55%; max-width: 200px; margin: 0 auto; }
+}
+[data-md-color-scheme="slate"] .md-typeset .tg-section { background: #221A16; border-color: #3A2E26; border-left-color: #229ED9; }

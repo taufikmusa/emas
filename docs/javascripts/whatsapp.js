@@ -15,6 +15,19 @@
     inner.appendChild(a);
   }
 
+  function injectTelegram() {
+    var inner = document.querySelector(".md-header__inner");
+    var src = document.querySelector(".tg-src");
+    if (!inner || !src || inner.querySelector(".tg-head")) return;
+    var a = document.createElement("a");
+    a.className = "md-header__button md-icon tg-head";
+    a.href = src.href;
+    a.setAttribute("aria-label", "Telegram Taufik");
+    a.innerHTML = src.innerHTML;
+    var wa = inner.querySelector(".wa-head");
+    inner.insertBefore(a, wa || null);
+  }
+
   /* Pada telefon logo disembunyikan, jadi tajuk tapak perlu jadi pautan ke home. */
   function homeFromTitle(e) {
     var topic = e.target.closest && e.target.closest(".md-header__topic:first-child");
@@ -26,6 +39,7 @@
 
   function init() {
     injectWhatsApp();
+    injectTelegram();
     var title = document.querySelector(".md-header__title");
     if (title && !title.dataset.homeLink) {
       title.dataset.homeLink = "1";

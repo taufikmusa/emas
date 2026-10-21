@@ -12,7 +12,8 @@ Website content emas oleh Taufik Bin Musa (Dealer Public Gold, PG00359605). Pemi
 2. Gambar: `.webp`, 900px lebar, quality 76 hingga 80, simpan dalam `docs/assets/`. Letak `width`, `height`, `loading="lazy"` dan kelas `.step-img`.
 3. OG image 1200x630 JPEG (baseline, quality 56 hingga 66, sasaran bawah 100 KB).
 4. Tambah dalam `nav:` di `mkdocs.yml` dan kad di `docs/index.md` (terbaru di atas).
-5. Susunan artikel: badge `.cat-badge`, `# tajuk`, `.lead`, `.byline`, gambar utama, isi, `.cta`, kad bio `.abio` (dengan `assets/taufik-cut.webp`).
+5. CTA setiap artikel ada 3 butang: Daftar (`.btn-gold`), WhatsApp (`.btn-wa`) dan Join Telegram (`.btn-tg`, tab sama). Pautan Telegram satu sumber di `extra.telegram_url` dalam `mkdocs.yml`: https://t.me/taufikpg_emas (channel @TAUFIKPG_EMAS).
+6. Susunan artikel: badge `.cat-badge`, `# tajuk`, `.lead`, `.byline`, gambar utama, isi, `.cta`, kad bio `.abio` (dengan `assets/taufik-foto.webp` (gambar segi empat, 640x959)).
 
 ## Peraturan content
 - **Letak pautan dalam teks artikel bila berkaitan.** Kebanyakan artikel bertujuan suruh pembaca buka akaun dan daftar, jadi pautkan frasa seperti "Akaun GAP", "serendah RM100", "daftar" ke pautan daftar, dan "PM saya" / "hubungi saya" ke WhatsApp. Pautkan juga ke artikel dalaman yang berkaitan (contoh `cara-daftar-public-gold-gap-2026.md`).
