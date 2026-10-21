@@ -15,6 +15,11 @@ hide:
   <span><span class="wa-label">WhatsApp Taufik</span><strong>6013-2740711</strong><small>Tekan untuk chat, atau simpan nombor ini</small></span>
 </a>
 
+<a class="tg-card" href="https://t.me/taufikpg_emas">
+  <span class="tg-ico"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="12" cy="12" r="12" fill="#229ED9"/><path fill="#fff" transform="translate(4.4 4.5) scale(.62)" d="M9.78 18.65l.28-4.23 7.68-6.92c.34-.31-.07-.46-.52-.19L7.74 13.3 3.64 12c-.88-.25-.89-.86.2-1.3l15.97-6.16c.73-.33 1.43.18 1.15 1.3l-2.72 12.81c-.19.91-.74 1.13-1.5.71L12.6 16.3l-1.99 1.93c-.23.23-.42.42-.83.42z"/></svg></span>
+  <span><span class="tg-label">Telegram Channel</span><strong>Join Channel Taufik</strong><small>@TAUFIKPG_EMAS · update dan tips emas percuma</small></span>
+</a>
+
 <p class="pg-pill">Dealer Public Gold · PGCode PG00359605</p>
 
 <span class="cat-badge">Panduan dan content emas</span>
