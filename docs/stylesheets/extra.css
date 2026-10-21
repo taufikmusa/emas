@@ -664,3 +664,5 @@ body { font-feature-settings: "ss01"; }
   70%, 100% { box-shadow: 0 0 0 22px rgba(255, 255, 255, 0), 0 8px 22px rgba(0, 0, 0, .4); }
 }
 @media (prefers-reduced-motion: reduce) { .md-typeset .video-play { animation: none; } }
+
+.md-typeset .video-cta { text-align: center; margin: -.4rem 0 1.6rem; }

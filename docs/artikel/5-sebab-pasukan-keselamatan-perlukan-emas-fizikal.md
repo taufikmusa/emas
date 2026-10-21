@@ -70,11 +70,13 @@ Anda menjaga keselamatan negara setiap detik di perbatasan. Kini masanya anda me
 
 ## Tonton videonya
 
-<a class="video-thumb" href="https://www.facebook.com/share/v/1JiAamQnSr/?mibextid=wwXIfr" target="_blank" rel="noopener" aria-label="Tonton video 5 sebab pasukan keselamatan wajib ada aset emas di Facebook">
+<a class="video-thumb" href="https://www.facebook.com/share/v/1JiAamQnSr/" target="_blank" rel="noopener" aria-label="Tonton video 5 sebab pasukan keselamatan wajib ada aset emas di Facebook">
 <img src="../../assets/keselamatan-video-thumb.webp" alt="Thumbnail video: 5 sebab pasukan keselamatan wajib ada aset emas" width="640" height="1137" loading="lazy" decoding="async">
 <span class="video-play" aria-hidden="true"><svg viewBox="0 0 24 24" width="34" height="34"><path fill="currentColor" d="M8 5v14l11-7z"/></svg></span>
 <span class="video-label">Tonton di Facebook</span>
 </a>
+
+<p class="video-cta"><a class="md-button md-button--primary" href="https://www.facebook.com/share/v/1JiAamQnSr/" target="_blank" rel="noopener">▶ Tonton video di Facebook</a></p>
 
 Moga perkongsian ini bermanfaat.
 
