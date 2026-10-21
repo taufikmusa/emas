@@ -42,6 +42,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 sebab content creator wajib simpan emas fizikal](assets/og-creator.jpg){ loading=lazy }](artikel/5-sebab-content-creator-wajib-simpan-emas-fizikal.md)
+
+    <span class="cat-badge">Untuk Content Creator</span>
+
+    **[5 Sebab Content Creator Wajib Simpan Emas Fizikal](artikel/5-sebab-content-creator-wajib-simpan-emas-fizikal.md)**
+
+    Pendapatan ikut algoritma, gaya hidup dan populariti yang tak kekal. Kenapa emas fizikal penting.
+
 - [![Step by step nak buat blog guna Claude Code untuk beginner](assets/og-blog-claude-code.jpg){ loading=lazy }](artikel/step-by-step-buat-blog-guna-claude-code.md)
 
     <span class="cat-badge">Tutorial Beginner</span>
