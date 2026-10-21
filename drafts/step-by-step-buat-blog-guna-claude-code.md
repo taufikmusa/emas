@@ -6,7 +6,7 @@ Bila nak publish:
 1. Pindah fail ke docs/artikel/ dan gambar ke docs/assets/ (laluan ../assets/ sudah betul).
 2. mkdocs.yml: tambah features "content.code.copy" (butang salin prompt) dan extension
    "pymdownx.highlight" + "pymdownx.inlinehilite" (tajuk pada blok prompt).
-3. Tambah dalam nav dan kad laman utama. Letak screenshot di tempat bertanda "📸".
+3. Tambah dalam nav dan kad laman utama.
 -->
 ---
 title: "Step by Step Nak Buat Blog Guna Claude Code Untuk Beginner"
@@ -58,7 +58,7 @@ Alur kerja harian anda nanti pendek sahaja:
 **Anda cakap apa nak buat → Claude ubah fail → Claude push dan merge → GitHub bina dan publish dalam 1 hingga 2 minit.**
 
 !!! warning "Kos, cakap awal-awal"
-    - **Domain**: bayar setahun sekali. Harga bergantung sambungan domain (`.com`, `.my` dan lain-lain).
+    - **Domain**: bayar setahun sekali, dalam dolar US di Cloudflare. Harga tahun pertama dan harga renew boleh berbeza.
     - **Claude Code**: perlukan pelan Claude berbayar (Pro, Max, Team atau Enterprise). Fungsi ini masih research preview jadi syarat boleh berubah, [semak syarat semasa di dokumentasi rasmi](https://code.claude.com/docs/en/web-quickstart){ target="_blank" }.
     - **GitHub dan GitHub Pages**: percuma, **tapi repo mesti public** pada akaun percuma.
     - Semak sendiri harga terkini sebelum bayar. Saya sengaja tak letak nombor sebab ia berubah.
@@ -74,7 +74,15 @@ Domain ialah alamat blog anda, contoh `emas.taufik.fyi`. Saya cadang beli di **C
 3. Menu kiri, pilih **Domain Registration**, kemudian **Register Domains**.
 4. Taip nama yang anda mahu, pilih sambungan, dan bayar guna kad.
 
-!!! info "📸 Letak screenshot: halaman Register Domains Cloudflare"
+![Halaman Register domain di Cloudflare, carian taufikpg dengan harga .com, .org dan .app](../assets/blog-ss-domain-cloudflare.webp){ .step-img width="720" height="945" style="max-width:420px" }
+
+!!! note "Baca harga dengan teliti"
+    Contoh paparan pada 21 Oktober 2026, harga dalam dolar US dan boleh berubah. Perhatikan dua harga: harga **tahun pertama** dan harga **renew** setahun selepas tu.
+
+    - `.com` $10.46 dan renew $10.46 setahun (harga sama).
+    - `.org` dan `.app` murah tahun pertama, tapi renew lebih mahal.
+
+    Untuk blog jangka panjang, harga renew lebih penting daripada harga promosi.
 
 **Tips pilih nama domain**
 
@@ -97,7 +105,7 @@ GitHub ialah tempat semua fail blog anda disimpan, dan juga tempat blog anda dih
     - Tick **Add a README file**
 5. Tekan **Create repository**.
 
-!!! info "📸 Letak screenshot: borang New repository dengan Public dipilih"
+![Halaman Create a new repository di GitHub](../assets/blog-ss-repo-github.webp){ .step-img width="720" height="498" style="max-width:420px" }
 
 !!! warning "Kesilapan paling kerap"
     Ramai pilih **Private** sebab rasa "lebih selamat". Pada akaun GitHub percuma, **GitHub Pages tak boleh jalan untuk repo private**. Blog memang untuk dibaca orang, jadi public tak jadi masalah. Jangan simpan password atau maklumat peribadi dalam repo.
@@ -113,7 +121,9 @@ GitHub ialah tempat semua fail blog anda disimpan, dan juga tempat blog anda dih
 5. Buat **environment** pertama. Untuk projek pertama, guna tetapan asal sahaja dan tekan **Create environment**.
 6. Pilih repo `blog` dan mula sesi baru.
 
-!!! info "📸 Letak screenshot: skrin Connect GitHub di claude.ai/code"
+![Skrin mula Claude Code: environment dan repo dipilih, kotak tulis tugasan di bawah](../assets/blog-ss-claude-code-mula.webp){ .step-img width="720" height="661" style="max-width:420px" }
+
+Bila siap, skrin anda akan nampak macam ni: **environment** dan **repo** (contoh `emas · main`) dah dipilih, dan anda tinggal tulis arahan dalam kotak di bawah.
 
 Claude akan salin repo anda ke komputer awan, buat kerja di sana, dan hantar hasilnya ke GitHub dalam satu **branch** (salinan kerja berasingan). Anda tak perlu pasang apa-apa di komputer atau telefon.
 
@@ -170,8 +180,6 @@ Push perubahan, buat pull request ke main, dan merge. Lepas tu semak GitHub Acti
 !!! tip "Kalau Claude tak boleh merge sendiri"
     Tak apa. Tekan **Create PR** dalam sesi Claude Code, dan buka pull request tu di GitHub. Tekan **Merge pull request**, kemudian **Confirm merge**. Dua tekan sahaja.
 
-!!! info "📸 Letak screenshot: butang Merge pull request di GitHub"
-
 ---
 
 ## ✅ Langkah #6: Hidupkan GitHub Pages dan sambung domain
@@ -201,8 +209,6 @@ Ini 3 tetapan sekali sahaja. Ikut turutan.
 | TTL | Auto |
 
 3. **Save**.
-
-!!! info "📸 Letak screenshot: borang Add record dengan Proxy status DNS only"
 
 `DNS only` penting pada permulaan. Kalau awan oren (proxied), GitHub selalu gagal sahkan domain dan tersangkut di "DNS check unsuccessful".
 
@@ -366,7 +372,56 @@ Push, buat PR, dan merge ke main.
 
 ---
 
-## Bila ada masalah, ini 6 punca paling kerap
+## ✅ Bonus: Letak video dalam artikel
+
+Ada video di YouTube atau Facebook? Anda boleh letak dalam artikel supaya pembaca terus tengok. Cara dia berbeza ikut platform.
+
+### Video YouTube (main terus dalam page)
+
+1. Salin pautan video. Cari **ID video**, iaitu kod pendek dalam pautan:
+    - Shorts: `youtube.com/shorts/`**`q9h41tzO2RI`**
+    - Biasa: `youtube.com/watch?v=`**`ID`** atau `youtu.be/`**`ID`**
+2. Pastikan pemilik video benarkan embedding (YouTube Studio → Content → pilih video → **Allow embedding**). Kalau tidak, pembaca nampak "Video unavailable".
+3. Tampal prompt ni:
+
+```text title="Prompt 7: Letak video YouTube"
+Letak video YouTube ini di bahagian bawah artikel [NAMA ARTIKEL], di bawah tajuk "Tonton videonya", sebelum butang CTA:
+[PAUTAN YOUTUBE]
+
+Arahan:
+- Benamkan video supaya main terus dalam page (guna youtube-nocookie.com embed, nisbah 9:16 untuk Shorts atau 16:9 untuk video biasa, lebar maksimum sesuai telefon)
+- Tambah butang "Tonton di YouTube" di bawahnya sebagai laluan kedua
+- Push, buat PR, dan merge ke main. Laporkan keputusan GitHub Actions.
+```
+
+### Video Facebook (thumbnail dan butang play)
+
+Facebook tak sentiasa benarkan video dibenam dalam laman lain, jadi cara paling selamat ialah **thumbnail dengan butang play** yang membawa pembaca ke video.
+
+1. Di Facebook, tekan **Share** → **Copy link** pada video anda.
+2. Pastikan video tu **Public**. Kalau Friends sahaja, orang lain tak boleh tengok.
+3. Uji dulu: tampal pautan dalam tab **incognito**. Kalau video terbuka, pautan okay.
+4. Attach gambar thumbnail (gambar depan video) dan tampal prompt ni:
+
+```text title="Prompt 8: Letak video Facebook"
+Letak video Facebook ini di bahagian bawah artikel [NAMA ARTIKEL], di bawah tajuk "Tonton videonya", sebelum penutup:
+[PAUTAN FACEBOOK]
+
+Arahan:
+- Guna gambar yang saya attach sebagai thumbnail (tukar ke .webp lebar 640px)
+- Letak butang play bulat di tengah thumbnail dan label "Tonton di Facebook"
+- Tambah butang teks "Tonton video di Facebook" di bawahnya
+- Buka pautan dalam TAB YANG SAMA (jangan guna tab baharu), kerana tab baharu gagal pada sesetengah iPhone
+- Buang kod penjejak (contoh ?mibextid=...) daripada pautan
+- Push, buat PR, dan merge ke main. Laporkan keputusan GitHub Actions.
+```
+
+!!! tip "Kenapa tab yang sama?"
+    Pada iPhone (terutama mod incognito), pautan Facebook yang dibuka dalam tab baharu kadang-kadang tak keluar langsung. Dalam tab yang sama, pembaca tekan Back untuk kembali ke artikel anda.
+
+---
+
+## Bila ada masalah, ini 8 punca paling kerap
 
 Salin apa yang anda nampak (screenshot atau log) dan tampal kepada Claude. Selalunya ia boleh betulkan sendiri.
 
@@ -378,8 +433,10 @@ Salin apa yang anda nampak (screenshot atau log) dan tampal kepada Claude. Selal
 | Gambar tak keluar | Laluan gambar salah | Cakap: *"Gambar artikel X tak keluar, semak laluan gambar"* |
 | Perubahan tak nampak | Cache browser | Hard refresh, atau buka tab incognito |
 | Tak boleh publish repo private | Akaun GitHub percuma | Jadikan repo **Public** |
+| Video YouTube tunjuk "Video unavailable" | Embedding tak dibenarkan | YouTube Studio → **Allow embedding** |
+| Klik video Facebook tak jalan | Video bukan Public, atau dibuka di tab baharu | Jadikan **Public**, dan guna tab yang sama |
 
-```text title="Prompt 7: Bila Actions merah"
+```text title="Prompt 9: Bila Actions merah"
 GitHub Actions gagal. Ini log ralat dia:
 ---
 [TAMPAL LOG DI SINI]
