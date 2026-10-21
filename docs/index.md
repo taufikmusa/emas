@@ -42,6 +42,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Cara mudah simpan emas di Public Gold, video pendek](assets/og-simpan-emas-video.jpg){ loading=lazy }](artikel/cara-mudah-simpan-emas-di-public-gold-video.md)
+
+    <span class="cat-badge">Tutorial Video</span>
+
+    **[Cara Mudah Simpan Emas Di Public Gold (Video)](artikel/cara-mudah-simpan-emas-di-public-gold-video.md)**
+
+    Tonton video pendek cara mudah mula simpan emas, terus dalam page.
+
 - [![5 sebab pasukan keselamatan perlukan emas fizikal](assets/og-keselamatan.jpg){ loading=lazy }](artikel/5-sebab-pasukan-keselamatan-perlukan-emas-fizikal.md)
 
     <span class="cat-badge">Untuk Pasukan Keselamatan</span>
