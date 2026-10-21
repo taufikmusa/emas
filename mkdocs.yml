@@ -38,6 +38,7 @@ extra_css:
   - https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&display=swap
   - stylesheets/site.css
   - stylesheets/telegram.css
+  - stylesheets/header.css
 
 extra_javascript:
   - javascripts/whatsapp.js
