@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![9 soalan lazim sebelum buka akaun emas GAP Public Gold](assets/og-9-soalan.jpg){ loading=lazy }](artikel/9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+
+    <span class="cat-badge">Soalan Lazim</span>
+
+    **[9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](artikel/9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)**
+
+    Modal, yuran, emas fizikal, syariah dan duit masuk akaun siapa. Baca nombor 6 elak scam.
+
 - [![5 sebab content creator wajib simpan emas fizikal](assets/og-creator.jpg){ loading=lazy }](artikel/5-sebab-content-creator-wajib-simpan-emas-fizikal.md)
 
     <span class="cat-badge">Untuk Content Creator</span>
