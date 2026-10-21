@@ -67,3 +67,28 @@
 .md-typeset .btn-tg { background: #229ED9; border-color: #1B8DC4; color: #fff; }
 .md-typeset .btn-tg:hover { background: #1B8DC4; border-color: #1B8DC4; color: #fff; }
 .md-typeset .cta .md-button.btn-tg { color: #fff; }
+
+/* E-Book percuma */
+.md-typeset .btn-ebook { background: linear-gradient(180deg, var(--gold-lt), var(--gold)); border-color: #B58722; color: #3A2305; }
+.md-typeset .btn-ebook:hover { background: var(--gold-lt); border-color: #B58722; color: #3A2305; }
+.md-typeset .ebook-section {
+  display: grid;
+  grid-template-columns: minmax(130px, 200px) minmax(0, 1fr);
+  gap: 1.4rem;
+  align-items: center;
+  background: var(--cream-2);
+  border: 1px solid var(--gold-pale);
+  border-left: 5px solid var(--gold);
+  border-radius: 18px;
+  padding: 1.3rem 1.5rem;
+  margin: 2.4rem 0;
+  box-shadow: 0 8px 22px rgba(122, 12, 28, .07);
+}
+.md-typeset .ebook-pic img { display: block; width: 100%; height: auto; border-radius: 12px; box-shadow: 0 8px 20px rgba(122, 12, 28, .25); }
+.md-typeset .ebook-section h2 { margin: .4rem 0 .5rem; border: 0; padding: 0; }
+.md-typeset .ebook-section p { margin: 0 0 .9rem; }
+@media (max-width: 600px) {
+  .md-typeset .ebook-section { grid-template-columns: 1fr; padding: 1.2rem; text-align: center; }
+  .md-typeset .ebook-pic { width: 62%; max-width: 240px; margin: 0 auto; }
+}
+[data-md-color-scheme="slate"] .md-typeset .ebook-section { background: #221A16; border-color: #3A2E26; border-left-color: var(--gold); }

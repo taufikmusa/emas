@@ -67,6 +67,7 @@ plugins:
 
 extra:
   generator: false
+  ebook_url: https://pg2u.my/app/ebook/taufikmusa
   telegram_url: https://t.me/taufikpg_emas
   whatsapp_url: https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0
   analytics:
