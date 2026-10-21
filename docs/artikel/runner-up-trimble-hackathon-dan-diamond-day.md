@@ -67,14 +67,28 @@ Fokus kita pun mudah, konsisten belajar dan sampaikan ilmu supaya 1000 penyimpan
 
 ## Diamond Day: dengar sendiri kisah mereka
 
-Nanti, individu-individu hebat yang saya ceritakan tadi akan kongsi kisah kejayaan mereka di Diamond Day. Mereka datang dari pelbagai profesion. Ini antara achiever 4 Star Ruby, 3 Star Pearl dan 3 Star Jade untuk tahun kewangan 2025/26, saya kumpulkan ikut bidang kerja (leret untuk lihat).
+Nanti, individu-individu hebat yang saya ceritakan tadi akan kongsi kisah kejayaan mereka di Diamond Day. Mereka datang dari pelbagai profesion. Ini antara achiever 4 Star Ruby, 3 Star Pearl dan 3 Star Jade untuk tahun kewangan 2025/26. Pangkat tertinggi (4 Star Ruby) di atas, selebihnya saya kumpulkan ikut bidang kerja (leret untuk lihat).
+
+### 4 Star Ruby
+
+<section class="gallery gallery-poster" data-autoplay="off" aria-label="Achiever 4 Star Ruby">
+<div class="gallery-frame">
+<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Poster achiever, leret untuk lihat seterusnya">
+<figure class="gallery-slide"><img src="../../assets/diamond/a14.webp" alt="Diamond Recognition Ceremony, 4 Star Ruby: Steven Blanda anak Inting dan Moureen Padan, guru di pedalaman Sarawak" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/a15.webp" alt="Diamond Recognition Ceremony, 4 Star Ruby: Mohamad Hafiz bin Shafie, jurutera kilang sawit" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/a16.webp" alt="Diamond Recognition Ceremony, 4 Star Ruby: Mu'az bin Mahadzir dan Nur Izleen binti Rosli, doktor tentera" width="900" height="900" loading="lazy" decoding="async"></figure>
+</div>
+<button class="gallery-nav prev" type="button" aria-label="Poster sebelum">&#8249;</button>
+<button class="gallery-nav next" type="button" aria-label="Poster seterusnya">&#8250;</button>
+</div>
+<div class="gallery-dots" aria-hidden="true"></div>
+</section>
 
 ### Cikgu dan pendidik
 
 <section class="gallery gallery-poster" data-autoplay="off" aria-label="Achiever Cikgu dan pendidik">
 <div class="gallery-frame">
 <div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Poster achiever, leret untuk lihat seterusnya">
-<figure class="gallery-slide"><img src="../../assets/diamond/a14.webp" alt="Diamond Recognition Ceremony, 4 Star Ruby: Steven Blanda anak Inting dan Moureen Padan, guru di pedalaman Sarawak" width="900" height="900" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/diamond/a02.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Mohamed Ridwan bin Mat Rawi dan Tengku Noraishikin, bekas guru" width="900" height="900" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/diamond/a03.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Amimah binti Mohammad Ayub dan Nik Firdaus, Guru Cemerlang" width="900" height="900" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/diamond/a10.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Mohd Azmy Fadzly bin Mahat, pendidik" width="900" height="900" loading="lazy" decoding="async"></figure>
@@ -91,7 +105,6 @@ Nanti, individu-individu hebat yang saya ceritakan tadi akan kongsi kisah kejaya
 <section class="gallery gallery-poster" data-autoplay="off" aria-label="Achiever Kesihatan: dietetik, farmasi dan doktor">
 <div class="gallery-frame">
 <div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Poster achiever, leret untuk lihat seterusnya">
-<figure class="gallery-slide"><img src="../../assets/diamond/a16.webp" alt="Diamond Recognition Ceremony, 4 Star Ruby: Mu'az bin Mahadzir dan Nur Izleen binti Rosli, doktor tentera" width="900" height="900" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/diamond/a06.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Mohd Hilmi bin Ya'kub, pegawai dietetik" width="900" height="900" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/diamond/a07.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Mohd Nasiruddin bin Mohd Azmi dan Che Kalsom, pegawai farmasi" width="900" height="900" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/diamond/a11.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Dr Ahmad Luqman bin Bukhari, doktor dan imam" width="900" height="900" loading="lazy" decoding="async"></figure>
@@ -107,7 +120,6 @@ Nanti, individu-individu hebat yang saya ceritakan tadi akan kongsi kisah kejaya
 <section class="gallery gallery-poster" data-autoplay="off" aria-label="Achiever Jurutera, korporat dan penjawat awam">
 <div class="gallery-frame">
 <div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Poster achiever, leret untuk lihat seterusnya">
-<figure class="gallery-slide"><img src="../../assets/diamond/a15.webp" alt="Diamond Recognition Ceremony, 4 Star Ruby: Mohamad Hafiz bin Shafie, jurutera kilang sawit" width="900" height="900" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/diamond/a09.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Muhammad Bashir bin Mansor, jurutera" width="900" height="900" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/diamond/a12.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Nurul Syafiqah binti Roslan, bekas GLC Executive" width="900" height="900" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/diamond/a01.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Adam Fahmi bin Ghazali dan Huda Amira, penjawat awam" width="900" height="900" loading="lazy" decoding="async"></figure>
