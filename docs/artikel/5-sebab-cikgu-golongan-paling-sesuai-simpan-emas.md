@@ -75,6 +75,16 @@ Cikgu sentiasa membina masa depan murid setiap hari di kelas. Kini masanya cikgu
 
 ![Kukuhkan persaraan anda, mulakan simpanan emas serendah RM100 melalui Akaun GAP](../assets/cikgu-7-kukuhkan.webp){ .step-img width="900" height="900" loading="lazy" }
 
+## Tonton videonya
+
+<a class="video-thumb" href="https://www.facebook.com/share/r/1KfWomJZ9X/" aria-label="Tonton video 5 sebab cikgu golongan paling sesuai simpan emas di Facebook">
+<img src="../../assets/cikgu-video-thumb.webp" alt="Thumbnail video: 5 sebab cikgu golongan paling sesuai simpan emas" width="640" height="1137" loading="lazy" decoding="async">
+<span class="video-play" aria-hidden="true"><svg viewBox="0 0 24 24" width="34" height="34"><path fill="currentColor" d="M8 5v14l11-7z"/></svg></span>
+<span class="video-label">Tonton di Facebook</span>
+</a>
+
+<p class="video-cta"><a class="md-button md-button--primary" href="https://www.facebook.com/share/r/1KfWomJZ9X/">▶ Tonton video di Facebook</a></p>
+
 Moga perkongsian ini bermanfaat.
 
 <div class="cta" markdown>
