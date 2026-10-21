@@ -42,6 +42,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Step by step nak buat blog guna Claude Code untuk beginner](assets/og-blog-claude-code.jpg){ loading=lazy }](artikel/step-by-step-buat-blog-guna-claude-code.md)
+
+    <span class="cat-badge">Tutorial Beginner</span>
+
+    **[Step by Step Nak Buat Blog Guna Claude Code Untuk Beginner](artikel/step-by-step-buat-blog-guna-claude-code.md)**
+
+    Dari beli domain hingga blog live, siap prompt yang boleh terus salin.
+
 - [![5 sebab pasukan keselamatan perlukan emas fizikal](assets/og-keselamatan.jpg){ loading=lazy }](artikel/5-sebab-pasukan-keselamatan-perlukan-emas-fizikal.md)
 
     <span class="cat-badge">Untuk Pasukan Keselamatan</span>

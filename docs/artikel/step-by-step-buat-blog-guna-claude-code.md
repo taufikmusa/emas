@@ -1,13 +1,3 @@
-<!--
-DRAFT. JANGAN PUBLISH SEBELUM TAUFIK LULUSKAN.
-Fail ini sengaja di luar docs/ supaya MkDocs tidak membinanya.
-
-Bila nak publish:
-1. Pindah fail ke docs/artikel/ dan gambar ke docs/assets/ (laluan ../assets/ sudah betul).
-2. mkdocs.yml: tambah features "content.code.copy" (butang salin prompt) dan extension
-   "pymdownx.highlight" + "pymdownx.inlinehilite" (tajuk pada blok prompt).
-3. Tambah dalam nav dan kad laman utama.
--->
 ---
 title: "Step by Step Nak Buat Blog Guna Claude Code Untuk Beginner"
 description: Panduan dari kosong untuk beginner tanpa coding. Beli domain, buat akaun GitHub dan Claude, publish page pertama, tambah artikel, gambar dan butang WhatsApp. Siap prompt yang boleh terus salin.
@@ -21,7 +11,7 @@ image: assets/og-blog-claude-code.jpg
 *"Tak reti coding pun boleh. Anda cuma perlu tahu apa nak minta."*
 {: .lead }
 
-**Taufik Bin Musa** · Draf 21 Oktober 2026 · 12 min baca
+**Taufik Bin Musa** · 21 Oktober 2026 · 12 min baca
 {: .byline }
 
 ![Step by step nak buat blog guna Claude Code untuk beginner](../assets/blog-claude-code-cover.webp){ .step-img width="900" height="1125" }
