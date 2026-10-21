@@ -4,7 +4,7 @@ description: Kisah saya sebagai Technical Specialist Tekla Structures menang Run
 image: assets/og-diamond-day.jpg
 ---
 
-<span class="cat-badge">Kisah Taufik</span>
+<span class="cat-badge">Diamond Day</span>
 
 # Runner-up Trimble Hackathon '26 dan Jemputan ke Diamond Day 7 November
 
@@ -67,24 +67,62 @@ Fokus kita pun mudah, konsisten belajar dan sampaikan ilmu supaya 1000 penyimpan
 
 ## Diamond Day: dengar sendiri kisah mereka
 
-Nanti, individu-individu hebat yang saya ceritakan tadi akan kongsi kisah kejayaan mereka di Diamond Day. Ini antara achiever 3 Star Jade dan 3 Star Pearl untuk tahun kewangan 2025/26 (leret untuk lihat semua).
+Nanti, individu-individu hebat yang saya ceritakan tadi akan kongsi kisah kejayaan mereka di Diamond Day. Mereka datang dari pelbagai profesion. Ini antara achiever 3 Star Jade dan 3 Star Pearl untuk tahun kewangan 2025/26, saya kumpulkan ikut bidang kerja (leret untuk lihat).
 
-<section class="gallery gallery-poster" data-autoplay="off" aria-label="Achiever Diamond Recognition Ceremony 2025/26">
+### Cikgu dan pendidik
+
+<section class="gallery gallery-poster" data-autoplay="off" aria-label="Achiever Cikgu dan pendidik">
 <div class="gallery-frame">
 <div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Poster achiever, leret untuk lihat seterusnya">
-<figure class="gallery-slide"><img src="../assets/diamond/a01.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Adam Fahmi bin Ghazali dan Huda Amira binti Azman" width="900" height="900" loading="lazy" decoding="async"></figure>
-<figure class="gallery-slide"><img src="../assets/diamond/a02.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Mohamed Ridwan bin Mat Rawi dan Tengku Noraishikin binti Tengku Zainal Abidin" width="900" height="900" loading="lazy" decoding="async"></figure>
-<figure class="gallery-slide"><img src="../assets/diamond/a03.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Amimah binti Mohammad Ayub dan Nik Firdaus bin Nik Mahmod" width="900" height="900" loading="lazy" decoding="async"></figure>
-<figure class="gallery-slide"><img src="../assets/diamond/a04.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Siti Zareen Naqiyah binti Zool Ambia" width="900" height="900" loading="lazy" decoding="async"></figure>
-<figure class="gallery-slide"><img src="../assets/diamond/a05.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Nur Ayunni binti Che Harun dan Shahrin Razmi" width="900" height="900" loading="lazy" decoding="async"></figure>
-<figure class="gallery-slide"><img src="../assets/diamond/a06.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Mohd Hilmi bin Ya'kub" width="900" height="900" loading="lazy" decoding="async"></figure>
-<figure class="gallery-slide"><img src="../assets/diamond/a07.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Mohd Nasiruddin bin Mohd Azmi dan Che Kalsom binti Ismail" width="900" height="900" loading="lazy" decoding="async"></figure>
-<figure class="gallery-slide"><img src="../assets/diamond/a08.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Muhammad Fadhli bin Adnan dan Liyana Nauli binti Mohamed Nasir" width="900" height="900" loading="lazy" decoding="async"></figure>
-<figure class="gallery-slide"><img src="../assets/diamond/a09.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Muhammad Bashir bin Mansor" width="900" height="900" loading="lazy" decoding="async"></figure>
-<figure class="gallery-slide"><img src="../assets/diamond/a10.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Mohd Azmy Fadzly bin Mahat" width="900" height="900" loading="lazy" decoding="async"></figure>
-<figure class="gallery-slide"><img src="../assets/diamond/a11.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Dr Ahmad Luqman bin Bukhari" width="900" height="900" loading="lazy" decoding="async"></figure>
-<figure class="gallery-slide"><img src="../assets/diamond/a12.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Nurul Syafiqah binti Roslan" width="900" height="900" loading="lazy" decoding="async"></figure>
-<figure class="gallery-slide"><img src="../assets/diamond/a13.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: S M Salim bin Sharif dan Nur Arfah binti Zakaria" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/a02.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Mohamed Ridwan bin Mat Rawi dan Tengku Noraishikin, bekas guru" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/a03.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Amimah binti Mohammad Ayub dan Nik Firdaus, Guru Cemerlang" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/a10.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Mohd Azmy Fadzly bin Mahat, pendidik" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/a13.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: S M Salim bin Sharif dan Nur Arfah binti Zakaria, dua guru" width="900" height="900" loading="lazy" decoding="async"></figure>
+</div>
+<button class="gallery-nav prev" type="button" aria-label="Poster sebelum">&#8249;</button>
+<button class="gallery-nav next" type="button" aria-label="Poster seterusnya">&#8250;</button>
+</div>
+<div class="gallery-dots" aria-hidden="true"></div>
+</section>
+
+### Kesihatan: dietetik, farmasi dan doktor
+
+<section class="gallery gallery-poster" data-autoplay="off" aria-label="Achiever Kesihatan: dietetik, farmasi dan doktor">
+<div class="gallery-frame">
+<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Poster achiever, leret untuk lihat seterusnya">
+<figure class="gallery-slide"><img src="../../assets/diamond/a06.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Mohd Hilmi bin Ya'kub, pegawai dietetik" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/a07.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Mohd Nasiruddin bin Mohd Azmi dan Che Kalsom, pegawai farmasi" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/a11.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Dr Ahmad Luqman bin Bukhari, doktor dan imam" width="900" height="900" loading="lazy" decoding="async"></figure>
+</div>
+<button class="gallery-nav prev" type="button" aria-label="Poster sebelum">&#8249;</button>
+<button class="gallery-nav next" type="button" aria-label="Poster seterusnya">&#8250;</button>
+</div>
+<div class="gallery-dots" aria-hidden="true"></div>
+</section>
+
+### Jurutera, korporat dan penjawat awam
+
+<section class="gallery gallery-poster" data-autoplay="off" aria-label="Achiever Jurutera, korporat dan penjawat awam">
+<div class="gallery-frame">
+<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Poster achiever, leret untuk lihat seterusnya">
+<figure class="gallery-slide"><img src="../../assets/diamond/a09.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Muhammad Bashir bin Mansor, jurutera" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/a12.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Nurul Syafiqah binti Roslan, bekas GLC Executive" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/a01.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Adam Fahmi bin Ghazali dan Huda Amira, penjawat awam" width="900" height="900" loading="lazy" decoding="async"></figure>
+</div>
+<button class="gallery-nav prev" type="button" aria-label="Poster sebelum">&#8249;</button>
+<button class="gallery-nav next" type="button" aria-label="Poster seterusnya">&#8250;</button>
+</div>
+<div class="gallery-dots" aria-hidden="true"></div>
+</section>
+
+### Suri rumah, siswazah dan business owner
+
+<section class="gallery gallery-poster" data-autoplay="off" aria-label="Achiever Suri rumah, siswazah dan business owner">
+<div class="gallery-frame">
+<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Poster achiever, leret untuk lihat seterusnya">
+<figure class="gallery-slide"><img src="../../assets/diamond/a05.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Nur Ayunni binti Che Harun dan Shahrin Razmi, suri rumah" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/a04.webp" alt="Diamond Recognition Ceremony, 3 Star Jade: Siti Zareen Naqiyah binti Zool Ambia, siswazah" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/a08.webp" alt="Diamond Recognition Ceremony, 3 Star Pearl: Muhammad Fadhli bin Adnan dan Liyana Nauli, business owner" width="900" height="900" loading="lazy" decoding="async"></figure>
 </div>
 <button class="gallery-nav prev" type="button" aria-label="Poster sebelum">&#8249;</button>
 <button class="gallery-nav next" type="button" aria-label="Poster seterusnya">&#8250;</button>
@@ -99,7 +137,7 @@ Jadi jika anda nak dengar sendiri perkongsian berharga ini, saya jemput untuk ha
 !!! note "Butiran majlis"
     - 📅 **Sabtu, 7 November 2026**, 2:00 petang hingga 6:00 petang
     - 📍 Kuala Lumpur Convention Centre, Level 3, Grand Ballroom 1 & 2
-    - 🎟️ **RM30 seorang**, tiket boleh dibeli di [www.pgmall.com.my](https://www.pgmall.com.my){ target="_blank" }
+    - 🎟️ **RM30 seorang**, tiket boleh dibeli terus di [PGMall (Online Shopping By Public Gold)](https://pgmall.my/r/rGHPnSJIxU1){ target="_blank" }
     - ℹ️ Maklumat lanjut di [www.publicgold.com.my](https://www.publicgold.com.my){ target="_blank" }
 
 Dengan RM30 kita dah boleh dengar perkongsian yang sangat bernilai ni.
@@ -112,7 +150,7 @@ Lihat kejayaan untuk cipta kejayaan, InsyaAllah.
 
 Dapatkan tiket RM30 sebelum 7 November, atau WhatsApp saya kalau nak tanya apa-apa dulu.
 
-[Beli Tiket RM30 →](https://www.pgmall.com.my){ .md-button .btn-gold target="_blank" }
+[Beli Tiket RM30 →](https://pgmall.my/r/rGHPnSJIxU1){ .md-button .btn-gold target="_blank" }
 [💬 WhatsApp Taufik](https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0){ .md-button .btn-wa target="_blank" }
 
 </div>

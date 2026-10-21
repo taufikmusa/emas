@@ -27,3 +27,7 @@ Palet krim, maroon, emas (rujuk `docs/stylesheets/extra.css`), tajuk Playfair Di
 
 ## Galeri emas di laman utama
 Carousel di hujung `docs/index.md` (sebelum footer). Gambar dalam `docs/assets/galeri/gNN.webp` (1000x818, crop 11:9, bawah 110 KB). Tambah slide dengan satu `<figure class="gallery-slide">` lagi dalam `.gallery-track`; JS `docs/javascripts/carousel.js` bina dots sendiri.
+
+## Laluan gambar dalam HTML mentah
+Artikel dipaparkan di `/artikel/<slug>/` (directory URLs). Markdown `![](../assets/x.webp)` dibetulkan oleh MkDocs, tapi `<img src>` dalam HTML mentah TIDAK. Dalam artikel guna `../../assets/...` untuk HTML mentah, dan `assets/...` di `docs/index.md`. Tiket Diamond Day: https://pgmall.my/r/rGHPnSJIxU1
+

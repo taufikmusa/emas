@@ -44,7 +44,7 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 - [![Runner-up Trimble Hackathon 26 dan jemputan Diamond Day](assets/og-diamond-day.jpg){ loading=lazy }](artikel/runner-up-trimble-hackathon-dan-diamond-day.md)
 
-    <span class="cat-badge">Kisah Taufik</span>
+    <span class="cat-badge">Diamond Day</span>
 
     **[Runner-up Trimble Hackathon '26 dan Jemputan ke Diamond Day 7 November](artikel/runner-up-trimble-hackathon-dan-diamond-day.md)**
 
