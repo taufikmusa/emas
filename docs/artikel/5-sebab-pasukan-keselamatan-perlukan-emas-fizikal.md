@@ -88,6 +88,7 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 
 [Daftar Percuma →](https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1){ .md-button .btn-gold target="_blank" }
 [💬 WhatsApp Taufik](https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0){ .md-button .btn-wa target="_blank" }
+[✈️ Join Telegram](https://t.me/taufikpg_emas){ .md-button .btn-tg }
 
 </div>
 
@@ -110,7 +111,7 @@ Semua urus niaga dibuat terus bersama Public Gold, syarikat emas terbesar Malays
 
 <div class="abio-pic" markdown>
 
-![Taufik Bin Musa, Dealer Public Gold](../assets/taufik-cut.webp){ width="440" height="641" loading="lazy" }
+![Taufik Bin Musa, Dealer Public Gold](../assets/taufik-foto.webp){ width="640" height="959" loading="lazy" }
 
 </div>
 

@@ -461,6 +461,7 @@ Moga perkongsian ini bermanfaat.
 Dah cuba tapi tersangkut di mana-mana langkah? WhatsApp saya, bagitahu di langkah mana anda berhenti.
 
 [💬 WhatsApp Taufik](https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+bantu+saya+buat+blog+guna+Claude+Code&type=phone_number&app_absent=0){ .md-button .btn-wa target="_blank" }
+[✈️ Join Telegram](https://t.me/taufikpg_emas){ .md-button .btn-tg }
 
 </div>
 
@@ -483,7 +484,7 @@ Semua urus niaga dibuat terus bersama Public Gold, syarikat emas terbesar Malays
 
 <div class="abio-pic" markdown>
 
-![Taufik Bin Musa, Dealer Public Gold](../assets/taufik-cut.webp){ width="440" height="641" loading="lazy" }
+![Taufik Bin Musa, Dealer Public Gold](../assets/taufik-foto.webp){ width="640" height="959" loading="lazy" }
 
 </div>
 
