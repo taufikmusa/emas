@@ -35,5 +35,5 @@ Artikel dipaparkan di `/artikel/<slug>/` (directory URLs). Markdown `![](../asse
 Folder `drafts/` ada artikel yang Taufik belum lulus. Ia di luar `docs/` jadi MkDocs tak bina. JANGAN pindah ke `docs/`, tambah dalam nav atau kad laman utama, melainkan Taufik cakap terang-terang "publish". Draft semasa: `drafts/step-by-step-buat-blog-guna-claude-code.md` (nota langkah publish di bahagian atas fail).
 
 ## Pautan video
-Facebook tak dipercayai untuk embed. Guna kad `<a class="video-card">` (lihat artikel pasukan keselamatan) yang buka video di tab baharu.
+Facebook tak dipercayai untuk embed. Guna `<a class="video-thumb">` dengan thumbnail dan butang play (lihat artikel pasukan keselamatan), letak di bahagian bawah artikel sebelum penutup. Ia buka video di tab baharu. Laluan thumbnail `../../assets/...`.
 
