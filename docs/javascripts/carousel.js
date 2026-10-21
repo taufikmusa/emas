@@ -48,7 +48,7 @@
       window.addEventListener("resize", function () { track.scrollTo({ left: index() * track.clientWidth }); });
       mark();
 
-      if (reduce) return;
+      if (reduce || root.dataset.autoplay === "off") return;
       var timer = null, visible = false, hold = false;
       function tick() { if (visible && !hold && !document.hidden) go(index() + 1); }
       function start() { if (!timer) timer = setInterval(tick, 4500); }
