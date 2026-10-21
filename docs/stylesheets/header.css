@@ -1,0 +1,8 @@
+/* Header telefon: dua icon (Telegram, WhatsApp) perlu muat tanpa potong tajuk tapak. */
+@media (max-width: 76.1875em) {
+  .md-header__title { margin-left: .3rem; margin-right: 0; font-size: .82rem; }
+  .md-header__button.md-icon { padding: .25rem; margin: .2rem 0; }
+  .md-header__button.tg-head svg { width: 1.5rem; height: 1.5rem; }
+  .md-header__button.wa-head svg { width: 1.4rem; height: 1.4rem; }
+  .md-header__button[for="__search"] { margin-left: 0; }
+}
