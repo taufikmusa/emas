@@ -24,6 +24,11 @@ Pesan guru saya, Tn Mohd Zulkifli Shafie:
 
 Dan [Akaun GAP](https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1){ target="_blank" } ialah cara paling mudah untuk anda mula membina benteng tu, serendah RM100.
 
+<a class="video-card" href="https://www.facebook.com/share/v/1JiAamQnSr/?mibextid=wwXIfr" target="_blank" rel="noopener">
+<span class="video-play" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26"><path fill="currentColor" d="M8 5v14l11-7z"/></svg></span>
+<span class="video-text"><strong>Tonton video: 5 sebab pasukan keselamatan perlukan emas fizikal</strong><small>Buka di Facebook</small></span>
+</a>
+
 ## ✅ Sebab #1: Perlindungan tugas berisiko tinggi
 
 Kerjaya yang mencabar menuntut **persediaan luar jangka**.

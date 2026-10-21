@@ -616,3 +616,36 @@ body { font-feature-settings: "ss01"; }
 .md-typeset .gallery-poster .gallery-slide { aspect-ratio: 1 / 1; }
 .md-typeset .gallery-poster .gallery-slide img { object-fit: contain; }
 .md-typeset .gallery-poster .gallery-frame { border: 1px solid var(--gold-pale); }
+
+/* Kad pautan video */
+.md-typeset .video-card {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin: 1.4rem 0;
+  padding: .9rem 1.1rem;
+  background: var(--cream-2);
+  border: 1.5px solid var(--gold);
+  border-radius: 18px;
+  box-shadow: 0 8px 22px rgba(122, 12, 28, .1);
+  color: var(--ink) !important;
+  text-decoration: none;
+  transition: transform .15s, box-shadow .15s;
+}
+.md-typeset .video-card:hover { transform: translateY(-2px); box-shadow: 0 12px 28px rgba(122, 12, 28, .18); }
+.md-typeset .video-play {
+  flex: none;
+  width: 3.2rem;
+  height: 3.2rem;
+  border-radius: 50%;
+  display: grid;
+  place-items: center;
+  background: linear-gradient(180deg, var(--maroon-2), var(--maroon));
+  color: #fff;
+  box-shadow: 0 6px 14px rgba(122, 12, 28, .3);
+}
+.md-typeset .video-play svg { margin-left: 3px; }
+.md-typeset .video-text { display: flex; flex-direction: column; min-width: 0; line-height: 1.35; }
+.md-typeset .video-text strong { font-size: .98rem; }
+.md-typeset .video-text small { color: var(--md-default-fg-color--light); font-size: .74rem; margin-top: .15rem; }
+[data-md-color-scheme="slate"] .md-typeset .video-card { background: #221A16; color: #F2E8D5 !important; }
