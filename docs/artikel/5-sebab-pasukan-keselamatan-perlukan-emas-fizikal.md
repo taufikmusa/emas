@@ -24,11 +24,6 @@ Pesan guru saya, Tn Mohd Zulkifli Shafie:
 
 Dan [Akaun GAP](https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1){ target="_blank" } ialah cara paling mudah untuk anda mula membina benteng tu, serendah RM100.
 
-<a class="video-card" href="https://www.facebook.com/share/v/1JiAamQnSr/?mibextid=wwXIfr" target="_blank" rel="noopener">
-<span class="video-play" aria-hidden="true"><svg viewBox="0 0 24 24" width="26" height="26"><path fill="currentColor" d="M8 5v14l11-7z"/></svg></span>
-<span class="video-text"><strong>Tonton video: 5 sebab pasukan keselamatan perlukan emas fizikal</strong><small>Buka di Facebook</small></span>
-</a>
-
 ## ✅ Sebab #1: Perlindungan tugas berisiko tinggi
 
 Kerjaya yang mencabar menuntut **persediaan luar jangka**.
@@ -72,6 +67,14 @@ Disiplin yang kuat adalah kunci utama kejayaan membina benteng kewangan keluarga
 Anda menjaga keselamatan negara setiap detik di perbatasan. Kini masanya anda mengukuhkan pertahanan masa depan keluarga sendiri.
 
 [Mulakan langkah simpanan emas pertama serendah RM100](https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1){ target="_blank" } melalui Akaun GAP, atau [PM saya](https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0){ target="_blank" } untuk bimbingan percuma sekarang. Tak pasti macam mana nak daftar? Ikut [5 langkah daftar Public Gold GAP](cara-daftar-public-gold-gap-2026.md) step by step.
+
+## Tonton videonya
+
+<a class="video-thumb" href="https://www.facebook.com/share/v/1JiAamQnSr/?mibextid=wwXIfr" target="_blank" rel="noopener" aria-label="Tonton video 5 sebab pasukan keselamatan wajib ada aset emas di Facebook">
+<img src="../../assets/keselamatan-video-thumb.webp" alt="Thumbnail video: 5 sebab pasukan keselamatan wajib ada aset emas" width="640" height="1137" loading="lazy" decoding="async">
+<span class="video-play" aria-hidden="true"><svg viewBox="0 0 24 24" width="34" height="34"><path fill="currentColor" d="M8 5v14l11-7z"/></svg></span>
+<span class="video-label">Tonton di Facebook</span>
+</a>
 
 Moga perkongsian ini bermanfaat.
 
