@@ -42,6 +42,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 sebab pasukan keselamatan perlukan emas fizikal](assets/og-keselamatan.jpg){ loading=lazy }](artikel/5-sebab-pasukan-keselamatan-perlukan-emas-fizikal.md)
+
+    <span class="cat-badge">Untuk Pasukan Keselamatan</span>
+
+    **[5 Sebab Pasukan Keselamatan Perlukan Emas Fizikal](artikel/5-sebab-pasukan-keselamatan-perlukan-emas-fizikal.md)**
+
+    Tugas berisiko tinggi, persaraan awal dan benteng kewangan keluarga. Kenapa emas fizikal penting.
+
 - [![Runner-up Trimble Hackathon 26 dan jemputan Diamond Day](assets/og-diamond-day.jpg){ loading=lazy }](artikel/runner-up-trimble-hackathon-dan-diamond-day.md)
 
     <span class="cat-badge">Diamond Day</span>
