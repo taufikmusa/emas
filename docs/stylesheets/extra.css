@@ -697,6 +697,14 @@ body { font-feature-settings: "ss01"; }
 }
 .md-typeset .highlight pre > code,
 .md-typeset pre > code { white-space: pre-wrap; word-break: break-word; font-size: .8rem; line-height: 1.65; }
-.md-typeset .highlight code { background: transparent; }
 .md-typeset .md-clipboard { color: #F0CF6A; }
 .md-typeset .md-clipboard:hover { color: #fff; }
+
+/* Pastikan blok prompt sentiasa gelap dengan teks krim yang jelas (cerah dan gelap) */
+.md-typeset .highlight,
+.md-typeset .highlight pre,
+.md-typeset .highlight pre > code {
+  background-color: #1B1410;
+  color: #F2E8D5;
+}
+.md-typeset .highlight pre > code { padding: 1rem 1.1rem; opacity: 1; }
