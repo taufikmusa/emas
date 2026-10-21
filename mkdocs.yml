@@ -32,6 +32,7 @@ theme:
     - navigation.sections
     - toc.follow
     - search.suggest
+    - content.code.copy
 
 extra_css:
   - https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,600;0,700;0,800;1,600&display=swap
@@ -50,6 +51,9 @@ markdown_extensions:
       permalink: true
   - pymdownx.details
   - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
   - pymdownx.emoji:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
@@ -85,4 +89,5 @@ nav:
       - Runner-up Trimble Hackathon dan Diamond Day: artikel/runner-up-trimble-hackathon-dan-diamond-day.md
   - Untuk Pasukan Keselamatan:
       - 5 Sebab Pasukan Keselamatan Simpan Emas: artikel/5-sebab-pasukan-keselamatan-perlukan-emas-fizikal.md
-
+  - Tutorial Blog:
+      - Step by Step Buat Blog Guna Claude Code: artikel/step-by-step-buat-blog-guna-claude-code.md

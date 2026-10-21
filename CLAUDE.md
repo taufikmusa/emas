@@ -32,7 +32,10 @@ Carousel di hujung `docs/index.md` (sebelum footer). Gambar dalam `docs/assets/g
 Artikel dipaparkan di `/artikel/<slug>/` (directory URLs). Markdown `![](../assets/x.webp)` dibetulkan oleh MkDocs, tapi `<img src>` dalam HTML mentah TIDAK. Dalam artikel guna `../../assets/...` untuk HTML mentah, dan `assets/...` di `docs/index.md`. Tiket Diamond Day: https://pgmall.my/r/rGHPnSJIxU1
 
 ## Draft (jangan publish)
-Folder `drafts/` ada artikel yang Taufik belum lulus. Ia di luar `docs/` jadi MkDocs tak bina. JANGAN pindah ke `docs/`, tambah dalam nav atau kad laman utama, melainkan Taufik cakap terang-terang "publish". Draft semasa: `drafts/step-by-step-buat-blog-guna-claude-code.md` (nota langkah publish di bahagian atas fail).
+Artikel yang Taufik belum lulus disimpan dalam `drafts/` (di luar `docs/`, jadi MkDocs tak bina). JANGAN pindah ke `docs/`, tambah dalam nav atau kad laman utama, melainkan Taufik cakap terang-terang "publish". Sekarang tiada draft.
+
+## Blok prompt
+Blok kod bertajuk (```` ```text title="Prompt 1: ..." ````) dipaparkan dengan butang Salin (`content.code.copy` dan `pymdownx.highlight` dalam `mkdocs.yml`). Guna untuk prompt yang pembaca nak salin.
 
 ## Pautan video
 Facebook tak dipercayai untuk embed. Guna `<a class="video-thumb">` dengan thumbnail dan butang play (lihat artikel pasukan keselamatan), letak di bahagian bawah artikel sebelum penutup. Pautan Facebook buka dalam TAB YANG SAMA (tanpa target=_blank), kerana tab baharu gagal pada iPhone incognito. Laluan thumbnail `../../assets/...`.
