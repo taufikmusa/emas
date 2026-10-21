@@ -83,6 +83,12 @@ Dealer berperanan sebagai "hotline" untuk membantu penyimpan emas.
 
 Follow [@taufik.pg](https://www.threads.com/@taufik.pg){ target="_blank" } untuk tip emas terkini.
 
+## Tonton videonya
+
+<div class="yt-short"><iframe src="https://www.youtube-nocookie.com/embed/q9h41tzO2RI" title="Cara mudah simpan emas di Public Gold" loading="lazy" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>
+
+<p class="video-cta"><a class="md-button" href="https://youtube.com/shorts/q9h41tzO2RI">Tonton di YouTube</a></p>
+
 !!! question "Anda dah bersedia nak mulakan RM100 pertama untuk diri sendiri atau anak-anak?"
 
 <div class="cta" markdown>
