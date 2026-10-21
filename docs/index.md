@@ -135,6 +135,24 @@ Update harga emas, tips simpanan dan info terkini Public Gold. Percuma, terus ma
 
 </section>
 
+<section class="ebook-section" markdown>
+
+<a class="ebook-pic" href="https://pg2u.my/app/ebook/taufikmusa"><img src="assets/ebook-5-minit-emas.webp" alt="Ebook 5 Minit Emas percuma bernilai RM99, dikongsi oleh Taufik Bin Musa" width="700" height="1245" loading="lazy"></a>
+
+<div class="ebook-text" markdown>
+
+<span class="cat-badge">E-Book Percuma</span>
+
+## 5 Minit Emas, <span class="gold">Bernilai RM99</span>
+
+20 persoalan asas yang perlu anda tahu sebelum beli emas, tambah 5 soalan bonus. Dari ZERO, lengkap dengan tips penting dan rahsia yang jarang diceritakan.
+
+<a class="md-button btn-ebook" href="https://pg2u.my/app/ebook/taufikmusa">📘 Muat Turun Percuma</a>
+
+</div>
+
+</section>
+
 <section class="gallery" aria-label="Galeri emas fizikal Public Gold">
 <p class="gallery-eyebrow">🥇 Emas Fizikal Public Gold</p>
 <h2 class="gallery-title">Dari <span class="gold">Dinar Hingga Gold Bar</span></h2>
