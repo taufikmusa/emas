@@ -40,6 +40,7 @@ extra_css:
   - stylesheets/telegram.css
   - stylesheets/header.css
   - stylesheets/cta.css
+  - stylesheets/gallery-shot.css
 
 extra_javascript:
   - javascripts/whatsapp.js
@@ -85,6 +86,7 @@ extra:
 nav:
   - Utama: index.md
   - Daftar & Mula:
+      - Apa Itu Akaun GAP Public Gold: artikel/apa-itu-akaun-gap-gold-accumulation-program-public-gold.md
       - 9 Soalan Lazim Sebelum Buka Akaun GAP: artikel/9-soalan-lazim-sebelum-buka-akaun-emas-gap.md
       - Cara Daftar Public Gold GAP: artikel/cara-daftar-public-gold-gap-2026.md
       - Bila Nak Mula Simpan Emas: artikel/bila-nak-mula-simpan-emas-jangan-tunggu-kereta-terbang.md

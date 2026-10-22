@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Apa itu akaun GAP Gold Accumulation Program Public Gold](assets/og-apa-itu-gap.jpg){ loading=lazy }](artikel/apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+
+    <span class="cat-badge">Asas GAP</span>
+
+    **[Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](artikel/apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)**
+
+    Takut simpan emas di rumah dan rasa modal belum cukup? 5 perkara tentang akaun GAP yang ramai belum tahu.
+
 - [![Testimoni Puan NoraNajiha jual 32 gram emas untuk dana haji](assets/og-testimoni-noranajiha.jpg){ loading=lazy }](artikel/testimoni-jual-32-gram-emas-dana-haji-noranajiha.md)
 
     <span class="cat-badge">Testimoni</span>

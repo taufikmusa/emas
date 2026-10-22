@@ -1,0 +1,5 @@
+/* Carousel tangkapan skrin app (portrait): gambar penuh kelihatan tanpa dipotong. */
+.md-typeset .gallery.gallery-shot { max-width: 420px; margin: 1.4rem auto 1.8rem; }
+.md-typeset .gallery-shot .gallery-slide { aspect-ratio: 3 / 4; background: var(--cream-2); }
+.md-typeset .gallery-shot .gallery-slide img { object-fit: contain; }
+.md-typeset .gallery-shot .gallery-frame { border: 1px solid var(--gold-pale); }
