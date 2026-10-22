@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Testimoni Puan NoraNajiha jual 32 gram emas untuk dana haji](assets/og-testimoni-noranajiha.jpg){ loading=lazy }](artikel/testimoni-jual-32-gram-emas-dana-haji-noranajiha.md)
+
+    <span class="cat-badge">Testimoni</span>
+
+    **[Jual 32 Gram Emas Untuk Dana Haji: Kisah Puan NoraNajiha](artikel/testimoni-jual-32-gram-emas-dana-haji-noranajiha.md)**
+
+    Suri rumah kumpul emas sedikit demi sedikit, kini cukupkan Tabung Istitoah untuk rayuan haji.
+
 - [![5 langkah matlamat simpan emas supaya gaji tak bocor](assets/og-matlamat-10-gram.jpg){ loading=lazy }](artikel/5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
