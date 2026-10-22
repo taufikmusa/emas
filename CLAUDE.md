@@ -8,7 +8,7 @@ Website content emas oleh Taufik Bin Musa (Dealer Public Gold, PG00359605). Pemi
 - MkDocs tak boleh dibina dalam sandbox (PyPI disekat). Sahkan hanya secara statik (YAML, pautan, Jinja), dan beritahu Taufik apa yang belum dilihat.
 
 ## Tambah artikel baru
-1. Fail `docs/artikel/<slug>.md` dengan front matter `title`, `description`, `image: assets/og-<nama>.jpg`.
+1. Fail `docs/artikel/<slug>.md` dengan front matter `title`, `description`, `image: assets/og-<nama>.jpg`. Letak `title` dan `description` dalam tanda petik jika ada `: ` (titik bertindih), kalau tidak YAML rosak dan front matter terpapar sebagai teks dalam artikel.
 2. Gambar: `.webp`, 900px lebar, quality 76 hingga 80, simpan dalam `docs/assets/`. Letak `width`, `height`, `loading="lazy"` dan kelas `.step-img`.
 3. OG image 1200x630 JPEG (baseline, quality 56 hingga 66, sasaran bawah 100 KB).
 4. Tambah dalam `nav:` di `mkdocs.yml` dan kad di `docs/index.md` (terbaru di atas).

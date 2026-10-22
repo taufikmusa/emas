@@ -1,6 +1,6 @@
 ---
 title: "Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold"
-description: Takut simpan emas di rumah dan rasa modal belum cukup? Kenali 5 perkara tentang akaun GAP Public Gold: mula serendah RM100, tak perlu simpan sendiri, boleh keluar fizikal, boleh jual dan sesuai jangka panjang.
+description: "Takut simpan emas di rumah dan rasa modal belum cukup? Kenali 5 perkara tentang akaun GAP Public Gold: mula serendah RM100, tak perlu simpan sendiri, boleh keluar fizikal, boleh jual dan sesuai jangka panjang."
 image: assets/og-apa-itu-gap.jpg
 ---
 
