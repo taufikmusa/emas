@@ -166,9 +166,9 @@ Lihat kejayaan untuk cipta kejayaan, InsyaAllah.
 Dapatkan tiket RM30 sebelum 7 November, atau WhatsApp saya kalau nak tanya apa-apa dulu.
 
 [Beli Tiket RM30 →](https://pgmall.my/r/rGHPnSJIxU1){ .md-button .btn-gold target="_blank" }
-[💬 WhatsApp Taufik](https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0){ .md-button .btn-wa target="_blank" }
-[✈️ Join Telegram](https://t.me/taufikpg_emas){ .md-button .btn-tg }
-[📘 E-Book Percuma](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
+[💬 WhatsApp](https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0){ .md-button .btn-wa target="_blank" }
+[✈️ Telegram](https://t.me/taufikpg_emas){ .md-button .btn-tg }
+[📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
 

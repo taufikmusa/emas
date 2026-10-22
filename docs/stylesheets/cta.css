@@ -1,0 +1,55 @@
+/* Kotak CTA artikel: satu butang utama (Daftar) dan tiga butang kedua dalam satu baris. */
+.md-typeset .cta {
+  padding: 1.9rem 1.2rem 1.6rem;
+}
+.md-typeset .cta h3 { margin: 0 0 .4rem; }
+.md-typeset .cta > p { margin: 0 auto 1.3rem; max-width: 32rem; line-height: 1.55; }
+.md-typeset .cta p:has(> .md-button) {
+  display: grid;
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+  gap: .6rem;
+  max-width: 34rem;
+  margin: 0 auto;
+}
+.md-typeset .cta p:has(> .md-button) .md-button {
+  margin: 0;
+  width: 100%;
+  box-sizing: border-box;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+}
+.md-typeset .cta .md-button.btn-gold {
+  grid-column: 1 / -1;
+  padding: .85rem 1rem;
+  font-size: 1rem;
+  box-shadow: 0 10px 22px rgba(0, 0, 0, .28), 0 0 0 4px rgba(240, 207, 106, .16);
+}
+.md-typeset .cta .md-button.btn-wa,
+.md-typeset .cta .md-button.btn-tg,
+.md-typeset .cta .md-button.btn-ebook {
+  flex-direction: column;
+  gap: .15rem;
+  padding: .65rem .3rem;
+  min-height: 3.6rem;
+  border-radius: 16px;
+  border-width: 1.5px;
+  font-size: .72rem;
+  line-height: 1.25;
+  font-weight: 700;
+  color: #FBF3DF;
+  background: rgba(255, 255, 255, .07);
+  box-shadow: none;
+}
+.md-typeset .cta .md-button.btn-wa { border-color: rgba(37, 211, 102, .75); }
+.md-typeset .cta .md-button.btn-tg { border-color: rgba(63, 180, 234, .85); }
+.md-typeset .cta .md-button.btn-ebook { border-color: rgba(240, 207, 106, .8); }
+.md-typeset .cta .md-button.btn-wa:hover { background: var(--wa); border-color: var(--wa); color: #fff; }
+.md-typeset .cta .md-button.btn-tg:hover { background: #229ED9; border-color: #229ED9; color: #fff; }
+.md-typeset .cta .md-button.btn-ebook:hover { background: var(--gold); border-color: var(--gold); color: #3A2305; }
+@media (max-width: 380px) {
+  .md-typeset .cta .md-button.btn-wa,
+  .md-typeset .cta .md-button.btn-tg,
+  .md-typeset .cta .md-button.btn-ebook { font-size: .66rem; }
+}

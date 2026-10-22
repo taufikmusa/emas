@@ -12,7 +12,7 @@ Website content emas oleh Taufik Bin Musa (Dealer Public Gold, PG00359605). Pemi
 2. Gambar: `.webp`, 900px lebar, quality 76 hingga 80, simpan dalam `docs/assets/`. Letak `width`, `height`, `loading="lazy"` dan kelas `.step-img`.
 3. OG image 1200x630 JPEG (baseline, quality 56 hingga 66, sasaran bawah 100 KB).
 4. Tambah dalam `nav:` di `mkdocs.yml` dan kad di `docs/index.md` (terbaru di atas).
-5. CTA setiap artikel ada 4 butang: Daftar (`.btn-gold`), WhatsApp (`.btn-wa`), Join Telegram (`.btn-tg`, tab sama) dan E-Book Percuma (`.btn-ebook`, pautan satu sumber `extra.ebook_url` dalam `mkdocs.yml`: https://pg2u.my/app/ebook/taufikmusa). Homepage ada seksyen Telegram dan seksyen E-Book 5 Minit Emas sebelum galeri. Pautan Telegram satu sumber di `extra.telegram_url` dalam `mkdocs.yml`: https://t.me/taufikpg_emas (channel @TAUFIKPG_EMAS).
+5. CTA setiap artikel ada 4 butang (Daftar penuh lebar, tiga lagi sebaris, gaya dalam `docs/stylesheets/cta.css`; label pendek: WhatsApp, Telegram, E-Book): Daftar (`.btn-gold`), WhatsApp (`.btn-wa`), Join Telegram (`.btn-tg`, tab sama) dan E-Book Percuma (`.btn-ebook`, pautan satu sumber `extra.ebook_url` dalam `mkdocs.yml`: https://pg2u.my/app/ebook/taufikmusa). Homepage ada seksyen Telegram dan seksyen E-Book 5 Minit Emas sebelum galeri. Pautan Telegram satu sumber di `extra.telegram_url` dalam `mkdocs.yml`: https://t.me/taufikpg_emas (channel @TAUFIKPG_EMAS).
 6. Susunan artikel: badge `.cat-badge`, `# tajuk`, `.lead`, `.byline`, gambar utama, isi, `.cta`, kad bio `.abio` (dengan `assets/taufik-foto.webp` (gambar segi empat, 640x959)).
 
 ## Peraturan content
