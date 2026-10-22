@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 langkah matlamat simpan emas supaya gaji tak bocor](assets/og-matlamat-10-gram.jpg){ loading=lazy }](artikel/5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[5 Langkah Matlamat Simpan Emas Supaya Gaji Tak Bocor Setiap Bulan](artikel/5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)**
+
+    Gaji bocor bukan sebab gaji kecil, tapi tiada matlamat jelas. 5 langkah supaya duit kekal jadi harta.
+
 - [![9 soalan lazim sebelum buka akaun emas GAP Public Gold](assets/og-9-soalan.jpg){ loading=lazy }](artikel/9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
 
     <span class="cat-badge">Soalan Lazim</span>
