@@ -460,9 +460,9 @@ Moga perkongsian ini bermanfaat.
 
 Dah cuba tapi tersangkut di mana-mana langkah? WhatsApp saya, bagitahu di langkah mana anda berhenti.
 
-[💬 WhatsApp Taufik](https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+bantu+saya+buat+blog+guna+Claude+Code&type=phone_number&app_absent=0){ .md-button .btn-wa target="_blank" }
-[✈️ Join Telegram](https://t.me/taufikpg_emas){ .md-button .btn-tg }
-[📘 E-Book Percuma](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
+[💬 WhatsApp](https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+bantu+saya+buat+blog+guna+Claude+Code&type=phone_number&app_absent=0){ .md-button .btn-wa target="_blank" }
+[✈️ Telegram](https://t.me/taufikpg_emas){ .md-button .btn-tg }
+[📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
 

@@ -39,6 +39,7 @@ extra_css:
   - stylesheets/site.css
   - stylesheets/telegram.css
   - stylesheets/header.css
+  - stylesheets/cta.css
 
 extra_javascript:
   - javascripts/whatsapp.js
