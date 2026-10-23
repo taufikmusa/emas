@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Kisah Mus’ab bin Umayr, pengorbanan yang menyentuh hati](assets/og-ibrah-musab.jpg){ loading=lazy }](artikel/kisah-musab-bin-umayr-pengorbanan-yang-menyentuh-hati.md)
+
+    <span class="cat-badge">Ibrah</span>
+
+    **[Kisah Mus’ab bin Umayr: Pengorbanan Yang Menyentuh Hati](artikel/kisah-musab-bin-umayr-pengorbanan-yang-menyentuh-hati.md)**
+
+    Pemuda paling bergaya di Makkah yang memilih iman. 3 perkara untuk direnungkan daripada perkongsian Ustaz Azlan Shah.
+
 - [![Harga emas jatuh RM16 segram dalam sehari, panik atau tambah simpanan](assets/og-harga-jatuh.jpg){ loading=lazy }](artikel/harga-emas-jatuh-rm16-segram-panik-atau-tambah-simpanan.md)
 
     <span class="cat-badge">Harga Emas</span>
