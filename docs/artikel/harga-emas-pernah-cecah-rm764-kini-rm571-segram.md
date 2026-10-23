@@ -90,6 +90,16 @@ Tak perlu tunggu ada duit yang banyak. Mulakan ikut kemampuan, tetapkan matlamat
 
 > Yang lebih penting bukanlah siapa yang berjaya meneka harga paling rendah, tetapi siapa yang mampu mengurus kewangan dengan baik dan kekal berdisiplin mencapai matlamatnya.
 
+## Tonton videonya
+
+<a class="video-thumb" href="https://www.facebook.com/share/v/18bP2rYy9z/" aria-label="Tonton video harga emas pernah cecah RM764, kini RM571 segram di Facebook">
+<img src="../../assets/harga-cecah-video-thumb.webp" alt="Thumbnail video: Harga emas pernah RM764, kini RM571 segram. Panik atau tambah simpanan?" width="640" height="1137" loading="lazy" decoding="async">
+<span class="video-play" aria-hidden="true"><svg viewBox="0 0 24 24" width="34" height="34"><path fill="currentColor" d="M8 5v14l11-7z"/></svg></span>
+<span class="video-label">Tonton di Facebook</span>
+</a>
+
+<p class="video-cta"><a class="md-button md-button--primary" href="https://www.facebook.com/share/v/18bP2rYy9z/">▶ Tonton video di Facebook</a></p>
+
 Moga perkongsian ini bermanfaat.
 
 <div class="cta" markdown>
