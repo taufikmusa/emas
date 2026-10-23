@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Harga emas pernah cecah RM764, kini RM571 segram](assets/og-harga-cecah.jpg){ loading=lazy }](artikel/harga-emas-pernah-cecah-rm764-kini-rm571-segram.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Harga Emas Pernah Cecah RM764, Kini RM571 Segram: Panik Atau Tambah Simpanan?](artikel/harga-emas-pernah-cecah-rm764-kini-rm571-segram.md)**
+
+    5 pesanan guru saya: penyimpan vs pelabur, matlamat, tempoh, DCA dan fokus pada gram.
+
 - [![Kisah Mus’ab bin Umayr, pengorbanan yang menyentuh hati](assets/og-ibrah-musab.jpg){ loading=lazy }](artikel/kisah-musab-bin-umayr-pengorbanan-yang-menyentuh-hati.md)
 
     <span class="cat-badge">Ibrah</span>
