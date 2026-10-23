@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Harga emas jatuh RM16 segram dalam sehari, panik atau tambah simpanan](assets/og-harga-jatuh.jpg){ loading=lazy }](artikel/harga-emas-jatuh-rm16-segram-panik-atau-tambah-simpanan.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Harga Emas Jatuh RM16 Segram Dalam Sehari: Panik Atau Tambah Simpanan?](artikel/harga-emas-jatuh-rm16-segram-panik-atau-tambah-simpanan.md)**
+
+    Dari RM587 ke RM571 segram dalam sehari. 4 pesanan guru saya tentang cara melihat harga emas jatuh.
+
 - [![Apa itu akaun GAP Gold Accumulation Program Public Gold](assets/og-apa-itu-gap.jpg){ loading=lazy }](artikel/apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
 
     <span class="cat-badge">Asas GAP</span>
