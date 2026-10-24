@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Kemewahan bukan bermaksud kita kaya](assets/og-kemewahan.jpg){ loading=lazy }](artikel/kemewahan-bukan-bermaksud-kita-kaya.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Kemewahan Bukan Bermaksud Kita Kaya](artikel/kemewahan-bukan-bermaksud-kita-kaya.md)**
+
+    Kemewahan adalah apa yang kita belanjakan, kekayaan adalah apa yang kita simpan. 5 prinsip untuk mula.
+
 - [![Berapa lama kita kena simpan emas untuk nampak untung](assets/og-berapa-lama.jpg){ loading=lazy }](artikel/berapa-lama-simpan-emas-untuk-nampak-untung.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
