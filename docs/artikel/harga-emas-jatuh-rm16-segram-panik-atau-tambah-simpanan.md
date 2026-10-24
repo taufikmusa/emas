@@ -33,11 +33,11 @@ Bagi orang yang menyimpan emas untuk jangka masa panjang, harga turun bukan seme
 
 Masa harga naik, kita gembira sebab nilai simpanan meningkat. Bila harga turun pula, kita ada peluang untuk mendapatkan lebih banyak gram dengan jumlah wang yang sama.
 
-Pada 23 Oktober 2026, [RM100](https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1){ target="_blank" } mendapat 0.1751 gram, berbanding 0.1704 gram sehari sebelumnya (leret untuk lihat paparan dalam app).
+Pada 23 Oktober 2026, [RM100](https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1){ target="_blank" } mendapat 0.1751 gram, berbanding 0.1704 gram sehari sebelumnya (swipe untuk lihat paparan dalam app).
 
 <section class="gallery gallery-shot" data-autoplay="off" aria-label="Paparan harga GAP dalam app Public Gold pada 23 Oktober 2026">
 <div class="gallery-frame">
-<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Paparan harga GAP dalam app Public Gold pada 23 Oktober 2026, leret untuk lihat seterusnya">
+<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Paparan harga GAP dalam app Public Gold pada 23 Oktober 2026, swipe untuk lihat seterusnya">
 <figure class="gallery-slide"><img src="../../assets/harga-beli-571.webp" alt="Skrin Buy GAP pada 23 Oktober 2026: harga emas RM571 segram, RM571 bersamaan 1.0000 gram" width="640" height="716" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/harga-app-baki.webp" alt="Skrin utama app Public Gold pada 23 Oktober 2026: RM100 bersamaan 0.1751 gram, RM571 bersamaan 1.0000 gram" width="640" height="814" loading="lazy" decoding="async"></figure>
 </div>

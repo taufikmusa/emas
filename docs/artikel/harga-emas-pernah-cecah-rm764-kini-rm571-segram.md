@@ -22,7 +22,7 @@ Bila tengok harga jatuh macam ni, saya percaya ramai yang mula gelisah. Ada yang
 
 Sekadar berkongsi pesan guru saya, Tn. Mohd Zulkifli Shafie.
 
-Harga emas turun naik dalam jangka pendek, tetapi kalau kita lihat sejarah harga emas Malaysia, trend jangka panjangnya meningkat (leret ke bawah untuk lihat gambar). Baca juga [harga emas jatuh RM16 segram dalam sehari](harga-emas-jatuh-rm16-segram-panik-atau-tambah-simpanan.md).
+Harga emas turun naik dalam jangka pendek, tetapi kalau kita lihat sejarah harga emas Malaysia, trend jangka panjangnya meningkat (swipe ke bawah untuk lihat gambar). Baca juga [harga emas jatuh RM16 segram dalam sehari](harga-emas-jatuh-rm16-segram-panik-atau-tambah-simpanan.md).
 
 ![Sejarah harga emas Malaysia: RM35 (2005), RM50 (2010), RM130 (2016), RM270 (2021), RM403 (2024) dan RM571 (23 Oktober 2026)](../assets/harga-sejarah-poster.webp){ .step-img width="900" height="1125" loading="lazy" }
 

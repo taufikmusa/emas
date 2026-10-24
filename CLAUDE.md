@@ -19,6 +19,7 @@ Website content emas oleh Taufik Bin Musa (Dealer Public Gold, PG00359605). Pemi
 - **Letak pautan dalam teks artikel bila berkaitan.** Kebanyakan artikel bertujuan suruh pembaca buka akaun dan daftar, jadi pautkan frasa seperti "Akaun GAP", "serendah RM100", "daftar" ke pautan daftar, dan "PM saya" / "hubungi saya" ke WhatsApp. Pautkan juga ke artikel dalaman yang berkaitan (contoh `cara-daftar-public-gold-gap-2026.md`).
 - Pautan daftar: `https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1`
 - Pautan WhatsApp: `https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0` (satu sumber di `extra.whatsapp_url` dalam `mkdocs.yml`).
+- Guna perkataan "swipe" (bukan "leret") untuk arahan carousel dan gambar, contohnya "swipe untuk lihat". Taufik dah tukar semua.
 - Sapaan pembaca "anda". Elak em dash. Jangan tulis komen seolah-olah daripada pelanggan sebenar.
 - Penafian rasmi dalam `copyright:` mkdocs.yml: kekalkan.
 - Jangan buat pautan atau URL app store yang tak dibekalkan.

@@ -34,11 +34,11 @@ Tak perlu tunggu duit banyak baru nak mula. Kita boleh kumpul emas sedikit demi 
 
 Bila kita asingkan sebahagian duit untuk simpanan emas, sekurang-kurangnya ada usaha untuk mengelakkan duit itu habis dibelanjakan untuk perkara yang kurang penting.
 
-Ini paparan dalam app Public Gold (leret untuk lihat). Pada 23 Oktober 2026, [RM100](https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1){ target="_blank" } bersamaan 0.1736 gram dan RM576 bersamaan 1 gram. Harga emas berubah dari semasa ke semasa.
+Ini paparan dalam app Public Gold (swipe untuk lihat). Pada 23 Oktober 2026, [RM100](https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1){ target="_blank" } bersamaan 0.1736 gram dan RM576 bersamaan 1 gram. Harga emas berubah dari semasa ke semasa.
 
 <section class="gallery gallery-shot" data-autoplay="off" aria-label="Paparan app Public Gold: baki GAP dan beli GAP">
 <div class="gallery-frame">
-<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Paparan app Public Gold: baki GAP dan beli GAP, leret untuk lihat seterusnya">
+<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Paparan app Public Gold: baki GAP dan beli GAP, swipe untuk lihat seterusnya">
 <figure class="gallery-slide"><img src="../../assets/gap-app-baki.webp" alt="Skrin utama app Public Gold dengan baki GAP, butang Top Up, Sell, Withdraw dan History serta harga GAP semasa" width="640" height="1065" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/gap-app-beli-rm100.webp" alt="Skrin Buy GAP: RM100 bersamaan 0.1736 gram emas Au 999.9" width="640" height="1167" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/gap-app-beli-1gram.webp" alt="Skrin Buy GAP: RM576 bersamaan 1 gram emas Au 999.9" width="640" height="1163" loading="lazy" decoding="async"></figure>
@@ -59,11 +59,11 @@ Emas dalam akaun disimpan oleh Public Gold tanpa caj simpanan. Jadi, kita tak pe
 
 Apabila gram emas dah terkumpul dan memenuhi keperluan pengeluaran, kita boleh menebusnya dalam bentuk jongkong emas atau dinar, tertakluk kepada denominasi dan caj berkaitan.
 
-Ini antara produk fizikal yang ada dalam app untuk pengeluaran GSAP (leret untuk lihat).
+Ini antara produk fizikal yang ada dalam app untuk pengeluaran GSAP (swipe untuk lihat).
 
 <section class="gallery gallery-shot" data-autoplay="off" aria-label="Produk emas fizikal yang boleh ditebus melalui GSAP Withdrawal">
 <div class="gallery-frame">
-<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Produk emas fizikal yang boleh ditebus melalui GSAP Withdrawal, leret untuk lihat seterusnya">
+<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Produk emas fizikal yang boleh ditebus melalui GSAP Withdrawal, swipe untuk lihat seterusnya">
 <figure class="gallery-slide"><img src="../../assets/gap-keluar-01.webp" alt="Senarai produk fizikal GSAP Withdrawal: bullion bar 1g Rafflesia dan Bunga Raya" width="640" height="1105" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/gap-keluar-02.webp" alt="Produk GSAP Withdrawal: 1 Dinar dan 5 Dinar Public Gold" width="640" height="1104" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/gap-keluar-03.webp" alt="Produk GSAP Withdrawal: 1/4 Dinar edisi masjid" width="640" height="1108" loading="lazy" decoding="async"></figure>
@@ -82,7 +82,7 @@ Selain tebus daripada akaun, emas fizikal juga boleh dibeli terus melalui tab Ou
 
 <section class="gallery gallery-shot" data-autoplay="off" aria-label="Pembelian terus emas fizikal (Outright Purchase)">
 <div class="gallery-frame">
-<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Pembelian terus emas fizikal (Outright Purchase), leret untuk lihat seterusnya">
+<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Pembelian terus emas fizikal (Outright Purchase), swipe untuk lihat seterusnya">
 <figure class="gallery-slide"><img src="../../assets/gap-outright-20g.webp" alt="Outright Purchase: bar emas 20g dan 5 Dinar Public Gold" width="640" height="1262" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/gap-outright-10g.webp" alt="Outright Purchase: bar emas 10g pelbagai siri" width="640" height="1282" loading="lazy" decoding="async"></figure>
 </div>
