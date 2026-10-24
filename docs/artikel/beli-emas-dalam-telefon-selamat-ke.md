@@ -34,11 +34,11 @@ GAP ialah kemudahan untuk kita mengumpul emas secara berperingkat. Setiap gram y
 
 Apabila gram dah mencukupi, kita boleh membuat penebusan kepada emas fizikal mengikut denominasi dan syarat penebusan yang ditetapkan.
 
-Jadi, kita bukan sekadar menyimpan angka dalam telefon. Kita ada pilihan untuk mendapatkan emas fizikal tersebut. Ini antara contoh emas fizikal Public Gold (leret untuk lihat).
+Jadi, kita bukan sekadar menyimpan angka dalam telefon. Kita ada pilihan untuk mendapatkan emas fizikal tersebut. Ini antara contoh emas fizikal Public Gold (swipe untuk lihat).
 
 <section class="gallery gallery-shot" data-autoplay="off" aria-label="Contoh emas fizikal Public Gold yang boleh ditebus">
 <div class="gallery-frame">
-<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Contoh emas fizikal Public Gold yang boleh ditebus, leret untuk lihat seterusnya">
+<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Contoh emas fizikal Public Gold yang boleh ditebus, swipe untuk lihat seterusnya">
 <figure class="gallery-slide"><img src="../../assets/telefon-fizikal-merak.webp" alt="Kad emas Public Gold 5g siri Peacock berwarna ungu dipegang di tangan" width="720" height="960" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/telefon-fizikal-biru.webp" alt="Kad emas Public Gold 10g siri BungaMas berwarna biru dipegang di tepi laut" width="720" height="932" loading="lazy" decoding="async"></figure>
 <figure class="gallery-slide"><img src="../../assets/telefon-fizikal-bungamas.webp" alt="Kad BungaMas ungu dan jongkong emas pelbagai saiz di atas tapak tangan" width="720" height="960" loading="lazy" decoding="async"></figure>
