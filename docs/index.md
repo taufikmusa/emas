@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Beli emas dalam telefon ni selamat ke](assets/og-telefon.jpg){ loading=lazy }](artikel/beli-emas-dalam-telefon-selamat-ke.md)
+
+    <span class="cat-badge">Asas GAP</span>
+
+    **[Beli Emas Dalam Telefon Ni Selamat Ke?](artikel/beli-emas-dalam-telefon-selamat-ke.md)**
+
+    Bayar duit tapi emasnya tak nampak. 5 perkara untuk faham bagaimana akaun GAP Public Gold diuruskan.
+
 - [![Harga emas pernah cecah RM764, kini RM571 segram](assets/og-harga-cecah.jpg){ loading=lazy }](artikel/harga-emas-pernah-cecah-rm764-kini-rm571-segram.md)
 
     <span class="cat-badge">Harga Emas</span>
