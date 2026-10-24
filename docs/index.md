@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Ada perpisahan yang kita tak sedar itulah kali terakhir](assets/og-perpisahan.jpg){ loading=lazy }](artikel/ada-perpisahan-yang-kita-tak-sedar-itulah-kali-terakhir.md)
+
+    <span class="cat-badge">Kehidupan</span>
+
+    **[Ada Perpisahan Yang Kita Tak Sedar Itulah Kali Terakhir.](artikel/ada-perpisahan-yang-kita-tak-sedar-itulah-kali-terakhir.md)**
+
+    The Last Meeting Theory: kadang-kadang kita tak tahu pun pertemuan terakhir itu sudah berlaku.
+
 - [![Kemewahan bukan bermaksud kita kaya](assets/og-kemewahan.jpg){ loading=lazy }](artikel/kemewahan-bukan-bermaksud-kita-kaya.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
