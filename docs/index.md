@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Berapa lama kita kena simpan emas untuk nampak untung](assets/og-berapa-lama.jpg){ loading=lazy }](artikel/berapa-lama-simpan-emas-untuk-nampak-untung.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Berapa Lama Kita Kena Simpan Emas Untuk Nampak Untung?](artikel/berapa-lama-simpan-emas-untuk-nampak-untung.md)**
+
+    Tabungan jangka panjang, faham spread, beri masa dan tetapkan matlamat. 5 perkara untuk expectation yang tepat.
+
 - [![Beli emas dalam telefon ni selamat ke](assets/og-telefon.jpg){ loading=lazy }](artikel/beli-emas-dalam-telefon-selamat-ke.md)
 
     <span class="cat-badge">Asas GAP</span>
