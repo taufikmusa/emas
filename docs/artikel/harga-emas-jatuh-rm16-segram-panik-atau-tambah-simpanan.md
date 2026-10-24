@@ -85,6 +85,16 @@ Mulakan mengikut kemampuan. Tak perlu terburu-buru dan tak perlu bandingkan simp
 
 Yang penting, kita ada perancangan dan istiqamah melaksanakannya.
 
+## Tonton videonya
+
+<a class="video-thumb" href="https://www.facebook.com/share/v/1CFAMdSaSB/" aria-label="Tonton video harga emas jatuh, panik atau tambah simpanan di Facebook">
+<img src="../../assets/harga-jatuh-video-thumb.webp" alt="Thumbnail video: Harga emas jatuh! Panik atau tambah simpanan?" width="640" height="1137" loading="lazy" decoding="async">
+<span class="video-play" aria-hidden="true"><svg viewBox="0 0 24 24" width="34" height="34"><path fill="currentColor" d="M8 5v14l11-7z"/></svg></span>
+<span class="video-label">Tonton di Facebook</span>
+</a>
+
+<p class="video-cta"><a class="md-button md-button--primary" href="https://www.facebook.com/share/v/1CFAMdSaSB/">▶ Tonton video di Facebook</a></p>
+
 Moga perkongsian ini bermanfaat.
 
 *Dulu ragu, kini tahu. Jom simpan emas.*
