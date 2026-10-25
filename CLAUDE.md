@@ -8,6 +8,8 @@ Website content emas oleh Taufik Bin Musa (Dealer Public Gold, PG00359605). Pemi
 - MkDocs tak boleh dibina dalam sandbox (PyPI disekat). Sahkan hanya secara statik (YAML, pautan, Jinja), dan beritahu Taufik apa yang belum dilihat.
 
 ## Tambah artikel baru
+**Rujuk skill `.claude/skills/tambah-artikel/SKILL.md` untuk langkah penuh (gambar, OG, nav, kad homepage, pautan, CTA, video, carousel, flag compliance, PR, merge, laporan).** Ringkasan di bawah.
+
 1. Fail `docs/artikel/<slug>.md` dengan front matter `title`, `description`, `image: assets/og-<nama>.jpg`. Letak `title` dan `description` dalam tanda petik jika ada `: ` (titik bertindih), kalau tidak YAML rosak dan front matter terpapar sebagai teks dalam artikel.
 2. Gambar: `.webp`, 900px lebar, quality 76 hingga 80, simpan dalam `docs/assets/`. Letak `width`, `height`, `loading="lazy"` dan kelas `.step-img`.
 3. OG image 1200x630 JPEG (baseline, quality 56 hingga 66, sasaran bawah 100 KB).
@@ -19,6 +21,7 @@ Website content emas oleh Taufik Bin Musa (Dealer Public Gold, PG00359605). Pemi
 - **Letak pautan dalam teks artikel bila berkaitan.** Kebanyakan artikel bertujuan suruh pembaca buka akaun dan daftar, jadi pautkan frasa seperti "Akaun GAP", "serendah RM100", "daftar" ke pautan daftar, dan "PM saya" / "hubungi saya" ke WhatsApp. Pautkan juga ke artikel dalaman yang berkaitan (contoh `cara-daftar-public-gold-gap-2026.md`).
 - Pautan daftar: `https://publicgold.com.my/index.php?route=account/register&intro_pgcode=PG00359605&is_dealer=1`
 - Pautan WhatsApp: `https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0` (satu sumber di `extra.whatsapp_url` dalam `mkdocs.yml`).
+- Harga sejarah emas yang Taufik sahkan: 2005 RM35, 2010 RM50, 2016 RM130, **2021 RM270**, 2024 RM403 (poster yang tulis 2021 = RM470 salah, jangan guna).
 - Guna perkataan "swipe" (bukan "leret") untuk arahan carousel dan gambar, contohnya "swipe untuk lihat". Taufik dah tukar semua.
 - Sapaan pembaca "anda". Elak em dash. Jangan tulis komen seolah-olah daripada pelanggan sebenar.
 - Penafian rasmi dalam `copyright:` mkdocs.yml: kekalkan.
