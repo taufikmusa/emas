@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Orang sanggup bayar mahal untuk 3 benda sahaja](assets/og-tiga-benda.jpg){ loading=lazy }](artikel/orang-sanggup-bayar-mahal-untuk-3-benda.md)
+
+    <span class="cat-badge">Bisnes</span>
+
+    **[Orang Sanggup Bayar Mahal Untuk 3 Benda Sahaja](artikel/orang-sanggup-bayar-mahal-untuk-3-benda.md)**
+
+    Penyelesaian masalah, kemudahan dan pengalaman. Pelanggan bukan beli produk, mereka beli nilai.
+
 - [![Ada perpisahan yang kita tak sedar itulah kali terakhir](assets/og-perpisahan.jpg){ loading=lazy }](artikel/ada-perpisahan-yang-kita-tak-sedar-itulah-kali-terakhir.md)
 
     <span class="cat-badge">Kehidupan</span>
