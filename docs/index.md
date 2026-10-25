@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Jangan cepat beri diskaun](assets/og-diskaun.jpg){ loading=lazy }](artikel/jangan-cepat-beri-diskaun.md)
+
+    <span class="cat-badge">Bisnes</span>
+
+    **[Jangan Cepat Beri Diskaun!](artikel/jangan-cepat-beri-diskaun.md)**
+
+    Pelanggan bayar bukan sekadar produk, mereka bayar nilai, ilmu dan servis. Pertahankan nilai anda.
+
 - [![Kita jaga semua orang, siapa jaga kita nanti](assets/og-kita-jaga.jpg){ loading=lazy }](artikel/kita-jaga-semua-orang-siapa-jaga-kita-nanti.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
