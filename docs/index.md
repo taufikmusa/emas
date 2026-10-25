@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Kita jaga semua orang, siapa jaga kita nanti](assets/og-kita-jaga.jpg){ loading=lazy }](artikel/kita-jaga-semua-orang-siapa-jaga-kita-nanti.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Kita Jaga Semua Orang, Siapa Jaga Kita Nanti?](artikel/kita-jaga-semua-orang-siapa-jaga-kita-nanti.md)**
+
+    Jangan tunggu tak mampu bekerja baru fikir tentang masa depan. Mula sikit-sikit dengan GAP serendah RM100.
+
 - [![Orang sanggup bayar mahal untuk 3 benda sahaja](assets/og-tiga-benda.jpg){ loading=lazy }](artikel/orang-sanggup-bayar-mahal-untuk-3-benda.md)
 
     <span class="cat-badge">Bisnes</span>
