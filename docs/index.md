@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Minat simpan emas tapi tak jadi beli](assets/og-minat-tak-jadi.jpg){ loading=lazy }](artikel/minat-simpan-emas-tapi-tak-jadi-beli.md)
+
+    <span class="cat-badge">Daftar &amp; Mula</span>
+
+    **[Minat Simpan Emas, Tapi Tak Jadi Beli?](artikel/minat-simpan-emas-tapi-tak-jadi-beli.md)**
+
+    Takut harga turun, rasa modal tak cukup atau belum faham akaun GAP? Faham dulu, rancang ikut kemampuan.
+
 - [![Jangan cepat beri diskaun](assets/og-diskaun.jpg){ loading=lazy }](artikel/jangan-cepat-beri-diskaun.md)
 
     <span class="cat-badge">Bisnes</span>
