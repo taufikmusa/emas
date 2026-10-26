@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 realiti pahit harga rumah untuk anak muda](assets/og-harga-rumah.jpg){ loading=lazy }](artikel/5-realiti-pahit-harga-rumah-untuk-anak-muda.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[5 Realiti Pahit Harga Rumah Untuk Anak Muda](artikel/5-realiti-pahit-harga-rumah-untuk-anak-muda.md)**
+
+    Gaji naik sikit, harga rumah dan deposit naik lebih laju. Mula bina tabung rumah dari sekarang.
+
 - [![5 cara selamatkan duit raya anak](assets/og-duit-raya-anak.jpg){ loading=lazy }](artikel/5-cara-selamatkan-duit-raya-anak.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
