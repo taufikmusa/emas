@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 cara graduan bina aset sambil bayar PTPTN](assets/og-graduan-ptptn.jpg){ loading=lazy }](artikel/5-cara-graduan-bina-aset-sambil-bayar-ptptn.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[5 Cara Graduan Bina Aset Sambil Bayar PTPTN](artikel/5-cara-graduan-bina-aset-sambil-bayar-ptptn.md)**
+
+    Tak perlu tunggu bebas hutang untuk mula menabung. Bayar PTPTN, sambil bina simpanan sikit demi sikit.
+
 - [![5 sebab rancang simpanan kahwin 3 tahun lebih awal](assets/og-simpanan-kahwin.jpg){ loading=lazy }](artikel/5-sebab-rancang-simpanan-kahwin-3-tahun-awal.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
