@@ -65,9 +65,52 @@ Saya nampak jadi dealer Public Gold adalah langkah paling mudah dengan sistem di
 
 Fokus kita pun mudah, konsisten belajar dan sampaikan ilmu supaya 1000 penyimpan emas di bawah bimbingan kita kaya dengan emas.
 
+## Tiga Diamond yang akan diraikan
+
+Pada Diamond Day ini, tiga Diamond 5 Star turut diraikan. Setiap seorang ada kisah yang berbeza, dan ketiga-tiganya bermula dari bawah (swipe untuk lihat).
+
+<section class="gallery gallery-poster" data-autoplay="off" aria-label="Diamond 5 Star">
+<div class="gallery-frame">
+<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Poster Diamond, swipe untuk lihat seterusnya">
+<figure class="gallery-slide"><img src="../../assets/diamond/d01.webp" alt="Diamond Recognition Ceremony, 5 Star Diamond: Muhammad Azam Amiri bin Mohd Raffi dan Raziatul Madiah binti Osman, The Youngest Diamond Achiever" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/d02.webp" alt="Diamond Recognition Ceremony, 5 Star Diamond: Dr. Mohd Syafiq bin Roslan dan Dr. Suhailah binti Zaharudin, The First Diamond in G100" width="900" height="900" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/diamond/d03.webp" alt="Diamond Recognition Ceremony, 5 Star Diamond: Muhammad Syarifuddin bin Mohd Jamil dan Syamimi Nur Aqila binti Awalludin, Presiden G100 Network" width="900" height="900" loading="lazy" decoding="async"></figure>
+</div>
+<button class="gallery-nav prev" type="button" aria-label="Poster sebelum">&#8249;</button>
+<button class="gallery-nav next" type="button" aria-label="Poster seterusnya">&#8250;</button>
+</div>
+<div class="gallery-dots" aria-hidden="true"></div>
+</section>
+
+### Dari mahasiswa, kini The Youngest Diamond pada usia 27 tahun
+
+Sejak masih bergelar mahasiswa, Tuan Azam Amiri sudah menunjukkan bakat kepimpinan luar biasa apabila memegang jawatan sebagai Presiden 5G Associates.
+
+Kehebatan kepimpinan beliau turut mendapat pengiktirafan tertinggi apabila dinobatkan sebagai **Leadership Growth Champion** oleh Founder Public Gold sendiri, Dato' Seri Louis Ng. Anugerah berprestij ini diberikan atas kejayaan beliau melahirkan 12 orang Founder Master Dealer (FMD) dalam tempoh hanya satu tahun.
+
+Hari ini, Tuan Azam Amiri berjaya membina rangkaian lebih 140,000 orang dan mencipta sejarah sebagai **The Youngest Diamond** dalam Public Gold.
+
+### Doktor berjiwa usahawan, First Diamond in G100
+
+Dr. Syafiq merupakan seorang graduan perubatan dari Bandung, Indonesia. Sebelum menyertai Public Gold, beliau telah mengendalikan pelbagai jenis perniagaan.
+
+Namun, segalanya berubah apabila beliau menemui 'Big Why' dalam bisnes Public Gold.
+
+Dengan kehebatan kepimpinan beliau, Dr. Syafiq berjaya meraih anugerah **Leadership Champion Growth** selepas berjaya melahirkan 6 orang Founder Master Dealer (FMD). Beliau turut diberi kepercayaan sebagai Chief Operating Officer (COO) Global, Head of G100 Indonesia dan ahli Diamond Advisory Council.
+
+Hari ini, Dr. Syafiq mencipta sejarah sebagai **The First Diamond in G100**.
+
+### Mahasiswa di Australia, kini Diamond dalam Public Gold
+
+Berasal daripada keluarga sederhana, siapa sangka anak muda ini kini berjaya mencipta kejayaan yang begitu luar biasa.
+
+Ketika menerima tawaran melanjutkan pelajaran ke University of Wollongong, Australia, beliau tidak menjalani kehidupan sebagai mahasiswa biasa. Dengan kesibukan belajar dan pelbagai kerja sambilan, Tuan Syarif Jamil turut memulakan bisnes Public Gold ketika masih bergelar mahasiswa di luar negara.
+
+Hari ini, di usia awal 30-an, beliau telah dilantik sebagai Presiden G100 Network dan dinobatkan sebagai salah seorang Diamond dalam Public Gold.
+
 ## Diamond Day: dengar sendiri kisah mereka
 
-Nanti, individu-individu hebat yang saya ceritakan tadi akan kongsi kisah kejayaan mereka di Diamond Day. Mereka datang dari pelbagai profesion. Ini antara achiever 4 Star Ruby, 3 Star Pearl dan 3 Star Jade untuk tahun kewangan 2025/26. Pangkat tertinggi (4 Star Ruby) di atas, selebihnya saya kumpulkan ikut bidang kerja (swipe untuk lihat).
+Nanti, individu-individu hebat yang saya ceritakan tadi akan kongsi kisah kejayaan mereka di Diamond Day. Mereka datang dari pelbagai profesion. Selain para Diamond di atas, ini antara achiever 4 Star Ruby, 3 Star Pearl dan 3 Star Jade untuk tahun kewangan 2025/26. Pangkat tertinggi (4 Star Ruby) di atas, selebihnya saya kumpulkan ikut bidang kerja (swipe untuk lihat).
 
 ### 4 Star Ruby
 
@@ -154,6 +197,7 @@ Jadi jika anda nak dengar sendiri perkongsian berharga ini, saya jemput untuk ha
     - 📍 Kuala Lumpur Convention Centre, Level 3, Grand Ballroom 1 & 2
     - 🎟️ **RM30 seorang**, tiket boleh dibeli terus di [PGMall (Online Shopping By Public Gold)](https://pgmall.my/r/rGHPnSJIxU1){ target="_blank" }
     - ℹ️ Maklumat lanjut di [www.publicgold.com.my](https://www.publicgold.com.my){ target="_blank" }
+    - 🎟️ Info Diamond Day: [g100.my/diamond](https://g100.my/diamond/){ target="_blank" }
 
 Dengan RM30 kita dah boleh dengar perkongsian yang sangat bernilai ni.
 
