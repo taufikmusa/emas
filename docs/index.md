@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 cara selamatkan duit raya anak](assets/og-duit-raya-anak.jpg){ loading=lazy }](artikel/5-cara-selamatkan-duit-raya-anak.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[5 Cara Selamatkan Duit Raya Anak Daripada Lesap Begitu Sahaja](artikel/5-cara-selamatkan-duit-raya-anak.md)**
+
+    Ajar anak simpan dahulu, baru belanja. Mula simpanan emas untuk masa depan mereka serendah RM100.
+
 - [![5 cara graduan bina aset sambil bayar PTPTN](assets/og-graduan-ptptn.jpg){ loading=lazy }](artikel/5-cara-graduan-bina-aset-sambil-bayar-ptptn.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
