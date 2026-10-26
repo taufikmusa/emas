@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 sebab rancang simpanan kahwin 3 tahun lebih awal](assets/og-simpanan-kahwin.jpg){ loading=lazy }](artikel/5-sebab-rancang-simpanan-kahwin-3-tahun-awal.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[5 Sebab Kita Patut Rancang Simpanan Kahwin 3 Tahun Lebih Awal](artikel/5-sebab-rancang-simpanan-kahwin-3-tahun-awal.md)**
+
+    Sasaran 50 gram dalam 3 tahun, sekitar 1.5 gram sebulan. Elak hutang majlis, bina hidup selepas kahwin.
+
 - [![Minat simpan emas tapi tak jadi beli](assets/og-minat-tak-jadi.jpg){ loading=lazy }](artikel/minat-simpan-emas-tapi-tak-jadi-beli.md)
 
     <span class="cat-badge">Daftar &amp; Mula</span>
