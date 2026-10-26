@@ -104,6 +104,16 @@ Jangan tunggu anak dah besar baru nak ajar tentang kewangan.
 
 Kalau nak saya bantu susun simpanan emas untuk anak, [PM saya di WhatsApp](https://api.whatsapp.com/send/?phone=60132740711&text=Boleh+guide+saya+simpan+emas+Public+Gold&type=phone_number&app_absent=0). Boleh juga baca [9 soalan lazim sebelum buka akaun GAP](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md).
 
+## Tonton videonya
+
+<a class="video-thumb" href="https://www.facebook.com/share/v/1ApDeiAPXc/" aria-label="Tonton video 5 cara selamatkan duit raya anak di Facebook">
+<img src="../../assets/duit-raya-video-thumb.webp" alt="Thumbnail video: 5 cara selamatkan duit raya anak daripada lesap" width="640" height="1152" loading="lazy" decoding="async">
+<span class="video-play" aria-hidden="true"><svg viewBox="0 0 24 24" width="34" height="34"><path fill="currentColor" d="M8 5v14l11-7z"/></svg></span>
+<span class="video-label">Tonton di Facebook</span>
+</a>
+
+<p class="video-cta"><a class="md-button md-button--primary" href="https://www.facebook.com/share/v/1ApDeiAPXc/">▶ Tonton video di Facebook</a></p>
+
 Moga perkongsian ini bermanfaat.
 
 <div class="cta" markdown>
