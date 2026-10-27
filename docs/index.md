@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 langkah selamatkan diri daripada jerat hutang kad kredit](assets/og-hutang-kad-kredit.jpg){ loading=lazy }](artikel/5-langkah-selamatkan-diri-jerat-hutang-kad-kredit.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[5 Langkah Selamatkan Diri Daripada Jerat Hutang Kad Kredit](artikel/5-langkah-selamatkan-diri-jerat-hutang-kad-kredit.md)**
+
+    Gaji naik tapi duit tak cukup? Faham kos hutang, susun strategi bayar, bina dana kecemasan, kemudian bina aset.
+
 - [![5 realiti pahit harga rumah untuk anak muda](assets/og-harga-rumah.jpg){ loading=lazy }](artikel/5-realiti-pahit-harga-rumah-untuk-anak-muda.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
