@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Kenapa duit cepat habis sejak guna QR dan e-wallet](assets/og-qr-ewallet.jpg){ loading=lazy }](artikel/kenapa-duit-cepat-habis-sejak-guna-qr-ewallet.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Kenapa Duit Cepat Habis Sejak Kita Guna QR dan E-Wallet?](artikel/kenapa-duit-cepat-habis-sejak-guna-qr-ewallet.md)**
+
+    Scan, bayar, selesai. Kenali cashless effect dan cara asingkan simpanan sebelum duit habis dibelanjakan.
+
 - [![5 langkah selamatkan diri daripada jerat hutang kad kredit](assets/og-hutang-kad-kredit.jpg){ loading=lazy }](artikel/5-langkah-selamatkan-diri-jerat-hutang-kad-kredit.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
