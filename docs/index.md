@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 sebab simpanan emas bantu rancang ibadah korban dan aqiqah](assets/og-korban-aqiqah.jpg){ loading=lazy }](artikel/5-sebab-simpanan-emas-rancang-korban-aqiqah.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[5 Sebab Simpanan Emas Boleh Bantu Kita Merancang Ibadah Korban dan Aqiqah](artikel/5-sebab-simpanan-emas-rancang-korban-aqiqah.md)**
+
+    Niat dah ada tapi duit belum cukup? Mula tabung khas sikit-sikit, serendah RM100 melalui GAP Public Gold.
+
 - [![Kenapa duit cepat habis sejak guna QR dan e-wallet](assets/og-qr-ewallet.jpg){ loading=lazy }](artikel/kenapa-duit-cepat-habis-sejak-guna-qr-ewallet.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
