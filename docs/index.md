@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Lagi banyak pilihan, lagi susah orang nak mula menyimpan](assets/og-banyak-pilihan.jpg){ loading=lazy }](artikel/lagi-banyak-pilihan-lagi-susah-mula-menyimpan.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Lagi Banyak Pilihan, Lagi Susah Orang Nak Mula Menyimpan](artikel/lagi-banyak-pilihan-lagi-susah-mula-menyimpan.md)**
+
+    ASB, Tabung Haji, saham, hartanah atau emas? Jangan sampai terlalu banyak pilihan buat kita tak mula langsung.
+
 - [![5 sebab simpanan emas bantu rancang ibadah korban dan aqiqah](assets/og-korban-aqiqah.jpg){ loading=lazy }](artikel/5-sebab-simpanan-emas-rancang-korban-aqiqah.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
