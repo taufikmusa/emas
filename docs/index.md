@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Jangan ajak beli emas sebelum faham 3 perkara ini](assets/og-jangan-ajak-beli.jpg){ loading=lazy }](artikel/jangan-ajak-beli-emas-sebelum-faham-3-perkara.md)
+
+    <span class="cat-badge">Daftar &amp; Mula</span>
+
+    **[Jangan Ajak Beli Emas Sebelum Faham 3 Perkara Ini](artikel/jangan-ajak-beli-emas-sebelum-faham-3-perkara.md)**
+
+    Faham cara GAP berfungsi, kenali risiko dan spread, tetapkan tujuan menyimpan. Ilmu dahulu, keputusan kemudian.
+
 - [![Lagi banyak pilihan, lagi susah orang nak mula menyimpan](assets/og-banyak-pilihan.jpg){ loading=lazy }](artikel/lagi-banyak-pilihan-lagi-susah-mula-menyimpan.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
