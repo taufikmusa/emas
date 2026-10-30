@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 cara tukar side income menjadi kekayaan jangka panjang](assets/og-side-income.jpg){ loading=lazy }](artikel/5-cara-tukar-side-income-jadi-kekayaan.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[5 Cara Tukar Side Income Menjadi Kekayaan Jangka Panjang](artikel/5-cara-tukar-side-income-jadi-kekayaan.md)**
+
+    Penat buat kerja sampingan tapi duit habis? Asingkan, beri tugas setiap ringgit, dan bina aset termasuk simpanan emas.
+
 - [![Jangan ajak beli emas sebelum faham 3 perkara ini](assets/og-jangan-ajak-beli.jpg){ loading=lazy }](artikel/jangan-ajak-beli-emas-sebelum-faham-3-perkara.md)
 
     <span class="cat-badge">Daftar &amp; Mula</span>
