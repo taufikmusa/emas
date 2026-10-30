@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Harga emas turun RM17 dalam sehari](assets/og-harga-turun-rm17.jpg){ loading=lazy }](artikel/harga-emas-turun-rm17-dalam-sehari.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Harga Emas Turun RM17 Dalam Sehari](artikel/harga-emas-turun-rm17-dalam-sehari.md)**
+
+    RM568 ke RM551 segram. 5 perkara penting apabila harga emas jatuh, dan beza penyimpan dengan pemburu harga.
+
 - [![5 cara tukar side income menjadi kekayaan jangka panjang](assets/og-side-income.jpg){ loading=lazy }](artikel/5-cara-tukar-side-income-jadi-kekayaan.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
