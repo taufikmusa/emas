@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Harga emas turun menyesal beli mahal, harga naik menyesal tak beli banyak](assets/og-menyesal-beli.jpg){ loading=lazy }](artikel/harga-emas-turun-naik-menyesal-sampai-bila.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Harga Emas Turun, Menyesal Beli Mahal. Harga Emas Naik, Menyesal Tak Beli Banyak.](artikel/harga-emas-turun-naik-menyesal-sampai-bila.md)**
+
+    Sampai bila nak menyesal? Matlamat penyimpan emas ialah jumlah gram yang semakin bertambah, bukan harga paling rendah.
+
 - [![Harga emas turun RM17, satu perkara yang ramai orang terlepas pandang](assets/og-harga-rm17-terlepas.jpg){ loading=lazy }](artikel/harga-emas-turun-rm17-terlepas-pandang.md)
 
     <span class="cat-badge">Harga Emas</span>
