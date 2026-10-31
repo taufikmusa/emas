@@ -60,6 +60,8 @@ Pesan guru saya, Tn Mohd Zulkifli Shafie:
 
 > "Harga emas tidak pernah dianggap murah pada mana-mana zaman. Jangan tunggu harga murah baru nak mula."
 
+![Jongkong emas Public Gold 10 gram 999.9, dipegang di tangan](../assets/emas-10g-foto.webp){ .step-img width="720" height="960" loading="lazy" }
+
 ## Ilmu, matlamat dan disiplin
 
 Kita tidak perlu berlumba mendapatkan harga paling sempurna.
