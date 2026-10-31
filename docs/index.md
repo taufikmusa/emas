@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Bila nak berhenti menyesal pasal harga emas](assets/og-berhenti-menyesal.jpg){ loading=lazy }](artikel/bila-nak-berhenti-menyesal-pasal-harga-emas.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Bila Nak Berhenti Menyesal Pasal Harga Emas?](artikel/bila-nak-berhenti-menyesal-pasal-harga-emas.md)**
+
+    Harga turun kita menyesal, harga naik kita pun menyesal. Masa yang berlalu tak boleh dibeli semula.
+
 - [![Harga emas turun menyesal beli mahal, harga naik menyesal tak beli banyak](assets/og-menyesal-beli.jpg){ loading=lazy }](artikel/harga-emas-turun-naik-menyesal-sampai-bila.md)
 
     <span class="cat-badge">Harga Emas</span>
