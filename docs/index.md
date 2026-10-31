@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Emas sentiasa bernilai, tapi kenapa masih ramai orang tak mula menyimpan](assets/og-lima-jenis.jpg){ loading=lazy }](artikel/lima-jenis-manusia-simpanan-emas.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Emas Sentiasa Bernilai, Tapi Kenapa Masih Ramai Orang Tak Mula Menyimpan?](artikel/lima-jenis-manusia-simpanan-emas.md)**
+
+    Lima jenis manusia dalam simpanan emas. Kita dalam kategori yang mana?
+
 - [![Harga emas 916 turun kepada RM524 segram, rezeki buat bakal pengantin](assets/og-harga-916.jpg){ loading=lazy }](artikel/harga-emas-916-turun-rm524-bakal-pengantin.md)
 
     <span class="cat-badge">PG Jewel</span>
