@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Siapa tahu bila harga emas paling rendah](assets/og-harga-paling-rendah.jpg){ loading=lazy }](artikel/siapa-tahu-bila-harga-emas-paling-rendah.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Siapa Tahu Bila Harga Emas Paling Rendah?](artikel/siapa-tahu-bila-harga-emas-paling-rendah.md)**
+
+    Jangan tunggu harga sempurna untuk mula menyimpan. Konsistensi lebih penting daripada menebak harga.
+
 - [![Emas sentiasa bernilai, tapi kenapa masih ramai orang tak mula menyimpan](assets/og-lima-jenis.jpg){ loading=lazy }](artikel/lima-jenis-manusia-simpanan-emas.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
