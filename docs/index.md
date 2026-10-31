@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Harga emas turun RM17, satu perkara yang ramai orang terlepas pandang](assets/og-harga-rm17-terlepas.jpg){ loading=lazy }](artikel/harga-emas-turun-rm17-terlepas-pandang.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Harga Emas Turun RM17, Tapi Ada Satu Perkara Yang Ramai Orang Terlepas Pandang](artikel/harga-emas-turun-rm17-terlepas-pandang.md)**
+
+    Kita sedang mengumpul emas atau mengejar keuntungan? Beza cara fikir penyimpan emas dan pemburu harga.
+
 - [![Harga emas turun RM17 dalam sehari](assets/og-harga-turun-rm17.jpg){ loading=lazy }](artikel/harga-emas-turun-rm17-dalam-sehari.md)
 
     <span class="cat-badge">Harga Emas</span>
