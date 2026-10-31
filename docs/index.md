@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Harga emas 916 turun kepada RM524 segram, rezeki buat bakal pengantin](assets/og-harga-916.jpg){ loading=lazy }](artikel/harga-emas-916-turun-rm524-bakal-pengantin.md)
+
+    <span class="cat-badge">PG Jewel</span>
+
+    **[Harga Emas 916 Turun Kepada RM524 Segram, Rezeki Buat Bakal Pengantin](artikel/harga-emas-916-turun-rm524-bakal-pengantin.md)**
+
+    Simpan emas dahulu melalui GAP, kumpul gram sedikit demi sedikit, kemudian tebus barang kemas PG Jewel.
+
 - [![Bila nak berhenti menyesal pasal harga emas](assets/og-berhenti-menyesal.jpg){ loading=lazy }](artikel/bila-nak-berhenti-menyesal-pasal-harga-emas.md)
 
     <span class="cat-badge">Harga Emas</span>
