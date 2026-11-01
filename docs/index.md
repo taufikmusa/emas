@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Harga emas dah RM548 segram, apa pula alasan kita](assets/og-harga-548.jpg){ loading=lazy }](artikel/harga-emas-dah-rm548-apa-alasan-kita.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Harga Emas Dah RM548 Segram, Apa Pula Alasan Kita?](artikel/harga-emas-dah-rm548-apa-alasan-kita.md)**
+
+    Dulu kita tunggu harga macam ni. Sekarang dah sampai, jangan sampai tunggu harga sempurna sampai tak mula.
+
 - [![Siapa tahu bila harga emas paling rendah](assets/og-harga-paling-rendah.jpg){ loading=lazy }](artikel/siapa-tahu-bila-harga-emas-paling-rendah.md)
 
     <span class="cat-badge">Harga Emas</span>
