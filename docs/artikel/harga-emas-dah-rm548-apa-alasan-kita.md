@@ -26,7 +26,7 @@ Ada yang tunggu RM550.
 
 Hari ini, harga emas sudah berada sekitar **RM548 segram**.
 
-![Harga Public Gold pada 1 November 2026: GAP RM548 bersamaan 1.0000 gram, RM100 bersamaan 0.1825 gram](../assets/harga-1-nov.webp){ width="295" height="353" loading="lazy" style="max-width:100%;height:auto;display:block;margin:1rem auto" }
+![Papan harga Public Gold penuh pada 1 November 2026: GAP RM548 bersamaan 1.0000 gram, RM100 bersamaan 0.1825 gram, harga PG Jewel, jongkong emas, wafer dan Dinar](../assets/harga-1-nov-penuh.webp){ width="706" height="1091" loading="lazy" style="max-width:100%;height:auto;display:block;margin:1rem auto" }
 
 Tetapi persoalannya, adakah kita sudah mula membeli?
 
