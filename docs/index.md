@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Diamond Day: lihat kejayaan untuk cipta kejayaan](assets/og-diamond-day-ceremony.jpg){ loading=lazy }](artikel/diamond-day-lihat-kejayaan-untuk-cipta-kejayaan.md)
+
+    <span class="cat-badge">Diamond Day</span>
+
+    **[Diamond Day: Lihat Kejayaan Untuk Cipta Kejayaan](artikel/diamond-day-lihat-kejayaan-untuk-cipta-kejayaan.md)**
+
+    7 November 2026 di KLCC. Kenali tiga Diamond dan barisan achiever yang bakal diraikan. Tiket RM30.
+
 - [![Harga emas dah RM548 segram, apa pula alasan kita](assets/og-harga-548.jpg){ loading=lazy }](artikel/harga-emas-dah-rm548-apa-alasan-kita.md)
 
     <span class="cat-badge">Harga Emas</span>
