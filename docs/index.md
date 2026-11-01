@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Nak jadi kaki travel? Boleh! Tapi jangan sampai poket kembali kosong](assets/og-kaki-travel.jpg){ loading=lazy }](artikel/nak-jadi-kaki-travel-jangan-poket-kosong.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Nak Jadi Kaki Travel? Boleh! Tapi Jangan Sampai Poket Kembali Kosong](artikel/nak-jadi-kaki-travel-jangan-poket-kosong.md)**
+
+    Enjoy your life, explore the world, build your assets. 5 cara travel tanpa abaikan simpanan.
+
 - [![Diamond Day: lihat kejayaan untuk cipta kejayaan](assets/og-diamond-day-ceremony.jpg){ loading=lazy }](artikel/diamond-day-lihat-kejayaan-untuk-cipta-kejayaan.md)
 
     <span class="cat-badge">Diamond Day</span>
