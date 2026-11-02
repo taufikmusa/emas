@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Skateboarding bermula daripada peluncur ombak yang bosan menunggu ombak laut](assets/og-skateboard.jpg){ loading=lazy }](artikel/skateboarding-bermula-peluncur-ombak-bosan-tunggu-ombak.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Skateboarding Bermula Daripada Peluncur Ombak Yang Bosan Menunggu Ombak Laut](artikel/skateboarding-bermula-peluncur-ombak-bosan-tunggu-ombak.md)**
+
+    Tiada ombak, jadi mereka cipta cara untuk terus meluncur. Tiga pengajaran untuk mula menyimpan.
+
 - [![5 cara bantu keluarga tanpa mengorbankan masa depan sendiri](assets/og-bantu-keluarga.jpg){ loading=lazy }](artikel/5-cara-bantu-keluarga-tanpa-korbankan-masa-depan.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
