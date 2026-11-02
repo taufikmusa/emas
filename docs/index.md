@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 cara bantu keluarga tanpa mengorbankan masa depan sendiri](assets/og-bantu-keluarga.jpg){ loading=lazy }](artikel/5-cara-bantu-keluarga-tanpa-korbankan-masa-depan.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[5 Cara Bantu Keluarga Tanpa Mengorbankan Masa Depan Sendiri](artikel/5-cara-bantu-keluarga-tanpa-korbankan-masa-depan.md)**
+
+    Tetapkan had, kukuhkan diri dahulu dan bantu mereka berdikari. Kukuhkan diri supaya terus mampu memberi.
+
 - [![Nak jadi kaki travel? Boleh! Tapi jangan sampai poket kembali kosong](assets/og-kaki-travel.jpg){ loading=lazy }](artikel/nak-jadi-kaki-travel-jangan-poket-kosong.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
