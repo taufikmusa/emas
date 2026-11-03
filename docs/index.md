@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Ilustrasi seorang ayah dan anak kecil dalam lubang tanah yang kemudian jadi taman bunga matahari](assets/og-xinlei.jpg){ loading=lazy }](artikel/lubang-yang-digali-ayah-jadi-taman-bunga-matahari-xinlei.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Lubang Yang Digali Ayah Untuk Anaknya, Sembilan Tahun Kemudian Jadi Taman Bunga Matahari](artikel/lubang-yang-digali-ayah-jadi-taman-bunga-matahari-xinlei.md)**
+
+    Gambar ayah dan anak dalam lubang tanah meruntun hati jutaan orang pada 2017. Ini kisah sebenar sembilan tahun kemudian.
+
 - [![Skateboarding bermula daripada peluncur ombak yang bosan menunggu ombak laut](assets/og-skateboard.jpg){ loading=lazy }](artikel/skateboarding-bermula-peluncur-ombak-bosan-tunggu-ombak.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
