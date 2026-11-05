@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![1,271 pekerja Canva terkesan, apa yang boleh kita belajar](assets/og-canva.jpg){ loading=lazy }](artikel/1271-pekerja-canva-terkesan-apa-boleh-belajar.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[1,271 Pekerja Canva Terkesan, Apa Yang Boleh Kita Belajar?](artikel/1271-pekerja-canva-terkesan-apa-boleh-belajar.md)**
+
+    Syarikat pencipta perubahan pun perlu berubah. Tiga pengajaran untuk bina kehidupan yang tidak rapuh.
+
 - [![Ilustrasi seorang ayah dan anak kecil dalam lubang tanah yang kemudian jadi taman bunga matahari](assets/og-xinlei.jpg){ loading=lazy }](artikel/lubang-yang-digali-ayah-jadi-taman-bunga-matahari-xinlei.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
