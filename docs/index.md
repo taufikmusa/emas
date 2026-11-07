@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 cara selamatkan poket bila gaji tak naik tapi harga barang makin meningkat](assets/og-inflasi.jpg){ loading=lazy }](artikel/5-cara-selamatkan-poket-gaji-tak-naik-harga-barang-naik.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[5 Cara Selamatkan Poket Bila Gaji Tak Naik, Tapi Harga Barang Makin Meningkat](artikel/5-cara-selamatkan-poket-gaji-tak-naik-harga-barang-naik.md)**
+
+    Gaji sama, harga barang naik. Lima langkah untuk pertahankan kuasa beli wang anda.
+
 - [![1,271 pekerja Canva terkesan, apa yang boleh kita belajar](assets/og-canva.jpg){ loading=lazy }](artikel/1271-pekerja-canva-terkesan-apa-boleh-belajar.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
