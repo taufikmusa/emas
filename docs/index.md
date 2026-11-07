@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Taufik di Diamond Recognition Ceremony, KLCC Ballroom](assets/og-tua.jpg){ loading=lazy }](artikel/paling-menakutkan-semakin-tua-lima-tahun-lagi-sama.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Yang Paling Menakutkan Tentang Menjadi Semakin Tua Bukanlah Usia Kita](artikel/paling-menakutkan-semakin-tua-lima-tahun-lagi-sama.md)**
+
+    Bukan angka umur yang menakutkan, tetapi lima tahun lagi kita masih di tempat yang sama.
+
 - [![5 cara selamatkan poket bila gaji tak naik tapi harga barang makin meningkat](assets/og-inflasi.jpg){ loading=lazy }](artikel/5-cara-selamatkan-poket-gaji-tak-naik-harga-barang-naik.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
