@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Penerima anugerah 3 Star Jade di pentas Diamond Recognition Ceremony](assets/og-pg-cina.jpg){ loading=lazy }](artikel/public-gold-syarikat-cina-apa-masalahnya.md)
+
+    <span class="cat-badge">Daftar &amp; Mula</span>
+
+    **[Public Gold Syarikat Cina? Jadi Apa Masalahnya?](artikel/public-gold-syarikat-cina-apa-masalahnya.md)**
+
+    Kalau sebuah syarikat memberi manfaat kepada rakyat Malaysia tanpa mengira bangsa, apa masalahnya? Nilai dengan fakta, bukan prejudis.
+
 - [![Papan tanda G100, Your Ultimate Financial Freedom Begins Here](assets/og-rejection.jpg){ loading=lazy }](artikel/latihan-100-rejection-tukar-kegagalan-jadi-kejayaan.md)
 
     <span class="cat-badge">Bisnes</span>
