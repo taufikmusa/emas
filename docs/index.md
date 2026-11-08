@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Papan tanda G100, Your Ultimate Financial Freedom Begins Here](assets/og-rejection.jpg){ loading=lazy }](artikel/latihan-100-rejection-tukar-kegagalan-jadi-kejayaan.md)
+
+    <span class="cat-badge">Bisnes</span>
+
+    **[Latihan 100 Kali Ditolak, Cara Menukar Kegagalan Menjadi Kejayaan](artikel/latihan-100-rejection-tukar-kegagalan-jadi-kejayaan.md)**
+
+    Latihan 100 Rejection mengajar kita: bila orang kata NO, jawab NEXT. Kegagalan hanyalah sebahagian proses.
+
 - [![Taufik di Diamond Recognition Ceremony, KLCC Ballroom](assets/og-tua.jpg){ loading=lazy }](artikel/paling-menakutkan-semakin-tua-lima-tahun-lagi-sama.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
