@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Bukan nak dream job, tapi nak kerja yang tak muncul dalam mimpi](assets/og-dream-job.jpg){ loading=lazy }](artikel/bukan-nak-dream-job-tapi-kerja-tak-muncul-dalam-mimpi.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Bukan Nak Dream Job, Tapi Nak Kerja Yang Tak Muncul Dalam Mimpi](artikel/bukan-nak-dream-job-tapi-kerja-tak-muncul-dalam-mimpi.md)**
+
+    Kerja keras itu penting, tapi masa, keluarga dan ketenangan juga ada nilai. Imbangi sambil bina simpanan.
+
 - [![Penerima anugerah 3 Star Jade di pentas Diamond Recognition Ceremony](assets/og-pg-cina.jpg){ loading=lazy }](artikel/public-gold-syarikat-cina-apa-masalahnya.md)
 
     <span class="cat-badge">Daftar &amp; Mula</span>
