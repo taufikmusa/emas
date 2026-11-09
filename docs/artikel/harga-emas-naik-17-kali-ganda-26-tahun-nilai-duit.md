@@ -126,6 +126,21 @@ Tak perlu tunggu ada duit beribu-ribu ringgit untuk bermula. Baca dulu [9 soalan
 
 Sedikit demi sedikit, gram demi gram.
 
+Ini gambar-gambar emas fizikal Public Gold (swipe untuk lihat).
+
+<section class="gallery gallery-shot" data-autoplay="off" aria-label="Foto emas fizikal Public Gold">
+<div class="gallery-frame">
+<div class="gallery-track" tabindex="0" role="group" aria-roledescription="carousel" aria-label="Foto emas fizikal Public Gold, swipe untuk lihat seterusnya">
+<figure class="gallery-slide"><img src="../../assets/17kali-foto-1000g.webp" alt="Taufik Bin Musa memegang jongkong emas Public Gold 1000 gram 999.9" width="720" height="960" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/17kali-foto-pejabat.webp" alt="Taufik Bin Musa di hadapan papan tanda Public Gold bersama dua jongkong emas besar di atas alas baldu merah" width="720" height="960" loading="lazy" decoding="async"></figure>
+<figure class="gallery-slide"><img src="../../assets/17kali-foto-100g.webp" alt="Taufik Bin Musa memegang jongkong emas Public Gold 100 gram dan beberapa kad emas kecil" width="720" height="960" loading="lazy" decoding="async"></figure>
+</div>
+<button class="gallery-nav prev" type="button" aria-label="Gambar sebelum">&#8249;</button>
+<button class="gallery-nav next" type="button" aria-label="Gambar seterusnya">&#8250;</button>
+</div>
+<div class="gallery-dots" aria-hidden="true"></div>
+</section>
+
 Akhirnya, kita bukan sekadar mengumpul emas.
 
 Kita sedang membina satu tabungan untuk kegunaan masa hadapan.
