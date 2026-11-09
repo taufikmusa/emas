@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Harga emas naik 17 kali ganda dalam 26 tahun](assets/og-harga-17kali.jpg){ loading=lazy }](artikel/harga-emas-naik-17-kali-ganda-26-tahun-nilai-duit.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Harga Emas Naik 17 Kali Ganda Dalam 26 Tahun, Tapi Apa Yang Berlaku Kepada Nilai Duit Kita?](artikel/harga-emas-naik-17-kali-ganda-26-tahun-nilai-duit.md)**
+
+    Dari RM34 segram pada tahun 2000 kepada sekitar RM500 hingga RM600. Lima fasa dan tiga pengajaran untuk penyimpan emas.
+
 - [![I checked my savings account and realized I'm saving memories, not money](assets/og-kenangan.jpg){ loading=lazy }](artikel/menyimpan-kenangan-bukan-duit.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
