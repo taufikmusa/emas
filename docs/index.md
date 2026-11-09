@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![I checked my savings account and realized I'm saving memories, not money](assets/og-kenangan.jpg){ loading=lazy }](artikel/menyimpan-kenangan-bukan-duit.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Bila Semak Akaun Simpanan, Rupanya Kita Menyimpan Kenangan, Bukan Duit](artikel/menyimpan-kenangan-bukan-duit.md)**
+
+    Gaji masuk, belanja keluar, baki tinggal kenangan. Asingkan simpanan dahulu sebelum berbelanja.
+
 - [![Bukan nak dream job, tapi nak kerja yang tak muncul dalam mimpi](assets/og-dream-job.jpg){ loading=lazy }](artikel/bukan-nak-dream-job-tapi-kerja-tak-muncul-dalam-mimpi.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
