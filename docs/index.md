@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Perspective Matters: tiga bentuk berbeza, satu kebenaran](assets/og-perspective.jpg){ loading=lazy }](artikel/perspective-matters-perkara-sama-tafsiran-berbeza.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Perspective Matters, Perkara Yang Sama Boleh Nampak Sangat Berbeza](artikel/perspective-matters-perkara-sama-tafsiran-berbeza.md)**
+
+    Situasi sama, perspektif berbeza. Dari masalah hidup hingga harga emas naik turun, cara kita melihat menentukan keputusan.
+
 - [![Harga emas naik 17 kali ganda dalam 26 tahun](assets/og-harga-17kali.jpg){ loading=lazy }](artikel/harga-emas-naik-17-kali-ganda-26-tahun-nilai-duit.md)
 
     <span class="cat-badge">Harga Emas</span>
