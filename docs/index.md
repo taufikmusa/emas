@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Dompet kulit lusuh dengan separuh bawang merah di atas meja kayu](assets/og-dompet-bawang.jpg){ loading=lazy }](artikel/dompet-macam-bawang-kebocoran-kecil-hakis-simpanan.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Dompet Macam Bawang, Setiap Kali Dibuka Buat Kita Menangis](artikel/dompet-macam-bawang-kebocoran-kecil-hakis-simpanan.md)**
+
+    Duit jarang hilang sekali gus, ia bocor sedikit demi sedikit. Alihkan sebahagian kepada simpanan emas.
+
 - [![Perspective Matters: tiga bentuk berbeza, satu kebenaran](assets/og-perspective.jpg){ loading=lazy }](artikel/perspective-matters-perkara-sama-tafsiran-berbeza.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
