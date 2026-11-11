@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Log Kya Kahenge, cukai paling mahal dalam masyarakat kita](assets/og-log-kya-kahenge.jpg){ loading=lazy }](artikel/log-kya-kahenge-cukai-paling-mahal-masyarakat-kita.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Log Kya Kahenge? Cukai Paling Mahal Dalam Masyarakat Kita](artikel/log-kya-kahenge-cukai-paling-mahal-masyarakat-kita.md)**
+
+    Apa kata orang nanti? Jangan berhutang demi menutup mulut jiran. Bina simpanan secara senyap.
+
 - [![Dompet kulit lusuh dengan separuh bawang merah di atas meja kayu](assets/og-dompet-bawang.jpg){ loading=lazy }](artikel/dompet-macam-bawang-kebocoran-kecil-hakis-simpanan.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
