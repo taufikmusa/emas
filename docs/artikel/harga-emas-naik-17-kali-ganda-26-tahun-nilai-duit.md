@@ -2,6 +2,7 @@
 title: "Harga Emas Naik 17 Kali Ganda Dalam 26 Tahun, Tapi Apa Yang Berlaku Kepada Nilai Duit Kita?"
 description: "Dari RM34 segram pada tahun 2000 kepada sekitar RM500 hingga RM600 hari ini. Perjalanan emas dalam lima fasa, dan tiga pengajaran untuk mula menyimpan gram demi gram dengan GAP serendah RM100."
 image: assets/og-harga-17kali.jpg
+date: "2026-11-09"
 ---
 
 <span class="cat-badge">Harga Emas</span>
@@ -167,6 +168,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Harga Emas Dah RM548 Segram, Apa Pula Alasan Kita?](harga-emas-dah-rm548-apa-alasan-kita.md)
+- [Siapa Tahu Bila Harga Emas Paling Rendah?](siapa-tahu-bila-harga-emas-paling-rendah.md)
+- [Bila Nak Berhenti Menyesal Pasal Harga Emas?](bila-nak-berhenti-menyesal-pasal-harga-emas.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

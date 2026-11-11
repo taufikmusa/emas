@@ -2,6 +2,7 @@
 title: "5 Cara Graduan Bina Aset Sambil Bayar PTPTN"
 description: "Baru habis belajar dan ada hutang PTPTN? Tak perlu tunggu bebas hutang untuk mula menabung. 5 cara graduan bina aset sambil bayar PTPTN, termasuk simpanan emas GAP serendah RM100."
 image: assets/og-graduan-ptptn.jpg
+date: "2026-10-26"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -134,6 +135,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [5 Sebab Kita Patut Rancang Simpanan Kahwin 3 Tahun Lebih Awal](5-sebab-rancang-simpanan-kahwin-3-tahun-awal.md)
+- [Kita Jaga Semua Orang, Siapa Jaga Kita Nanti?](kita-jaga-semua-orang-siapa-jaga-kita-nanti.md)
+- [Kemewahan Bukan Bermaksud Kita Kaya](kemewahan-bukan-bermaksud-kita-kaya.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

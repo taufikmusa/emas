@@ -2,6 +2,7 @@
 title: "Harga Emas Turun RM17 Dalam Sehari"
 description: "Harga emas GAP turun dari RM568 ke RM551 segram dalam sehari. 5 perkara penting apabila harga emas jatuh: jangan keliru antara harga dan nilai, tambah gram dengan bajet sama, dan fokus pada disiplin menyimpan."
 image: assets/og-harga-turun-rm17.jpg
+date: "2026-10-31"
 ---
 
 <span class="cat-badge">Harga Emas</span>
@@ -110,6 +111,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Harga Emas Pernah Cecah RM764, Kini RM571 Segram: Panik Atau Tambah Simpanan?](harga-emas-pernah-cecah-rm764-kini-rm571-segram.md)
+- [Harga Emas Jatuh RM16 Segram Dalam Sehari: Panik Atau Tambah Simpanan?](harga-emas-jatuh-rm16-segram-panik-atau-tambah-simpanan.md)
+- [Harga Emas Naik 17 Kali Ganda Dalam 26 Tahun, Tapi Apa Yang Berlaku Kepada Nilai Duit Kita?](harga-emas-naik-17-kali-ganda-26-tahun-nilai-duit.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

@@ -2,6 +2,7 @@
 title: "5 Cara Tukar Side Income Menjadi Kekayaan Jangka Panjang"
 description: "Penat buat kerja sampingan tapi duit habis begitu sahaja? 5 cara tukar side income jadi kekayaan jangka panjang: asingkan duit, beri tugas setiap ringgit, kawal gaya hidup, simpan konsisten dan mula simpanan emas GAP serendah RM100."
 image: assets/og-side-income.jpg
+date: "2026-10-30"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -132,6 +133,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Lagi Banyak Pilihan, Lagi Susah Orang Nak Mula Menyimpan](lagi-banyak-pilihan-lagi-susah-mula-menyimpan.md)
+- [5 Sebab Simpanan Emas Boleh Bantu Kita Merancang Ibadah Korban dan Aqiqah](5-sebab-simpanan-emas-rancang-korban-aqiqah.md)
+- [Kenapa Duit Cepat Habis Sejak Kita Guna QR dan E-Wallet?](kenapa-duit-cepat-habis-sejak-guna-qr-ewallet.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

@@ -2,6 +2,7 @@
 title: "Siapa Tahu Bila Harga Emas Paling Rendah?"
 description: "Kalau nak beli emas, belilah masa harga rendah. Tapi siapa yang tahu bila harga paling rendah? Fikir jangka panjang, tingkatkan ilmu dan fokus pada pertambahan gram secara konsisten."
 image: assets/og-harga-paling-rendah.jpg
+date: "2026-10-31"
 ---
 
 <span class="cat-badge">Harga Emas</span>
@@ -92,6 +93,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Bila Nak Berhenti Menyesal Pasal Harga Emas?](bila-nak-berhenti-menyesal-pasal-harga-emas.md)
+- [Harga Emas Turun, Menyesal Beli Mahal. Harga Emas Naik, Menyesal Tak Beli Banyak.](harga-emas-turun-naik-menyesal-sampai-bila.md)
+- [Harga Emas Turun RM17, Tapi Ada Satu Perkara Yang Ramai Orang Terlepas Pandang](harga-emas-turun-rm17-terlepas-pandang.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

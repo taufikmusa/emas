@@ -2,6 +2,7 @@
 title: "5 Cara Bantu Keluarga Tanpa Mengorbankan Masa Depan Sendiri"
 description: "Nak bantu ibu bapa dan adik-beradik tapi tak nak kewangan sendiri tenggelam? 5 cara: tetapkan had kemampuan, kukuhkan kewangan sendiri dahulu, bantu mereka berdikari, asingkan simpanan sendiri dan bina kekayaan."
 image: assets/og-bantu-keluarga.jpg
+date: "2026-11-02"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -110,6 +111,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Nak Jadi Kaki Travel? Boleh! Tapi Jangan Sampai Poket Kembali Kosong](nak-jadi-kaki-travel-jangan-poket-kosong.md)
+- [Emas Sentiasa Bernilai, Tapi Kenapa Masih Ramai Orang Tak Mula Menyimpan?](lima-jenis-manusia-simpanan-emas.md)
+- [5 Cara Tukar Side Income Menjadi Kekayaan Jangka Panjang](5-cara-tukar-side-income-jadi-kekayaan.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

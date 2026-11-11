@@ -2,6 +2,7 @@
 title: "Harga Emas 916 Turun Kepada RM524 Segram, Rezeki Buat Bakal Pengantin"
 description: "Harga emas 916 turun kepada RM524 segram. Bakal pengantin boleh mula simpan emas melalui Akaun GAP Public Gold, kumpul gram sedikit demi sedikit, dan tebus barang kemas PG Jewel apabila tiba masanya."
 image: assets/og-harga-916.jpg
+date: "2026-10-31"
 ---
 
 <span class="cat-badge">PG Jewel</span>
@@ -70,6 +71,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Cara Miliki Barang Kemas di PG Jewel Melalui Akaun GAP Public Gold](cara-miliki-barang-kemas-pg-jewel-akaun-gap.md)
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

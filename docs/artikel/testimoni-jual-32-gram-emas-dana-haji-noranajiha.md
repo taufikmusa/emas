@@ -2,6 +2,7 @@
 title: "Jual 32 Gram Emas Untuk Dana Haji: Kisah Puan NoraNajiha"
 description: Suri rumah jual 32 gram emas dari akaun GAP untuk cukupkan Tabung Istitoah dan buat rayuan haji. Kos purata RM10,525, dijual RM18,000. 5 pesanan penting guru saya.
 image: assets/og-testimoni-noranajiha.jpg
+date: "2026-10-22"
 ---
 
 <span class="cat-badge">Testimoni</span>
@@ -80,6 +81,15 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+- [Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)](cara-daftar-public-gold-gap-2026.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

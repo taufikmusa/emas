@@ -2,6 +2,7 @@
 title: "Skateboarding Bermula Daripada Peluncur Ombak Yang Bosan Menunggu Ombak Laut"
 description: "Skateboard lahir daripada surfer California yang bosan kerana laut tiada ombak. Tiga pengajaran: jangan tunggu keadaan sempurna, masalah jadi titik inovasi, konsistensi lebih penting. Mula simpanan emas GAP serendah RM100."
 image: assets/og-skateboard.jpg
+date: "2026-11-02"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -108,6 +109,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [5 Cara Bantu Keluarga Tanpa Mengorbankan Masa Depan Sendiri](5-cara-bantu-keluarga-tanpa-korbankan-masa-depan.md)
+- [Nak Jadi Kaki Travel? Boleh! Tapi Jangan Sampai Poket Kembali Kosong](nak-jadi-kaki-travel-jangan-poket-kosong.md)
+- [Emas Sentiasa Bernilai, Tapi Kenapa Masih Ramai Orang Tak Mula Menyimpan?](lima-jenis-manusia-simpanan-emas.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

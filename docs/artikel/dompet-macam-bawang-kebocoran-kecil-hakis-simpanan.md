@@ -2,6 +2,7 @@
 title: "Dompet Macam Bawang, Setiap Kali Dibuka Buat Kita Menangis"
 description: "Duit jarang hilang sekali gus. Ia bocor sedikit demi sedikit, RM15 demi RM30. Alihkan sebahagian kebocoran kecil kepada simpanan emas GAP serendah RM100."
 image: assets/og-dompet-bawang.jpg
+date: "2026-11-10"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -104,6 +105,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Perspective Matters, Perkara Yang Sama Boleh Nampak Sangat Berbeza](perspective-matters-perkara-sama-tafsiran-berbeza.md)
+- [Bila Semak Akaun Simpanan, Rupanya Kita Menyimpan Kenangan, Bukan Duit](menyimpan-kenangan-bukan-duit.md)
+- [Bukan Nak Dream Job, Tapi Nak Kerja Yang Tak Muncul Dalam Mimpi](bukan-nak-dream-job-tapi-kerja-tak-muncul-dalam-mimpi.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

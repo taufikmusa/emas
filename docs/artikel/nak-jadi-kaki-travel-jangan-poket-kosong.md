@@ -2,6 +2,7 @@
 title: "Nak Jadi Kaki Travel? Boleh! Tapi Jangan Sampai Poket Kembali Kosong"
 description: "Suka travel ke Jepun, Korea, Turkiye atau Eropah? 5 cara nikmati hidup tanpa abaikan masa depan: bayar diri sendiri dahulu, travel ikut kemampuan, bina aset, dan simpan emas GAP serendah RM100 sebulan."
 image: assets/og-kaki-travel.jpg
+date: "2026-11-01"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -106,6 +107,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Emas Sentiasa Bernilai, Tapi Kenapa Masih Ramai Orang Tak Mula Menyimpan?](lima-jenis-manusia-simpanan-emas.md)
+- [5 Cara Tukar Side Income Menjadi Kekayaan Jangka Panjang](5-cara-tukar-side-income-jadi-kekayaan.md)
+- [Lagi Banyak Pilihan, Lagi Susah Orang Nak Mula Menyimpan](lagi-banyak-pilihan-lagi-susah-mula-menyimpan.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

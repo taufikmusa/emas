@@ -2,6 +2,7 @@
 title: "Harga Emas Turun, Menyesal Beli Mahal. Harga Emas Naik, Menyesal Tak Beli Banyak."
 description: "Harga emas turun, menyesal beli mahal. Harga emas naik, menyesal tak beli banyak. Sampai bila nak menyesal? Matlamat penyimpan emas bukan cari harga paling rendah, tetapi pastikan jumlah gram semakin bertambah."
 image: assets/og-menyesal-beli.jpg
+date: "2026-10-31"
 ---
 
 <span class="cat-badge">Harga Emas</span>
@@ -106,6 +107,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Harga Emas Turun RM17, Tapi Ada Satu Perkara Yang Ramai Orang Terlepas Pandang](harga-emas-turun-rm17-terlepas-pandang.md)
+- [Harga Emas Turun RM17 Dalam Sehari](harga-emas-turun-rm17-dalam-sehari.md)
+- [Harga Emas Pernah Cecah RM764, Kini RM571 Segram: Panik Atau Tambah Simpanan?](harga-emas-pernah-cecah-rm764-kini-rm571-segram.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

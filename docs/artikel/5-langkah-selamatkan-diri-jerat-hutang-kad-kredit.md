@@ -2,6 +2,7 @@
 title: "5 Langkah Selamatkan Diri Daripada Jerat Hutang Kad Kredit"
 description: "Gaji naik tapi duit tetap tak cukup kerana hutang kad kredit? 5 langkah keluar daripada jerat hutang: faham kos, berhenti hutang baharu, susun strategi bayar, bina dana kecemasan, kemudian mula bina aset."
 image: assets/og-hutang-kad-kredit.jpg
+date: "2026-10-27"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -106,6 +107,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [5 Realiti Pahit Harga Rumah Untuk Anak Muda](5-realiti-pahit-harga-rumah-untuk-anak-muda.md)
+- [5 Cara Selamatkan Duit Raya Anak Daripada Lesap Begitu Sahaja](5-cara-selamatkan-duit-raya-anak.md)
+- [5 Cara Graduan Bina Aset Sambil Bayar PTPTN](5-cara-graduan-bina-aset-sambil-bayar-ptptn.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

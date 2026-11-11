@@ -48,3 +48,9 @@ Facebook tak dipercayai untuk embed. Guna `<a class="video-thumb">` dengan thumb
 ## Video YouTube
 YouTube Shorts boleh dibenam terus: `<div class="yt-short"><iframe src="https://www.youtube-nocookie.com/embed/ID" ... referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe></div>` dan butang "Tonton di YouTube" di bawahnya. Perlukan ID video (bahagian selepas /shorts/).
 
+## SEO teknikal
+- `docs/robots.txt` menunjuk ke sitemap (dijana MkDocs). Jangan buang.
+- `overrides/main.html` menjana JSON-LD (WebSite di homepage, Article untuk `artikel/*`). Article perlukan `date: "YYYY-MM-DD"` dalam front matter (ikut `.byline`).
+- `hooks/seo.py` menambah `rel="sponsored nofollow"` pada pautan rujukan (`intro_pgcode=` dan `pgmall.my/r/`) semasa build. Tak perlu tulis `rel` dalam artikel.
+- Blok "Baca juga" dijana `python3 scripts/baca-juga.py` (jalankan selepas tambah artikel dalam `nav:`).
+- Title tag dan description perlu dipendekkan (title sekitar 45 aksara, description 120 hingga 155) bila Taufik hantar data Search Console. Belum dibuat.

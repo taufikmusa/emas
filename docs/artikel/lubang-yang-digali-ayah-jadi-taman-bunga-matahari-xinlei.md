@@ -2,6 +2,7 @@
 title: "Lubang Yang Digali Ayah Untuk Anaknya, Sembilan Tahun Kemudian Jadi Taman Bunga Matahari"
 description: "Gambar seorang ayah berbaring dalam lubang tanah bersama anak dua tahun menyentuh jutaan hati pada 2017. Sembilan tahun kemudian, inilah apa yang sebenarnya berlaku kepada Xinlei."
 image: assets/og-xinlei.jpg
+date: "2026-11-03"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -172,6 +173,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Skateboarding Bermula Daripada Peluncur Ombak Yang Bosan Menunggu Ombak Laut](skateboarding-bermula-peluncur-ombak-bosan-tunggu-ombak.md)
+- [5 Cara Bantu Keluarga Tanpa Mengorbankan Masa Depan Sendiri](5-cara-bantu-keluarga-tanpa-korbankan-masa-depan.md)
+- [Nak Jadi Kaki Travel? Boleh! Tapi Jangan Sampai Poket Kembali Kosong](nak-jadi-kaki-travel-jangan-poket-kosong.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

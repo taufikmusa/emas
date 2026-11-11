@@ -31,8 +31,10 @@ Sumber gambar ada di `/root/.claude/uploads/<id>/...` (laluan diberi dalam mesej
 title: "Tajuk Artikel"
 description: "Satu atau dua ayat ringkas untuk SEO."
 image: assets/og-<nama>.jpg
+date: "YYYY-MM-DD"
 ---
 ```
+`date` ialah tarikh pada `.byline` (untuk JSON-LD Article dalam `overrides/main.html`). Sentiasa dipetik.
 `title` dan `description` SENTIASA dalam tanda petik. Kalau ada `: ` tanpa petik, YAML rosak dan front matter terpapar sebagai teks dalam artikel (pernah berlaku). Selepas tulis, sahkan semua front matter dengan `yaml.safe_load` (jangan `safe_load` `mkdocs.yml` sebab ada tag Python).
 
 ## 4. Susunan artikel
@@ -92,6 +94,7 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 
 ```
 Laluan gambar di `index.md` ialah `assets/...` (tanpa `../`).
+- Selepas nav dikemas kini, jalankan `python3 scripts/baca-juga.py`. Ia menjana atau menyegarkan blok "Baca juga" (3 pautan dalaman berkaitan, sebelum kad bio) pada semua artikel. Selamat dijalankan berulang kali. Jangan edit blok antara `<!-- baca-juga -->` dan `<!-- /baca-juga -->` dengan tangan.
 
 ## 8. HTML mentah dalam artikel
 Artikel dipaparkan di `/artikel/<slug>/`, jadi `<img src>` dalam HTML mentah guna `../../assets/...` (Markdown biasa guna `../assets/...`).

@@ -2,6 +2,7 @@
 title: "Diamond Day: Lihat Kejayaan Untuk Cipta Kejayaan"
 description: "Diamond Day Public Gold 7 November 2026 di KLCC. Kenali tiga Diamond yang bakal diraikan dan barisan achiever 4 Star Ruby, 3 Star Pearl dan 3 Star Jade. Tiket RM30 melalui PGMall."
 image: assets/og-diamond-day-ceremony.jpg
+date: "2026-11-01"
 ---
 
 <span class="cat-badge">Diamond Day</span>
@@ -171,6 +172,15 @@ Dapatkan tiket RM30 sebelum 7 November, atau WhatsApp saya kalau nak tanya apa-a
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Runner-up Trimble Hackathon '26 dan Jemputan ke Diamond Day 7 November](runner-up-trimble-hackathon-dan-diamond-day.md)
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

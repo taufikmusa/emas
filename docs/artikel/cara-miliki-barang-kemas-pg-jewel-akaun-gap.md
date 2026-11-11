@@ -2,6 +2,7 @@
 title: "Cara Miliki Barang Kemas di PG Jewel Melalui Akaun GAP Public Gold"
 description: Baki gram dalam Akaun Emas GAP kini boleh ditebus jadi barang kemas 999 di PG Jewel. Contoh kiraan cincin RM1,663 dan 3 langkah sistem tolak gram GAP.
 image: assets/og-pg-jewel.jpg
+date: "2026-10-18"
 ---
 
 <span class="cat-badge">PG Jewel</span>
@@ -85,6 +86,15 @@ Klik "WhatsApp" di bawah untuk Taufik bantu mulakan langkah pertama anda.
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Harga Emas 916 Turun Kepada RM524 Segram, Rezeki Buat Bakal Pengantin](harga-emas-916-turun-rm524-bakal-pengantin.md)
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

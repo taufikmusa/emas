@@ -2,6 +2,7 @@
 title: "5 Sebab Simpanan Emas Boleh Bantu Kita Merancang Ibadah Korban dan Aqiqah"
 description: "Niat nak buat korban atau aqiqah tapi duit belum cukup? 5 sebab simpanan emas boleh jadi salah satu cara merancang lebih awal, mula serendah RM100 melalui Akaun GAP Public Gold, tertakluk harga semasa."
 image: assets/og-korban-aqiqah.jpg
+date: "2026-10-28"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -102,6 +103,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Kenapa Duit Cepat Habis Sejak Kita Guna QR dan E-Wallet?](kenapa-duit-cepat-habis-sejak-guna-qr-ewallet.md)
+- [5 Langkah Selamatkan Diri Daripada Jerat Hutang Kad Kredit](5-langkah-selamatkan-diri-jerat-hutang-kad-kredit.md)
+- [5 Realiti Pahit Harga Rumah Untuk Anak Muda](5-realiti-pahit-harga-rumah-untuk-anak-muda.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

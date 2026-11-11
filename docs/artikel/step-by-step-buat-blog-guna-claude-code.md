@@ -2,6 +2,7 @@
 title: "Step by Step Nak Buat Blog Guna Claude Code Untuk Beginner"
 description: Panduan dari kosong untuk beginner tanpa coding. Beli domain, buat akaun GitHub dan Claude, publish page pertama, tambah artikel, gambar dan butang WhatsApp. Siap prompt yang boleh terus salin.
 image: assets/og-blog-claude-code.jpg
+date: "2026-10-21"
 ---
 
 <span class="cat-badge">Tutorial Beginner</span>

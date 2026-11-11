@@ -2,6 +2,7 @@
 title: "9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold"
 description: Modal mula, yuran, emas fizikal, patuh syariah, jual beli 24 jam, bayaran terus ke Public Gold, akaun anak Junior GAP dan penalti. 9 soalan lazim sebelum buka akaun emas GAP.
 image: assets/og-9-soalan.jpg
+date: "2026-10-21"
 ---
 
 <span class="cat-badge">Soalan Lazim</span>
@@ -73,6 +74,15 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)](cara-daftar-public-gold-gap-2026.md)
+- [Bila Agak Nak Mula Simpan Emas? 5 Sebab Jangan Tunggu Kereta Terbang](bila-nak-mula-simpan-emas-jangan-tunggu-kereta-terbang.md)
+- [Public Gold Syarikat Cina? Jadi Apa Masalahnya?](public-gold-syarikat-cina-apa-masalahnya.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

@@ -2,6 +2,7 @@
 title: "5 Cara Selamatkan Duit Raya Anak Daripada Lesap Begitu Sahaja"
 description: "Duit raya anak sampai beratus ringgit tapi habis dalam beberapa minggu? 5 cara ajar anak urus duit raya: simpan dahulu, tukar sebahagian kepada emas, tunjuk perkembangan, bezakan keperluan dan kehendak."
 image: assets/og-duit-raya-anak.jpg
+date: "2026-10-26"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -128,6 +129,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [5 Cara Graduan Bina Aset Sambil Bayar PTPTN](5-cara-graduan-bina-aset-sambil-bayar-ptptn.md)
+- [5 Sebab Kita Patut Rancang Simpanan Kahwin 3 Tahun Lebih Awal](5-sebab-rancang-simpanan-kahwin-3-tahun-awal.md)
+- [Kita Jaga Semua Orang, Siapa Jaga Kita Nanti?](kita-jaga-semua-orang-siapa-jaga-kita-nanti.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

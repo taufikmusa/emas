@@ -2,6 +2,7 @@
 title: "Bila Nak Berhenti Menyesal Pasal Harga Emas?"
 description: "Setiap kali harga emas turun kita menyesal, setiap kali harga naik kita pun menyesal. Masa yang berlalu tak boleh dibeli semula. Jangan tunggu harga murah baru nak mula menyimpan."
 image: assets/og-berhenti-menyesal.jpg
+date: "2026-10-31"
 ---
 
 <span class="cat-badge">Harga Emas</span>
@@ -104,6 +105,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Harga Emas Turun, Menyesal Beli Mahal. Harga Emas Naik, Menyesal Tak Beli Banyak.](harga-emas-turun-naik-menyesal-sampai-bila.md)
+- [Harga Emas Turun RM17, Tapi Ada Satu Perkara Yang Ramai Orang Terlepas Pandang](harga-emas-turun-rm17-terlepas-pandang.md)
+- [Harga Emas Turun RM17 Dalam Sehari](harga-emas-turun-rm17-dalam-sehari.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

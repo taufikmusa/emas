@@ -2,6 +2,7 @@
 title: "5 Sebab Kita Patut Rancang Simpanan Kahwin 3 Tahun Lebih Awal"
 description: "Nak berkahwin dalam 3 tahun lagi? Mula simpan emas dari sekarang. 5 sebab: kos lebih terkawal, asingkan simpanan, elak hutang majlis, kumpul emas GAP ikut kemampuan dan bina hidup selepas kahwin."
 image: assets/og-simpanan-kahwin.jpg
+date: "2026-10-26"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -136,6 +137,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Kita Jaga Semua Orang, Siapa Jaga Kita Nanti?](kita-jaga-semua-orang-siapa-jaga-kita-nanti.md)
+- [Kemewahan Bukan Bermaksud Kita Kaya](kemewahan-bukan-bermaksud-kita-kaya.md)
+- [Berapa Lama Kita Kena Simpan Emas Untuk Nampak Untung?](berapa-lama-simpan-emas-untuk-nampak-untung.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

@@ -2,6 +2,7 @@
 title: "5 Sebab Pasukan Keselamatan Perlukan Emas Fizikal"
 description: Perlindungan tugas berisiko tinggi, persaraan awal, disiplin aliran tunai, aset mudah diwariskan dan disiplin bina kekayaan. 5 sebab pasukan keselamatan perlukan aset emas fizikal.
 image: assets/og-keselamatan.jpg
+date: "2026-10-21"
 ---
 
 <span class="cat-badge">Untuk Pasukan Keselamatan</span>
@@ -92,6 +93,15 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+- [Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)](cara-daftar-public-gold-gap-2026.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

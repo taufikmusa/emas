@@ -18,6 +18,13 @@
   <meta name="twitter:title" content="{{ title }}">
   <meta name="twitter:description" content="{{ desc }}">
   <meta name="twitter:image" content="{{ config.site_url }}{{ img }}">
+  {% if page and page.is_homepage %}
+  <script type="application/ld+json">{{ {"@context": "https://schema.org", "@type": "WebSite", "name": config.site_name, "url": config.site_url, "inLanguage": "ms", "description": config.site_description} | tojson }}</script>
+  {% elif page and page.file.src_path.startswith("artikel/") %}
+  {% set ld = {"@context": "https://schema.org", "@type": "Article", "headline": page.title, "description": desc, "image": [config.site_url ~ img], "mainEntityOfPage": page.canonical_url, "inLanguage": "ms", "author": {"@type": "Person", "name": "Taufik Bin Musa", "url": "https://pg2u.my/taufikmusa"}} %}
+  {% if page.meta.date %}{% set _ = ld.update({"datePublished": page.meta.date | string, "dateModified": page.meta.date | string}) %}{% endif %}
+  <script type="application/ld+json">{{ ld | tojson }}</script>
+  {% endif %}
 {% endblock %}
 
 {% block announce %}

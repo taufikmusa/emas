@@ -2,6 +2,7 @@
 title: "Harga Emas Pernah Cecah RM764, Kini RM571 Segram: Panik Atau Tambah Simpanan?"
 description: "Harga emas pernah cecah RM764 segram awal 2026, kini sekitar RM571. 5 pesanan guru saya: penyimpan vs pelabur, matlamat, tempoh, DCA dan fokus pada gram."
 image: assets/og-harga-cecah.jpg
+date: "2026-10-23"
 ---
 
 <span class="cat-badge">Harga Emas</span>
@@ -114,6 +115,15 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Harga Emas Jatuh RM16 Segram Dalam Sehari: Panik Atau Tambah Simpanan?](harga-emas-jatuh-rm16-segram-panik-atau-tambah-simpanan.md)
+- [Harga Emas Naik 17 Kali Ganda Dalam 26 Tahun, Tapi Apa Yang Berlaku Kepada Nilai Duit Kita?](harga-emas-naik-17-kali-ganda-26-tahun-nilai-duit.md)
+- [Harga Emas Dah RM548 Segram, Apa Pula Alasan Kita?](harga-emas-dah-rm548-apa-alasan-kita.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

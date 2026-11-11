@@ -2,6 +2,7 @@
 title: "Emas Sentiasa Bernilai, Tapi Kenapa Masih Ramai Orang Tak Mula Menyimpan?"
 description: "Lima jenis manusia dalam simpanan emas: tunggu harga turun, selalu menyesal, kaki simpan emas, tengok graf dulu dan yang dah faham nilai. Kita dalam kategori yang mana?"
 image: assets/og-lima-jenis.jpg
+date: "2026-10-31"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -124,6 +125,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [5 Cara Tukar Side Income Menjadi Kekayaan Jangka Panjang](5-cara-tukar-side-income-jadi-kekayaan.md)
+- [Lagi Banyak Pilihan, Lagi Susah Orang Nak Mula Menyimpan](lagi-banyak-pilihan-lagi-susah-mula-menyimpan.md)
+- [5 Sebab Simpanan Emas Boleh Bantu Kita Merancang Ibadah Korban dan Aqiqah](5-sebab-simpanan-emas-rancang-korban-aqiqah.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

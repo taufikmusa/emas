@@ -2,6 +2,7 @@
 title: "Log Kya Kahenge? Cukai Paling Mahal Dalam Masyarakat Kita"
 description: "Apa kata orang nanti? Ramai berhutang demi menjaga mulut jiran dan saudara-mara. Hidup bersederhana, urus kewangan bijak dan bina simpanan emas GAP serendah RM100 secara senyap."
 image: assets/og-log-kya-kahenge.jpg
+date: "2026-11-11"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -100,6 +101,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Dompet Macam Bawang, Setiap Kali Dibuka Buat Kita Menangis](dompet-macam-bawang-kebocoran-kecil-hakis-simpanan.md)
+- [Perspective Matters, Perkara Yang Sama Boleh Nampak Sangat Berbeza](perspective-matters-perkara-sama-tafsiran-berbeza.md)
+- [Bila Semak Akaun Simpanan, Rupanya Kita Menyimpan Kenangan, Bukan Duit](menyimpan-kenangan-bukan-duit.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 
