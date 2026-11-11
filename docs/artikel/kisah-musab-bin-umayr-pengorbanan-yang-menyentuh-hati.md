@@ -130,9 +130,9 @@ Moga perkongsian ini bermanfaat.
 <!-- baca-juga -->
 ## Baca juga
 
+- [Ringkasan Al-Quran Dalam 2 Minit, Empat Tema Utama Yang Perlu Kita Fahami](ringkasan-al-quran-dalam-2-minit-empat-tema-utama.md)
 - [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
 - [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
-- [Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)](cara-daftar-public-gold-gap-2026.md)
 
 <!-- /baca-juga -->
 
