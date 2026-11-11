@@ -2,6 +2,7 @@
 title: "Minat Simpan Emas, Tapi Tak Jadi Beli?"
 description: "Kenapa kita berminat nak simpan emas tapi akhirnya tak jadi beli? Takut harga turun, rasa modal tak cukup atau belum faham akaun GAP. Faham dulu, rancang ikut kemampuan."
 image: assets/og-minat-tak-jadi.jpg
+date: "2026-10-25"
 ---
 
 <span class="cat-badge">Daftar &amp; Mula</span>
@@ -102,6 +103,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Beli Emas Dalam Telefon Ni Selamat Ke?](beli-emas-dalam-telefon-selamat-ke.md)
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

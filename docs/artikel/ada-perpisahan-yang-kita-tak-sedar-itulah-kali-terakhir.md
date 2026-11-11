@@ -2,6 +2,7 @@
 title: "Ada Perpisahan Yang Kita Tak Sedar Itulah Kali Terakhir."
 description: "Pernah tak terfikir ada seseorang yang pernah rapat dengan kita tapi takkan kita jumpa lagi? Renungan tentang The Last Meeting Theory, pertemuan terakhir dan menghargai orang yang kita sayang."
 image: assets/og-perpisahan.jpg
+date: "2026-10-24"
 ---
 
 <span class="cat-badge">Kehidupan</span>
@@ -71,6 +72,15 @@ Tak semua orang yang pernah hadir dalam hidup kita ditakdirkan untuk kekal. Tapi
 Mungkin kita sudah membawa haluan masing-masing.
 
 Dan mungkin, itu pun sebahagian daripada perjalanan hidup yang perlu kita terima.
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+- [Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)](cara-daftar-public-gold-gap-2026.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

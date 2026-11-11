@@ -2,6 +2,7 @@
 title: "Beli Emas Dalam Telefon Ni Selamat Ke?"
 description: "Beli emas online, emasnya tak nampak. Selamat ke? 5 perkara untuk faham bagaimana akaun GAP Public Gold diuruskan: emas fizikal, tebus, hantar ke rumah, semak transaksi dan konsisten."
 image: assets/og-telefon.jpg
+date: "2026-10-24"
 ---
 
 <span class="cat-badge">Asas GAP</span>
@@ -100,6 +101,15 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+- [Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)](cara-daftar-public-gold-gap-2026.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

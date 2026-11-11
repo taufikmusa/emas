@@ -2,6 +2,7 @@
 title: "Jangan Ajak Beli Emas Sebelum Faham 3 Perkara Ini"
 description: "Sebelum mengajak orang simpan emas, faham dulu cara Akaun GAP berfungsi, kenali risiko dan spread, dan tetapkan tujuan menyimpan. Ilmu dahulu, keputusan kemudian."
 image: assets/og-jangan-ajak-beli.jpg
+date: "2026-10-29"
 ---
 
 <span class="cat-badge">Daftar &amp; Mula</span>
@@ -98,6 +99,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Minat Simpan Emas, Tapi Tak Jadi Beli?](minat-simpan-emas-tapi-tak-jadi-beli.md)
+- [Beli Emas Dalam Telefon Ni Selamat Ke?](beli-emas-dalam-telefon-selamat-ke.md)
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

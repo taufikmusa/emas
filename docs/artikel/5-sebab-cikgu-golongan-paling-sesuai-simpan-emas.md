@@ -2,6 +2,7 @@
 title: "5 Sebab Cikgu Golongan Paling Sesuai Simpan Emas"
 description: Gaji tetap, faham kuasa jangka panjang, pencen tidak kebal inflasi, suri teladan dan cuti sekolah panjang. 5 sebab cikgu mudah berjaya dalam simpanan emas.
 image: assets/og-cikgu.jpg
+date: "2026-10-20"
 ---
 
 <span class="cat-badge">Untuk Cikgu</span>
@@ -99,6 +100,15 @@ Cikgu, kukuhkan persaraan anda. Daftar percuma dan mula dengan RM100, atau Whats
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+- [Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)](cara-daftar-public-gold-gap-2026.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

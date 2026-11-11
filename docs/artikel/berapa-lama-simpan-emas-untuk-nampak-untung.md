@@ -2,6 +2,7 @@
 title: "Berapa Lama Kita Kena Simpan Emas Untuk Nampak Untung?"
 description: "Soalan paling biasa orang baru nak simpan emas. 5 perkara untuk expectation yang tepat: tabungan jangka panjang, faham spread, beri masa, fokus gram dan tetapkan matlamat."
 image: assets/og-berapa-lama.jpg
+date: "2026-10-24"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -82,6 +83,15 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [5 Langkah Matlamat Simpan Emas Supaya Gaji Tak Bocor Setiap Bulan](5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)
+- [Log Kya Kahenge? Cukai Paling Mahal Dalam Masyarakat Kita](log-kya-kahenge-cukai-paling-mahal-masyarakat-kita.md)
+- [Dompet Macam Bawang, Setiap Kali Dibuka Buat Kita Menangis](dompet-macam-bawang-kebocoran-kecil-hakis-simpanan.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

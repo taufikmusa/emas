@@ -2,6 +2,7 @@
 title: "Kisah Mus’ab bin Umayr: Pengorbanan Yang Menyentuh Hati"
 description: "Kisah sahabat Nabi SAW, Mus’ab bin Umayr, yang meninggalkan kemewahan demi iman. 3 perkara untuk direnungkan daripada perkongsian Ustaz Azlan Shah."
 image: assets/og-ibrah-musab.jpg
+date: "2026-10-23"
 ---
 
 <span class="cat-badge">Ibrah</span>
@@ -125,6 +126,15 @@ Kalau ada masa, cuba dengar sampai habis. Insya-Allah, ada banyak perkara yang b
 <p class="video-cta"><a class="md-button md-button--primary" href="https://youtu.be/efd70wH5_S4">▶ Tonton video di YouTube</a></p>
 
 Moga perkongsian ini bermanfaat.
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+- [Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)](cara-daftar-public-gold-gap-2026.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

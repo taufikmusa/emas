@@ -2,6 +2,7 @@
 title: "Kita Jaga Semua Orang, Siapa Jaga Kita Nanti?"
 description: "Kita penat bekerja untuk keluarga, tapi siapa yang kita persiapkan untuk jaga kita bila tak mampu bekerja? Mula simpan sikit-sikit melalui akaun GAP Public Gold serendah RM100."
 image: assets/og-kita-jaga.jpg
+date: "2026-10-25"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -68,6 +69,15 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Kemewahan Bukan Bermaksud Kita Kaya](kemewahan-bukan-bermaksud-kita-kaya.md)
+- [Berapa Lama Kita Kena Simpan Emas Untuk Nampak Untung?](berapa-lama-simpan-emas-untuk-nampak-untung.md)
+- [5 Langkah Matlamat Simpan Emas Supaya Gaji Tak Bocor Setiap Bulan](5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

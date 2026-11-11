@@ -2,6 +2,7 @@
 title: "5 Langkah Matlamat Simpan Emas Supaya Gaji Tak Bocor Setiap Bulan"
 description: Punca gaji bocor bukan sebab gaji kecil, tapi tiada matlamat kewangan yang jelas. 5 langkah kunci matlamat, dana kecemasan, hutang jahat dan simpan emas sedikit demi sedikit.
 image: assets/og-matlamat-10-gram.jpg
+date: "2026-10-22"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -80,6 +81,15 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Log Kya Kahenge? Cukai Paling Mahal Dalam Masyarakat Kita](log-kya-kahenge-cukai-paling-mahal-masyarakat-kita.md)
+- [Dompet Macam Bawang, Setiap Kali Dibuka Buat Kita Menangis](dompet-macam-bawang-kebocoran-kecil-hakis-simpanan.md)
+- [Perspective Matters, Perkara Yang Sama Boleh Nampak Sangat Berbeza](perspective-matters-perkara-sama-tafsiran-berbeza.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

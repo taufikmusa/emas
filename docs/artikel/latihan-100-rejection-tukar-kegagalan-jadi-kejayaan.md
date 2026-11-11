@@ -2,6 +2,7 @@
 title: "Latihan 100 Kali Ditolak, Cara Menukar Kegagalan Menjadi Kejayaan"
 description: "Latihan 100 Rejection daripada mentor Tn Mohd Zulkifli Shafie: bagaimana setiap penolakan mengubah rasa takut jadi kebal, dan kenapa jawapan NO hanya bermaksud NEXT."
 image: assets/og-rejection.jpg
+date: "2026-11-08"
 ---
 
 <span class="cat-badge">Bisnes</span>
@@ -152,6 +153,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Jangan Cepat Beri Diskaun!](jangan-cepat-beri-diskaun.md)
+- [Orang Sanggup Bayar Mahal Untuk 3 Benda Sahaja](orang-sanggup-bayar-mahal-untuk-3-benda.md)
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

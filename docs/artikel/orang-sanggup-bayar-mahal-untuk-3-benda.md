@@ -2,6 +2,7 @@
 title: "Orang Sanggup Bayar Mahal Untuk 3 Benda Sahaja"
 description: "Kenapa orang sanggup bayar mahal untuk benda yang hampir sama? Tiga perkara yang orang sanggup keluarkan duit: penyelesaian masalah, kemudahan dan pengalaman. Pelanggan beli nilai, bukan produk semata-mata."
 image: assets/og-tiga-benda.jpg
+date: "2026-10-25"
 ---
 
 <span class="cat-badge">Bisnes</span>
@@ -67,6 +68,15 @@ Kalau kita berniaga sekarang, cuba fikirkan satu soalan ini:
 > Sebenarnya, pelanggan kita bayar untuk apa?
 
 Moga perkongsian ini bermanfaat.
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Latihan 100 Kali Ditolak, Cara Menukar Kegagalan Menjadi Kejayaan](latihan-100-rejection-tukar-kegagalan-jadi-kejayaan.md)
+- [Jangan Cepat Beri Diskaun!](jangan-cepat-beri-diskaun.md)
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

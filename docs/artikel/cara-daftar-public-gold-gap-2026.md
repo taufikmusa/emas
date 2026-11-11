@@ -2,6 +2,7 @@
 title: "Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)"
 description: Nak mula simpan emas tapi ingat proses daftar leceh? Ini 5 langkah daftar dan beli emas pertama di Public Gold, 100% online dan selamat.
 image: assets/og.jpg
+date: "2026-10-20"
 ---
 
 <span class="cat-badge">Asas</span>
@@ -103,6 +104,15 @@ Klik "WhatsApp" di bawah. Saya bantu anda mulakan langkah pertama.
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Bila Agak Nak Mula Simpan Emas? 5 Sebab Jangan Tunggu Kereta Terbang](bila-nak-mula-simpan-emas-jangan-tunggu-kereta-terbang.md)
+- [Public Gold Syarikat Cina? Jadi Apa Masalahnya?](public-gold-syarikat-cina-apa-masalahnya.md)
+- [Jangan Ajak Beli Emas Sebelum Faham 3 Perkara Ini](jangan-ajak-beli-emas-sebelum-faham-3-perkara.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

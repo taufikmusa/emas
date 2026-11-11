@@ -2,6 +2,7 @@
 title: "Runner-up Trimble Hackathon '26 dan Jemputan ke Diamond Day 7 November"
 description: Kisah saya sebagai Technical Specialist Tekla Structures menang Runner-up Trimble Hackathon '26, dan kenapa saya jemput anda ke Diamond Recognition Ceremony Public Gold 7 November 2026.
 image: assets/og-diamond-day.jpg
+date: "2026-10-21"
 ---
 
 <span class="cat-badge">Diamond Day</span>
@@ -215,6 +216,15 @@ Dapatkan tiket RM30 sebelum 7 November, atau WhatsApp saya kalau nak tanya apa-a
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Diamond Day: Lihat Kejayaan Untuk Cipta Kejayaan](diamond-day-lihat-kejayaan-untuk-cipta-kejayaan.md)
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

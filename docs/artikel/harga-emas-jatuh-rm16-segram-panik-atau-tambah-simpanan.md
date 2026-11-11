@@ -2,6 +2,7 @@
 title: "Harga Emas Jatuh RM16 Segram Dalam Sehari: Panik Atau Tambah Simpanan?"
 description: "Harga emas turun dari RM587 ke RM571 segram dalam sehari. Panik atau tambah simpanan? 4 pesanan guru saya tentang cara melihat kejatuhan harga emas."
 image: assets/og-harga-jatuh.jpg
+date: "2026-10-23"
 ---
 
 <span class="cat-badge">Harga Emas</span>
@@ -111,6 +112,15 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Harga Emas Naik 17 Kali Ganda Dalam 26 Tahun, Tapi Apa Yang Berlaku Kepada Nilai Duit Kita?](harga-emas-naik-17-kali-ganda-26-tahun-nilai-duit.md)
+- [Harga Emas Dah RM548 Segram, Apa Pula Alasan Kita?](harga-emas-dah-rm548-apa-alasan-kita.md)
+- [Siapa Tahu Bila Harga Emas Paling Rendah?](siapa-tahu-bila-harga-emas-paling-rendah.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

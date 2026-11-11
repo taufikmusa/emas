@@ -2,6 +2,7 @@
 title: "Harga Emas Dah RM548 Segram, Apa Pula Alasan Kita?"
 description: "Dulu kita tunggu harga macam ni, sekarang harga emas dah RM548 segram. Apa pula alasan kita untuk tak mula menyimpan? Jangan sampai terlalu sibuk mencari harga paling sempurna."
 image: assets/og-harga-548.jpg
+date: "2026-11-01"
 ---
 
 <span class="cat-badge">Harga Emas</span>
@@ -84,6 +85,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Siapa Tahu Bila Harga Emas Paling Rendah?](siapa-tahu-bila-harga-emas-paling-rendah.md)
+- [Bila Nak Berhenti Menyesal Pasal Harga Emas?](bila-nak-berhenti-menyesal-pasal-harga-emas.md)
+- [Harga Emas Turun, Menyesal Beli Mahal. Harga Emas Naik, Menyesal Tak Beli Banyak.](harga-emas-turun-naik-menyesal-sampai-bila.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

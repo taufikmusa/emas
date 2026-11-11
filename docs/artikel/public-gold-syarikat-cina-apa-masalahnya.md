@@ -2,6 +2,7 @@
 title: "Public Gold Syarikat Cina? Jadi Apa Masalahnya?"
 description: "Kalau sebuah syarikat memberi manfaat kepada rakyat Malaysia tanpa mengira bangsa dan agama, apa masalahnya? Renungan daripada perkongsian Tn Adam Fahmi Ghazali tentang menilai syarikat dengan fakta, bukan prejudis."
 image: assets/og-pg-cina.jpg
+date: "2026-11-09"
 ---
 
 <span class="cat-badge">Daftar &amp; Mula</span>
@@ -140,6 +141,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Jangan Ajak Beli Emas Sebelum Faham 3 Perkara Ini](jangan-ajak-beli-emas-sebelum-faham-3-perkara.md)
+- [Minat Simpan Emas, Tapi Tak Jadi Beli?](minat-simpan-emas-tapi-tak-jadi-beli.md)
+- [Beli Emas Dalam Telefon Ni Selamat Ke?](beli-emas-dalam-telefon-selamat-ke.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

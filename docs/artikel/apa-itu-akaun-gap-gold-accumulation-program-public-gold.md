@@ -2,6 +2,7 @@
 title: "Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold"
 description: "Takut simpan emas di rumah dan rasa modal belum cukup? Kenali 5 perkara tentang akaun GAP Public Gold: mula serendah RM100, tak perlu simpan sendiri, boleh keluar fizikal, boleh jual dan sesuai jangka panjang."
 image: assets/og-apa-itu-gap.jpg
+date: "2026-10-23"
 ---
 
 <span class="cat-badge">Asas GAP</span>
@@ -140,6 +141,15 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
+- [Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)](cara-daftar-public-gold-gap-2026.md)
+- [Bila Agak Nak Mula Simpan Emas? 5 Sebab Jangan Tunggu Kereta Terbang](bila-nak-mula-simpan-emas-jangan-tunggu-kereta-terbang.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

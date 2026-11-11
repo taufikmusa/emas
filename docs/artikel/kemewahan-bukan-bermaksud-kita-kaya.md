@@ -2,6 +2,7 @@
 title: "Kemewahan Bukan Bermaksud Kita Kaya"
 description: "Kemewahan adalah apa yang kita belanjakan, kekayaan sebenar adalah apa yang kita simpan. 5 prinsip membina kekayaan: bayar diri sendiri dahulu, forgotten saving, aset dan life boat keluarga."
 image: assets/og-kemewahan.jpg
+date: "2026-10-24"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -82,6 +83,15 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Berapa Lama Kita Kena Simpan Emas Untuk Nampak Untung?](berapa-lama-simpan-emas-untuk-nampak-untung.md)
+- [5 Langkah Matlamat Simpan Emas Supaya Gaji Tak Bocor Setiap Bulan](5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)
+- [Log Kya Kahenge? Cukai Paling Mahal Dalam Masyarakat Kita](log-kya-kahenge-cukai-paling-mahal-masyarakat-kita.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

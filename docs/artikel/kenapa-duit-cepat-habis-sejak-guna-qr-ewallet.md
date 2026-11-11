@@ -2,6 +2,7 @@
 title: "Kenapa Duit Cepat Habis Sejak Kita Guna QR dan E-Wallet?"
 description: "Beli kopi RM12, makan RM18, shopping RM25, semua scan QR sahaja. Kenapa duit terasa cepat habis sejak guna QR dan e-wallet? Kenali cashless effect dan cara asingkan simpanan sebelum berbelanja."
 image: assets/og-qr-ewallet.jpg
+date: "2026-10-28"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -122,6 +123,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [5 Langkah Selamatkan Diri Daripada Jerat Hutang Kad Kredit](5-langkah-selamatkan-diri-jerat-hutang-kad-kredit.md)
+- [5 Realiti Pahit Harga Rumah Untuk Anak Muda](5-realiti-pahit-harga-rumah-untuk-anak-muda.md)
+- [5 Cara Selamatkan Duit Raya Anak Daripada Lesap Begitu Sahaja](5-cara-selamatkan-duit-raya-anak.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

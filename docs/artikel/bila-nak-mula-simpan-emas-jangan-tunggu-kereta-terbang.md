@@ -2,6 +2,7 @@
 title: "Bila Agak Nak Mula Simpan Emas? 5 Sebab Jangan Tunggu Kereta Terbang"
 description: Tesla dah umum kereta terbang, tapi ramai masih tunggu harga emas turun. Ini 5 sebab kenapa kita tak boleh bertangguh untuk mula simpan emas.
 image: assets/og-kereta-terbang.jpg
+date: "2026-10-21"
 ---
 
 <span class="cat-badge">Mula Simpan</span>
@@ -82,6 +83,15 @@ Tak payah tunggu kereta terbang. Daftar percuma, mula dengan RM100, dan WhatsApp
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Public Gold Syarikat Cina? Jadi Apa Masalahnya?](public-gold-syarikat-cina-apa-masalahnya.md)
+- [Jangan Ajak Beli Emas Sebelum Faham 3 Perkara Ini](jangan-ajak-beli-emas-sebelum-faham-3-perkara.md)
+- [Minat Simpan Emas, Tapi Tak Jadi Beli?](minat-simpan-emas-tapi-tak-jadi-beli.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

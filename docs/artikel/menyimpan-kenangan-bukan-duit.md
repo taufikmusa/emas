@@ -2,6 +2,7 @@
 title: "Bila Semak Akaun Simpanan, Rupanya Kita Menyimpan Kenangan, Bukan Duit"
 description: "Gaji masuk, belanja keluar, baki tinggal kenangan. Asingkan simpanan dahulu sebaik terima gaji dan mula kumpul emas GAP serendah RM100 ikut kemampuan."
 image: assets/og-kenangan.jpg
+date: "2026-11-09"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -94,6 +95,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Bukan Nak Dream Job, Tapi Nak Kerja Yang Tak Muncul Dalam Mimpi](bukan-nak-dream-job-tapi-kerja-tak-muncul-dalam-mimpi.md)
+- [Yang Paling Menakutkan Tentang Menjadi Semakin Tua Bukanlah Usia Kita](paling-menakutkan-semakin-tua-lima-tahun-lagi-sama.md)
+- [5 Cara Selamatkan Poket Bila Gaji Tak Naik, Tapi Harga Barang Makin Meningkat](5-cara-selamatkan-poket-gaji-tak-naik-harga-barang-naik.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

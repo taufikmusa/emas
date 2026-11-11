@@ -2,6 +2,7 @@
 title: "1,271 Pekerja Canva Terkesan, Apa Yang Boleh Kita Belajar?"
 description: "Canva dilaporkan menstruktur semula organisasi yang memberi kesan kepada 1,271 pekerja. Tiga pengajaran: jangan selesa dengan kemahiran, jangan bergantung pada satu gaji, dan terus belajar."
 image: assets/og-canva.jpg
+date: "2026-11-05"
 ---
 
 <span class="cat-badge">Matlamat Simpanan</span>
@@ -128,6 +129,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Lubang Yang Digali Ayah Untuk Anaknya, Sembilan Tahun Kemudian Jadi Taman Bunga Matahari](lubang-yang-digali-ayah-jadi-taman-bunga-matahari-xinlei.md)
+- [Skateboarding Bermula Daripada Peluncur Ombak Yang Bosan Menunggu Ombak Laut](skateboarding-bermula-peluncur-ombak-bosan-tunggu-ombak.md)
+- [5 Cara Bantu Keluarga Tanpa Mengorbankan Masa Depan Sendiri](5-cara-bantu-keluarga-tanpa-korbankan-masa-depan.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

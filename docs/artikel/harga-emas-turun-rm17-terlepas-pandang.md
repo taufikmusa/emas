@@ -2,6 +2,7 @@
 title: "Harga Emas Turun RM17, Tapi Ada Satu Perkara Yang Ramai Orang Terlepas Pandang"
 description: "Harga emas GAP turun dari RM568 ke RM551 segram. Tapi kita sebenarnya sedang mengumpul emas atau mengejar keuntungan? Beza cara fikir penyimpan emas dan pemburu harga."
 image: assets/og-harga-rm17-terlepas.jpg
+date: "2026-10-31"
 ---
 
 <span class="cat-badge">Harga Emas</span>
@@ -102,6 +103,15 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 [📘 E-Book](https://pg2u.my/app/ebook/taufikmusa){ .md-button .btn-ebook }
 
 </div>
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Harga Emas Turun RM17 Dalam Sehari](harga-emas-turun-rm17-dalam-sehari.md)
+- [Harga Emas Pernah Cecah RM764, Kini RM571 Segram: Panik Atau Tambah Simpanan?](harga-emas-pernah-cecah-rm764-kini-rm571-segram.md)
+- [Harga Emas Jatuh RM16 Segram Dalam Sehari: Panik Atau Tambah Simpanan?](harga-emas-jatuh-rm16-segram-panik-atau-tambah-simpanan.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 

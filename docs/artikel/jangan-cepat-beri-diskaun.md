@@ -2,6 +2,7 @@
 title: "Jangan Cepat Beri Diskaun!"
 description: "Bila pelanggan minta diskaun, tak semestinya kita turunkan harga. Pelanggan bayar nilai, ilmu, pengalaman dan servis. Contoh dalam bisnes emas Public Gold."
 image: assets/og-diskaun.jpg
+date: "2026-10-25"
 ---
 
 <span class="cat-badge">Bisnes</span>
@@ -63,6 +64,15 @@ Akhirnya, kita bukan sekadar menjual produk atau servis.
 > Kita sedang membina kepercayaan dan mengajar pelanggan menghargai nilai yang kita bawa.
 
 Setuju tak dengan perkongsian ni, tuan puan?
+
+<!-- baca-juga -->
+## Baca juga
+
+- [Orang Sanggup Bayar Mahal Untuk 3 Benda Sahaja](orang-sanggup-bayar-mahal-untuk-3-benda.md)
+- [Latihan 100 Kali Ditolak, Cara Menukar Kegagalan Menjadi Kejayaan](latihan-100-rejection-tukar-kegagalan-jadi-kejayaan.md)
+- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+
+<!-- /baca-juga -->
 
 <div class="abio" markdown>
 
