@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Ringkasan Al-Quran dalam 2 minit, empat tema utama](assets/og-al-quran-2-minit.jpg){ loading=lazy }](artikel/ringkasan-al-quran-dalam-2-minit-empat-tema-utama.md)
+
+    <span class="cat-badge">Ibrah</span>
+
+    **[Ringkasan Al-Quran Dalam 2 Minit, Empat Tema Utama Yang Perlu Kita Fahami](artikel/ringkasan-al-quran-dalam-2-minit-empat-tema-utama.md)**
+
+    Siapa Pencipta kita, apa tujuan hidup, bagaimana menjalani kehidupan dan apa selepas kematian.
+
 - [![Log Kya Kahenge, cukai paling mahal dalam masyarakat kita](assets/og-log-kya-kahenge.jpg){ loading=lazy }](artikel/log-kya-kahenge-cukai-paling-mahal-masyarakat-kita.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
