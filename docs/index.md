@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Graf harga emas dunia lima tahun hingga November 2026](assets/og-graf-emas.jpg){ loading=lazy }](artikel/graf-harga-emas-setahun-vs-lima-tahun.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Graf Harga Emas Setahun Nampak Merah, Tapi Graf Lima Tahun Menunjukkan Perkara Berbeza](artikel/graf-harga-emas-setahun-vs-lima-tahun.md)**
+
+    Setahun turun 4.72%, lima tahun naik 114.05%. Jangan nilai perjalanan panjang dengan satu tahun sahaja.
+
 - [![Harga Public Gold 13 November 2026: RM549 segram](assets/og-harga-rm18.jpg){ loading=lazy }](artikel/harga-emas-turun-rm18-segram-strategi-dca.md)
 
     <span class="cat-badge">Harga Emas</span>
