@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Harga Public Gold 13 November 2026: RM549 segram](assets/og-harga-rm18.jpg){ loading=lazy }](artikel/harga-emas-turun-rm18-segram-strategi-dca.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Harga Emas Turun RM18 Segram Dalam Sehari, Masa Yang Dinantikan Penyimpan DCA](artikel/harga-emas-turun-rm18-segram-strategi-dca.md)**
+
+    Dari sekitar RM567 ke RM549 segram dalam sehari. Dengan DCA, RM100 yang sama dapat lebih banyak gram.
+
 - [![Ringkasan Al-Quran dalam 2 minit, empat tema utama](assets/og-al-quran-2-minit.jpg){ loading=lazy }](artikel/ringkasan-al-quran-dalam-2-minit-empat-tema-utama.md)
 
     <span class="cat-badge">Ibrah</span>
