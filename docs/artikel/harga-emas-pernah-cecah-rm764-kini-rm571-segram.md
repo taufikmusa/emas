@@ -120,8 +120,8 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 ## Baca juga
 
 - [Harga Emas Jatuh RM16 Segram Dalam Sehari: Panik Atau Tambah Simpanan?](harga-emas-jatuh-rm16-segram-panik-atau-tambah-simpanan.md)
+- [Harga Emas Turun RM18 Segram Dalam Sehari, Masa Yang Dinantikan Penyimpan DCA](harga-emas-turun-rm18-segram-strategi-dca.md)
 - [Harga Emas Naik 17 Kali Ganda Dalam 26 Tahun, Tapi Apa Yang Berlaku Kepada Nilai Duit Kita?](harga-emas-naik-17-kali-ganda-26-tahun-nilai-duit.md)
-- [Harga Emas Dah RM548 Segram, Apa Pula Alasan Kita?](harga-emas-dah-rm548-apa-alasan-kita.md)
 
 <!-- /baca-juga -->
 
