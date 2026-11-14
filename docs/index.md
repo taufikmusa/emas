@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Taufik memegang jongkong emas Public Gold 100 gram](assets/og-ketagih.jpg){ loading=lazy }](artikel/ketagih-berbelanja-jadi-ketagih-menyimpan-emas-100-gram.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Dulu Ketagih Berbelanja, Sekarang Ketagih Menyimpan Emas](artikel/ketagih-berbelanja-jadi-ketagih-menyimpan-emas-100-gram.md)**
+
+    Dua jenis ketagihan: berbelanja atau menyimpan. Tabiat harian membentuk kedudukan kewangan kita.
+
 - [![Graf harga emas dunia lima tahun hingga November 2026](assets/og-graf-emas.jpg){ loading=lazy }](artikel/graf-harga-emas-setahun-vs-lima-tahun.md)
 
     <span class="cat-badge">Harga Emas</span>

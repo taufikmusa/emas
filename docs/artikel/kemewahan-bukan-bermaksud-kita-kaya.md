@@ -89,7 +89,7 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 
 - [Berapa Lama Kita Kena Simpan Emas Untuk Nampak Untung?](berapa-lama-simpan-emas-untuk-nampak-untung.md)
 - [5 Langkah Matlamat Simpan Emas Supaya Gaji Tak Bocor Setiap Bulan](5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)
-- [Log Kya Kahenge? Cukai Paling Mahal Dalam Masyarakat Kita](log-kya-kahenge-cukai-paling-mahal-masyarakat-kita.md)
+- [Dulu Ketagih Berbelanja, Sekarang Ketagih Menyimpan Emas](ketagih-berbelanja-jadi-ketagih-menyimpan-emas-100-gram.md)
 
 <!-- /baca-juga -->
 

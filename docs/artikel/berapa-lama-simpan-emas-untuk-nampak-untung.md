@@ -88,8 +88,8 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 ## Baca juga
 
 - [5 Langkah Matlamat Simpan Emas Supaya Gaji Tak Bocor Setiap Bulan](5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)
+- [Dulu Ketagih Berbelanja, Sekarang Ketagih Menyimpan Emas](ketagih-berbelanja-jadi-ketagih-menyimpan-emas-100-gram.md)
 - [Log Kya Kahenge? Cukai Paling Mahal Dalam Masyarakat Kita](log-kya-kahenge-cukai-paling-mahal-masyarakat-kita.md)
-- [Dompet Macam Bawang, Setiap Kali Dibuka Buat Kita Menangis](dompet-macam-bawang-kebocoran-kecil-hakis-simpanan.md)
 
 <!-- /baca-juga -->
 

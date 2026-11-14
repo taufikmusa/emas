@@ -85,9 +85,9 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 <!-- baca-juga -->
 ## Baca juga
 
+- [Dulu Ketagih Berbelanja, Sekarang Ketagih Menyimpan Emas](ketagih-berbelanja-jadi-ketagih-menyimpan-emas-100-gram.md)
 - [Log Kya Kahenge? Cukai Paling Mahal Dalam Masyarakat Kita](log-kya-kahenge-cukai-paling-mahal-masyarakat-kita.md)
 - [Dompet Macam Bawang, Setiap Kali Dibuka Buat Kita Menangis](dompet-macam-bawang-kebocoran-kecil-hakis-simpanan.md)
-- [Perspective Matters, Perkara Yang Sama Boleh Nampak Sangat Berbeza](perspective-matters-perkara-sama-tafsiran-berbeza.md)
 
 <!-- /baca-juga -->
 
