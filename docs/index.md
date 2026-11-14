@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![5 kesilapan besar apabila duit KWSP masuk akaun](assets/og-kwsp.jpg){ loading=lazy }](artikel/5-kesilapan-besar-duit-kwsp-masuk-akaun.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[5 Kesilapan Besar Apabila Duit KWSP Masuk Akaun](artikel/5-kesilapan-besar-duit-kwsp-masuk-akaun.md)**
+
+    30 tahun untuk kumpul, jangan 3 tahun untuk habiskan. Lima kesilapan yang perlu dielakkan sebelum bersara.
+
 - [![Kad emas Public Gold 5 gram berwarna ungu bercorak burung merak](assets/og-matlamat-gram.jpg){ loading=lazy }](artikel/apa-boleh-buat-dengan-10-gram-hingga-1-kilogram-emas.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
