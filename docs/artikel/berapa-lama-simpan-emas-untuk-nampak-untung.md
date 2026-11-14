@@ -88,8 +88,8 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 ## Baca juga
 
 - [5 Langkah Matlamat Simpan Emas Supaya Gaji Tak Bocor Setiap Bulan](5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)
+- [Apa Yang Boleh Kita Buat Dengan 10 Gram Hingga 1 Kilogram Emas?](apa-boleh-buat-dengan-10-gram-hingga-1-kilogram-emas.md)
 - [Dulu Ketagih Berbelanja, Sekarang Ketagih Menyimpan Emas](ketagih-berbelanja-jadi-ketagih-menyimpan-emas-100-gram.md)
-- [Log Kya Kahenge? Cukai Paling Mahal Dalam Masyarakat Kita](log-kya-kahenge-cukai-paling-mahal-masyarakat-kita.md)
 
 <!-- /baca-juga -->
 

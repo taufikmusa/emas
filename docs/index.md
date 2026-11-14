@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Kad emas Public Gold 5 gram berwarna ungu bercorak burung merak](assets/og-matlamat-gram.jpg){ loading=lazy }](artikel/apa-boleh-buat-dengan-10-gram-hingga-1-kilogram-emas.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Apa Yang Boleh Kita Buat Dengan 10 Gram Hingga 1 Kilogram Emas?](artikel/apa-boleh-buat-dengan-10-gram-hingga-1-kilogram-emas.md)**
+
+    Dari dana bulanan, pengajian anak, umrah dan deposit rumah hingga benteng keluarga. Tetapkan matlamat bagi setiap gram.
+
 - [![Taufik memegang jongkong emas Public Gold 100 gram](assets/og-ketagih.jpg){ loading=lazy }](artikel/ketagih-berbelanja-jadi-ketagih-menyimpan-emas-100-gram.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>

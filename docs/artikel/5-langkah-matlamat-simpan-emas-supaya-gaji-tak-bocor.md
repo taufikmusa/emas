@@ -85,9 +85,9 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 <!-- baca-juga -->
 ## Baca juga
 
+- [Apa Yang Boleh Kita Buat Dengan 10 Gram Hingga 1 Kilogram Emas?](apa-boleh-buat-dengan-10-gram-hingga-1-kilogram-emas.md)
 - [Dulu Ketagih Berbelanja, Sekarang Ketagih Menyimpan Emas](ketagih-berbelanja-jadi-ketagih-menyimpan-emas-100-gram.md)
 - [Log Kya Kahenge? Cukai Paling Mahal Dalam Masyarakat Kita](log-kya-kahenge-cukai-paling-mahal-masyarakat-kita.md)
-- [Dompet Macam Bawang, Setiap Kali Dibuka Buat Kita Menangis](dompet-macam-bawang-kebocoran-kecil-hakis-simpanan.md)
 
 <!-- /baca-juga -->
 
