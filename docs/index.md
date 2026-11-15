@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![12 tips simpan emas daripada Mahaguru Syukor Hashim](assets/og-syukor-tips.jpg){ loading=lazy }](artikel/12-tips-simpan-emas-mahaguru-syukor-hashim.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[12 Tips Simpan Emas Daripada Mahaguru Syukor Hashim](artikel/12-tips-simpan-emas-mahaguru-syukor-hashim.md)**
+
+    Disiplin ditambah automasi. Tips simpan emas yang tenang dan konsisten, termasuk Auto Debit GAP serendah RM100.
+
 - [![5 kesilapan besar apabila duit KWSP masuk akaun](assets/og-kwsp.jpg){ loading=lazy }](artikel/5-kesilapan-besar-duit-kwsp-masuk-akaun.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>

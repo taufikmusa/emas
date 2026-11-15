@@ -89,7 +89,7 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 
 - [Berapa Lama Kita Kena Simpan Emas Untuk Nampak Untung?](berapa-lama-simpan-emas-untuk-nampak-untung.md)
 - [5 Langkah Matlamat Simpan Emas Supaya Gaji Tak Bocor Setiap Bulan](5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)
-- [5 Kesilapan Besar Apabila Duit KWSP Masuk Akaun](5-kesilapan-besar-duit-kwsp-masuk-akaun.md)
+- [12 Tips Simpan Emas Daripada Mahaguru Syukor Hashim](12-tips-simpan-emas-mahaguru-syukor-hashim.md)
 
 <!-- /baca-juga -->
 
