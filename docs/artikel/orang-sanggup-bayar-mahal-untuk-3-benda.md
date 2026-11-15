@@ -72,9 +72,9 @@ Moga perkongsian ini bermanfaat.
 <!-- baca-juga -->
 ## Baca juga
 
+- [Kenapa Saya Galakkan Berbelanja Di PGMall?](kenapa-saya-galakkan-berbelanja-di-pgmall.md)
 - [Latihan 100 Kali Ditolak, Cara Menukar Kegagalan Menjadi Kejayaan](latihan-100-rejection-tukar-kegagalan-jadi-kejayaan.md)
 - [Jangan Cepat Beri Diskaun!](jangan-cepat-beri-diskaun.md)
-- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
 
 <!-- /baca-juga -->
 

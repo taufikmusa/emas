@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Banner Shake The World PGMall](assets/og-pgmall.jpg){ loading=lazy }](artikel/kenapa-saya-galakkan-berbelanja-di-pgmall.md)
+
+    <span class="cat-badge">Bisnes</span>
+
+    **[Kenapa Saya Galakkan Berbelanja Di PGMall?](artikel/kenapa-saya-galakkan-berbelanja-di-pgmall.md)**
+
+    Lima perkara tentang PGMall: ConsuMerchant, cashback dan SHOP, SHARE & EARN. Belanja bijak, bukan belanja lebih.
+
 - [![12 tips simpan emas daripada Mahaguru Syukor Hashim](assets/og-syukor-tips.jpg){ loading=lazy }](artikel/12-tips-simpan-emas-mahaguru-syukor-hashim.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>

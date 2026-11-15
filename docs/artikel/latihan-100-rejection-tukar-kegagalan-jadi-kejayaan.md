@@ -159,7 +159,7 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 
 - [Jangan Cepat Beri Diskaun!](jangan-cepat-beri-diskaun.md)
 - [Orang Sanggup Bayar Mahal Untuk 3 Benda Sahaja](orang-sanggup-bayar-mahal-untuk-3-benda.md)
-- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [Kenapa Saya Galakkan Berbelanja Di PGMall?](kenapa-saya-galakkan-berbelanja-di-pgmall.md)
 
 <!-- /baca-juga -->
 

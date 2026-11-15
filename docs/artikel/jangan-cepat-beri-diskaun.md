@@ -69,8 +69,8 @@ Setuju tak dengan perkongsian ni, tuan puan?
 ## Baca juga
 
 - [Orang Sanggup Bayar Mahal Untuk 3 Benda Sahaja](orang-sanggup-bayar-mahal-untuk-3-benda.md)
+- [Kenapa Saya Galakkan Berbelanja Di PGMall?](kenapa-saya-galakkan-berbelanja-di-pgmall.md)
 - [Latihan 100 Kali Ditolak, Cara Menukar Kegagalan Menjadi Kejayaan](latihan-100-rejection-tukar-kegagalan-jadi-kejayaan.md)
-- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
 
 <!-- /baca-juga -->
 
