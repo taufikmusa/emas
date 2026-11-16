@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Mindset paling power untuk RM1 juta pertama](assets/og-tukar-otak.jpg){ loading=lazy }](artikel/tukar-otak-dahulu-mindset-rm1-juta-pertama.md)
+
+    <span class="cat-badge">Kehidupan</span>
+
+    **[Tukar Otak Dahulu: Mindset Untuk RM1 Juta Pertama](artikel/tukar-otak-dahulu-mindset-rm1-juta-pertama.md)**
+
+    Tiga perkara untuk tukar cara fikir sebelum bina RM1 juta pertama: matlamat jelas, buku dan circle yang betul.
+
 - [![Nak buat personal loan tahun depan? Ada perubahan besar](assets/og-personal-loan-2027.jpg){ loading=lazy }](artikel/personal-loan-2027-flat-rate-rule-of-78-tamat.md)
 
     <span class="cat-badge">Kehidupan</span>

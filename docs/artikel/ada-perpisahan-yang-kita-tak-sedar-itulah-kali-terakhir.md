@@ -76,9 +76,9 @@ Dan mungkin, itu pun sebahagian daripada perjalanan hidup yang perlu kita terima
 <!-- baca-juga -->
 ## Baca juga
 
+- [Tukar Otak Dahulu: Mindset Untuk RM1 Juta Pertama](tukar-otak-dahulu-mindset-rm1-juta-pertama.md)
 - [Personal Loan 2027: Flat Rate Dan Rule of 78 Tamat](personal-loan-2027-flat-rate-rule-of-78-tamat.md)
 - [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
-- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
 
 <!-- /baca-juga -->
 

@@ -193,8 +193,8 @@ Bukan semua pinjaman yang bank luluskan bermaksud kita mampu menanggungnya.
 ## Baca juga
 
 - [Ada Perpisahan Yang Kita Tak Sedar Itulah Kali Terakhir.](ada-perpisahan-yang-kita-tak-sedar-itulah-kali-terakhir.md)
+- [Tukar Otak Dahulu: Mindset Untuk RM1 Juta Pertama](tukar-otak-dahulu-mindset-rm1-juta-pertama.md)
 - [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
-- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
 
 <!-- /baca-juga -->
 
