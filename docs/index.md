@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Bajet RM100,000 simpan emas, faham 3 pilihan sebelum beli](assets/og-bajet-100k.jpg){ loading=lazy }](artikel/bajet-rm100000-simpan-emas-faham-3-pilihan.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Bajet RM100,000 Simpan Emas? Faham 3 Pilihan Sebelum Beli](artikel/bajet-rm100000-simpan-emas-faham-3-pilihan.md)**
+
+    Gold bar 100 gram, 50 gram atau 10 gram? Bandingkan spread dan fleksibiliti ikut matlamat anda.
+
 - [![Banner Shake The World PGMall](assets/og-pgmall.jpg){ loading=lazy }](artikel/kenapa-saya-galakkan-berbelanja-di-pgmall.md)
 
     <span class="cat-badge">Bisnes</span>

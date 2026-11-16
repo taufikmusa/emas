@@ -85,9 +85,9 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 <!-- baca-juga -->
 ## Baca juga
 
+- [Bajet RM100,000 Simpan Emas? Faham 3 Pilihan Sebelum Beli](bajet-rm100000-simpan-emas-faham-3-pilihan.md)
 - [12 Tips Simpan Emas Daripada Mahaguru Syukor Hashim](12-tips-simpan-emas-mahaguru-syukor-hashim.md)
 - [5 Kesilapan Besar Apabila Duit KWSP Masuk Akaun](5-kesilapan-besar-duit-kwsp-masuk-akaun.md)
-- [Apa Yang Boleh Kita Buat Dengan 10 Gram Hingga 1 Kilogram Emas?](apa-boleh-buat-dengan-10-gram-hingga-1-kilogram-emas.md)
 
 <!-- /baca-juga -->
 
