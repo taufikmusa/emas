@@ -76,9 +76,9 @@ Dan mungkin, itu pun sebahagian daripada perjalanan hidup yang perlu kita terima
 <!-- baca-juga -->
 ## Baca juga
 
+- [Personal Loan 2027: Flat Rate Dan Rule of 78 Tamat](personal-loan-2027-flat-rate-rule-of-78-tamat.md)
 - [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
 - [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
-- [Cara Daftar Public Gold GAP: 5 Langkah Mula Simpan Emas (2026)](cara-daftar-public-gold-gap-2026.md)
 
 <!-- /baca-juga -->
 

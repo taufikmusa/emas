@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Nak buat personal loan tahun depan? Ada perubahan besar](assets/og-personal-loan-2027.jpg){ loading=lazy }](artikel/personal-loan-2027-flat-rate-rule-of-78-tamat.md)
+
+    <span class="cat-badge">Kehidupan</span>
+
+    **[Personal Loan 2027: Flat Rate Dan Rule of 78 Tamat](artikel/personal-loan-2027-flat-rate-rule-of-78-tamat.md)**
+
+    Mulai 1 Januari 2027, kaedah pengiraan faedah berubah. Fahami reducing balance, EIR dan EPR sebelum berhutang.
+
 - [![Bajet RM100,000 simpan emas, faham 3 pilihan sebelum beli](assets/og-bajet-100k.jpg){ loading=lazy }](artikel/bajet-rm100000-simpan-emas-faham-3-pilihan.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
