@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Pencen 5 tahun dari sekarang, mustahil ke](assets/og-pencen-5-tahun.jpg){ loading=lazy }](artikel/pencen-5-tahun-dari-sekarang-mustahil-ke.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Pencen 5 Tahun Dari Sekarang? Mustahil Ke?](artikel/pencen-5-tahun-dari-sekarang-mustahil-ke.md)**
+
+    Pencen bukan soal umur, tetapi soal kedudukan kewangan. Tiga perkara untuk dibina: tabungan, bebas hutang dan harta jana pendapatan.
+
 - [![Mindset paling power untuk RM1 juta pertama](assets/og-tukar-otak.jpg){ loading=lazy }](artikel/tukar-otak-dahulu-mindset-rm1-juta-pertama.md)
 
     <span class="cat-badge">Kehidupan</span>
