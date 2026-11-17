@@ -89,7 +89,7 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 
 - [Berapa Lama Kita Kena Simpan Emas Untuk Nampak Untung?](berapa-lama-simpan-emas-untuk-nampak-untung.md)
 - [5 Langkah Matlamat Simpan Emas Supaya Gaji Tak Bocor Setiap Bulan](5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)
-- [Bajet RM100,000 Simpan Emas? Faham 3 Pilihan Sebelum Beli](bajet-rm100000-simpan-emas-faham-3-pilihan.md)
+- [Pencen 5 Tahun Dari Sekarang? Mustahil Ke?](pencen-5-tahun-dari-sekarang-mustahil-ke.md)
 
 <!-- /baca-juga -->
 
