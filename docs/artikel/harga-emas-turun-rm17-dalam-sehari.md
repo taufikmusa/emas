@@ -117,7 +117,7 @@ Daftar percuma dan mula serendah RM100 ikut kemampuan, atau WhatsApp saya untuk 
 
 - [Harga Emas Pernah Cecah RM764, Kini RM571 Segram: Panik Atau Tambah Simpanan?](harga-emas-pernah-cecah-rm764-kini-rm571-segram.md)
 - [Harga Emas Jatuh RM16 Segram Dalam Sehari: Panik Atau Tambah Simpanan?](harga-emas-jatuh-rm16-segram-panik-atau-tambah-simpanan.md)
-- [Graf Harga Emas Setahun Nampak Merah, Tapi Graf Lima Tahun Menunjukkan Perkara Berbeza](graf-harga-emas-setahun-vs-lima-tahun.md)
+- [Harga Emas Turun Kepada RM542 Segram, Masa Fikir Semula Strategi Simpanan](harga-emas-turun-rm542-segram-fikir-semula-strategi.md)
 
 <!-- /baca-juga -->
 
