@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Harga GAP Public Gold 18 November 2026, RM542 segram](assets/og-harga-rm542.jpg){ loading=lazy }](artikel/harga-emas-turun-rm542-segram-fikir-semula-strategi.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Harga Emas Turun Kepada RM542 Segram, Masa Fikir Semula Strategi Simpanan](artikel/harga-emas-turun-rm542-segram-fikir-semula-strategi.md)**
+
+    RM100 dapat 0.1845 gram. Masa baik untuk fikir semula strategi: tiga jenis duit untuk emas dan DCA melalui GAP Auto-Debit.
+
 - [![Pencen 5 tahun dari sekarang, mustahil ke](assets/og-pencen-5-tahun.jpg){ loading=lazy }](artikel/pencen-5-tahun-dari-sekarang-mustahil-ke.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
