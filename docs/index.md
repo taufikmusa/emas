@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Promosi Public Gold 11.11 Emas Impian: beli 1KG Bullion Bar, percuma 5g Gold Bar](assets/og-kilobar-nov26.jpg){ loading=lazy }](artikel/harga-emas-antara-termurah-2026-promosi-1kg-bullion-bar.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Harga Emas Antara Termurah Sepanjang 2026, Promosi 1KG Bullion Bar Percuma 5g](artikel/harga-emas-antara-termurah-2026-promosi-1kg-bullion-bar.md)**
+
+    Harga emas jauh daripada paras tertinggi 2026. Untuk yang ada lebihan tunai besar, promosi 1KG Bullion Bar percuma 5g sehingga 30 November.
+
 - [![Harga GAP Public Gold 18 November 2026, RM542 segram](assets/og-harga-rm542.jpg){ loading=lazy }](artikel/harga-emas-turun-rm542-segram-fikir-semula-strategi.md)
 
     <span class="cat-badge">Harga Emas</span>
