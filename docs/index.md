@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Hari Lelaki Antarabangsa, apa tanggungjawab yang wajib direnungkan](assets/og-hari-lelaki.jpg){ loading=lazy }](artikel/hari-lelaki-antarabangsa-tanggungjawab-wajib-direnungkan.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[Hari Lelaki Antarabangsa: Tanggungjawab Yang Wajib Direnungkan](artikel/hari-lelaki-antarabangsa-tanggungjawab-wajib-direnungkan.md)**
+
+    Empat tanggungjawab lelaki dan konsep simpanan paksa, lupa dan automatik. Mula serendah RM100 melalui GAP.
+
 - [![Promosi Public Gold 11.11 Emas Impian: beli 1KG Bullion Bar, percuma 5g Gold Bar](assets/og-kilobar-nov26.jpg){ loading=lazy }](artikel/harga-emas-antara-termurah-2026-promosi-1kg-bullion-bar.md)
 
     <span class="cat-badge">Harga Emas</span>
