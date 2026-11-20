@@ -120,8 +120,8 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 ## Baca juga
 
 - [Harga Emas Jatuh RM16 Segram Dalam Sehari: Panik Atau Tambah Simpanan?](harga-emas-jatuh-rm16-segram-panik-atau-tambah-simpanan.md)
+- [Harga Emas Turun RM507 Segram, Penyimpan Emas Tak Perlu Panik](harga-emas-turun-rm507-segram-penyimpan-emas-tak-perlu-panik.md)
 - [Harga Emas Antara Termurah Sepanjang 2026, Promosi 1KG Bullion Bar Percuma 5g](harga-emas-antara-termurah-2026-promosi-1kg-bullion-bar.md)
-- [Harga Emas Turun Kepada RM542 Segram, Masa Fikir Semula Strategi Simpanan](harga-emas-turun-rm542-segram-fikir-semula-strategi.md)
 
 <!-- /baca-juga -->
 
