@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Harga GAP Public Gold 20 November 2026, RM507 segram](assets/og-harga-rm507.jpg){ loading=lazy }](artikel/harga-emas-turun-rm507-segram-penyimpan-emas-tak-perlu-panik.md)
+
+    <span class="cat-badge">Harga Emas</span>
+
+    **[Harga Emas Turun RM507 Segram, Penyimpan Emas Tak Perlu Panik](artikel/harga-emas-turun-rm507-segram-penyimpan-emas-tak-perlu-panik.md)**
+
+    RM100 dapat 0.1972 gram. Lima perkara penyimpan emas perlu faham bila harga turun: DCA, matlamat dan konsisten.
+
 - [![Hari Lelaki Antarabangsa, apa tanggungjawab yang wajib direnungkan](assets/og-hari-lelaki.jpg){ loading=lazy }](artikel/hari-lelaki-antarabangsa-tanggungjawab-wajib-direnungkan.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>

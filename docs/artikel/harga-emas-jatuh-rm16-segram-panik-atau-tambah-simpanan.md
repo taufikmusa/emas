@@ -116,9 +116,9 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 <!-- baca-juga -->
 ## Baca juga
 
+- [Harga Emas Turun RM507 Segram, Penyimpan Emas Tak Perlu Panik](harga-emas-turun-rm507-segram-penyimpan-emas-tak-perlu-panik.md)
 - [Harga Emas Antara Termurah Sepanjang 2026, Promosi 1KG Bullion Bar Percuma 5g](harga-emas-antara-termurah-2026-promosi-1kg-bullion-bar.md)
 - [Harga Emas Turun Kepada RM542 Segram, Masa Fikir Semula Strategi Simpanan](harga-emas-turun-rm542-segram-fikir-semula-strategi.md)
-- [Graf Harga Emas Setahun Nampak Merah, Tapi Graf Lima Tahun Menunjukkan Perkara Berbeza](graf-harga-emas-setahun-vs-lima-tahun.md)
 
 <!-- /baca-juga -->
 
