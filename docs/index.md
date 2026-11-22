@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![RM1 bersamaan 471,034 Rial Iran, paparan Google 20 November 2026](assets/og-rial-iran.jpg){ loading=lazy }](artikel/rm4000-bersamaan-188-bilion-rial-iran-kuasa-beli-duit.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[RM4,000 Sama Dengan 1.88 Bilion Rial Iran, Tapi Kita Bukan Bilionair](artikel/rm4000-bersamaan-188-bilion-rial-iran-kuasa-beli-duit.md)**
+
+    Angka besar tak bermakna kaya. Yang penting kuasa beli, dan kenapa emas boleh jadi sebahagian benteng simpanan.
+
 - [![Ustaz Azlan, jangan jadikan dunia ukuran kasih sayang Allah](assets/og-ukuran-kasih-sayang.jpg){ loading=lazy }](artikel/jangan-jadikan-dunia-ukuran-kasih-sayang-allah.md)
 
     <span class="cat-badge">Ibrah</span>
