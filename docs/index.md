@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Laporan Kosmo, 61 peratus rakyat tiada simpanan kecemasan RM1,000](assets/og-simpanan-kecemasan.jpg){ loading=lazy }](artikel/61-peratus-rakyat-tiada-simpanan-kecemasan-rm1000.md)
+
+    <span class="cat-badge">Matlamat Simpanan</span>
+
+    **[61 Peratus Rakyat Tiada Simpanan Kecemasan RM1,000, Kita Pula Macam Mana?](artikel/61-peratus-rakyat-tiada-simpanan-kecemasan-rm1000.md)**
+
+    Masalahnya bukan tak kerja keras, tapi belum ada sistem. Lima perkara untuk mula menabung, termasuk emas serendah RM100.
+
 - [![RM1 bersamaan 471,034 Rial Iran, paparan Google 20 November 2026](assets/og-rial-iran.jpg){ loading=lazy }](artikel/rm4000-bersamaan-188-bilion-rial-iran-kuasa-beli-duit.md)
 
     <span class="cat-badge">Matlamat Simpanan</span>
