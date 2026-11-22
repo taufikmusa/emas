@@ -85,9 +85,9 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 <!-- baca-juga -->
 ## Baca juga
 
+- [RM4,000 Sama Dengan 1.88 Bilion Rial Iran, Tapi Kita Bukan Bilionair](rm4000-bersamaan-188-bilion-rial-iran-kuasa-beli-duit.md)
 - [Hari Lelaki Antarabangsa: Tanggungjawab Yang Wajib Direnungkan](hari-lelaki-antarabangsa-tanggungjawab-wajib-direnungkan.md)
 - [Pencen 5 Tahun Dari Sekarang? Mustahil Ke?](pencen-5-tahun-dari-sekarang-mustahil-ke.md)
-- [Bajet RM100,000 Simpan Emas? Faham 3 Pilihan Sebelum Beli](bajet-rm100000-simpan-emas-faham-3-pilihan.md)
 
 <!-- /baca-juga -->
 
