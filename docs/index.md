@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Dr Hanzalah, Salamun Alaikum Bima Sabartum, ucapan malaikat kepada penghuni syurga](assets/og-salamun-alaikum.jpg){ loading=lazy }](artikel/salamun-alaikum-bima-sabartum-ucapan-malaikat-penghuni-syurga.md)
+
+    <span class="cat-badge">Ibrah</span>
+
+    **[Salamun Alaikum Bima Sabartum, Ucapan Malaikat Kepada Penghuni Syurga](artikel/salamun-alaikum-bima-sabartum-ucapan-malaikat-penghuni-syurga.md)**
+
+    Salam sejahtera atas segala kesabaran. Tiga bentuk sabar, dan renungan untuk ibu bapa anak istimewa.
+
 - [![Harga GAP Public Gold 20 November 2026, RM507 segram](assets/og-harga-rm507.jpg){ loading=lazy }](artikel/harga-emas-turun-rm507-segram-penyimpan-emas-tak-perlu-panik.md)
 
     <span class="cat-badge">Harga Emas</span>
