@@ -86,8 +86,8 @@ Kadang-kadang kita terlalu sibuk mencari jawapan kepada pelbagai persoalan kehid
 ## Baca juga
 
 - [Kisah Mus’ab bin Umayr: Pengorbanan Yang Menyentuh Hati](kisah-musab-bin-umayr-pengorbanan-yang-menyentuh-hati.md)
+- [Jangan Jadikan Dunia Ukuran Kasih Sayang Allah](jangan-jadikan-dunia-ukuran-kasih-sayang-allah.md)
 - [Salamun Alaikum Bima Sabartum, Ucapan Malaikat Kepada Penghuni Syurga](salamun-alaikum-bima-sabartum-ucapan-malaikat-penghuni-syurga.md)
-- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
 
 <!-- /baca-juga -->
 

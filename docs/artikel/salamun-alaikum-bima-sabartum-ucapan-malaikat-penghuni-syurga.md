@@ -100,7 +100,7 @@ Insya-Allah.
 
 - [Ringkasan Al-Quran Dalam 2 Minit, Empat Tema Utama Yang Perlu Kita Fahami](ringkasan-al-quran-dalam-2-minit-empat-tema-utama.md)
 - [Kisah Mus’ab bin Umayr: Pengorbanan Yang Menyentuh Hati](kisah-musab-bin-umayr-pengorbanan-yang-menyentuh-hati.md)
-- [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
+- [Jangan Jadikan Dunia Ukuran Kasih Sayang Allah](jangan-jadikan-dunia-ukuran-kasih-sayang-allah.md)
 
 <!-- /baca-juga -->
 
