@@ -47,6 +47,14 @@ Panduan dan ilmu emas untuk anda yang nak mulakan simpanan emas di Public Gold.
 
 <div class="grid cards" markdown>
 
+- [![Ustaz Azlan, jangan jadikan dunia ukuran kasih sayang Allah](assets/og-ukuran-kasih-sayang.jpg){ loading=lazy }](artikel/jangan-jadikan-dunia-ukuran-kasih-sayang-allah.md)
+
+    <span class="cat-badge">Ibrah</span>
+
+    **[Jangan Jadikan Dunia Ukuran Kasih Sayang Allah](artikel/jangan-jadikan-dunia-ukuran-kasih-sayang-allah.md)**
+
+    Orang senang tak semestinya dikasihi, orang susah tak semestinya ditinggalkan. Renungan daripada kehidupan para nabi.
+
 - [![Dr Hanzalah, Salamun Alaikum Bima Sabartum, ucapan malaikat kepada penghuni syurga](assets/og-salamun-alaikum.jpg){ loading=lazy }](artikel/salamun-alaikum-bima-sabartum-ucapan-malaikat-penghuni-syurga.md)
 
     <span class="cat-badge">Ibrah</span>
