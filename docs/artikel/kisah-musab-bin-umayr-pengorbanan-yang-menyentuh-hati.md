@@ -130,9 +130,9 @@ Moga perkongsian ini bermanfaat.
 <!-- baca-juga -->
 ## Baca juga
 
+- [Salamun Alaikum Bima Sabartum, Ucapan Malaikat Kepada Penghuni Syurga](salamun-alaikum-bima-sabartum-ucapan-malaikat-penghuni-syurga.md)
 - [Ringkasan Al-Quran Dalam 2 Minit, Empat Tema Utama Yang Perlu Kita Fahami](ringkasan-al-quran-dalam-2-minit-empat-tema-utama.md)
 - [Apa Itu Akaun GAP (Gold Accumulation Program) Public Gold](apa-itu-akaun-gap-gold-accumulation-program-public-gold.md)
-- [9 Soalan Lazim Sebelum Buka Akaun Emas GAP Public Gold](9-soalan-lazim-sebelum-buka-akaun-emas-gap.md)
 
 <!-- /baca-juga -->
 
