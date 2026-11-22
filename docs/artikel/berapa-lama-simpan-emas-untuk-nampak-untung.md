@@ -88,8 +88,8 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 ## Baca juga
 
 - [5 Langkah Matlamat Simpan Emas Supaya Gaji Tak Bocor Setiap Bulan](5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)
+- [61 Peratus Rakyat Tiada Simpanan Kecemasan RM1,000, Kita Pula Macam Mana?](61-peratus-rakyat-tiada-simpanan-kecemasan-rm1000.md)
 - [RM4,000 Sama Dengan 1.88 Bilion Rial Iran, Tapi Kita Bukan Bilionair](rm4000-bersamaan-188-bilion-rial-iran-kuasa-beli-duit.md)
-- [Hari Lelaki Antarabangsa: Tanggungjawab Yang Wajib Direnungkan](hari-lelaki-antarabangsa-tanggungjawab-wajib-direnungkan.md)
 
 <!-- /baca-juga -->
 

@@ -89,7 +89,7 @@ Daftar percuma dan mula dengan RM100, atau WhatsApp saya untuk bimbingan percuma
 
 - [Berapa Lama Kita Kena Simpan Emas Untuk Nampak Untung?](berapa-lama-simpan-emas-untuk-nampak-untung.md)
 - [5 Langkah Matlamat Simpan Emas Supaya Gaji Tak Bocor Setiap Bulan](5-langkah-matlamat-simpan-emas-supaya-gaji-tak-bocor.md)
-- [RM4,000 Sama Dengan 1.88 Bilion Rial Iran, Tapi Kita Bukan Bilionair](rm4000-bersamaan-188-bilion-rial-iran-kuasa-beli-duit.md)
+- [61 Peratus Rakyat Tiada Simpanan Kecemasan RM1,000, Kita Pula Macam Mana?](61-peratus-rakyat-tiada-simpanan-kecemasan-rm1000.md)
 
 <!-- /baca-juga -->
 
